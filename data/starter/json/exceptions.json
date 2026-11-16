@@ -1,0 +1,62 @@
+[
+  {
+    "issue_id": "ISS-000001",
+    "employee_id": "EMP-000001",
+    "course_id": "CRS-000002",
+    "issue_type": "PREREQUISITE_VIOLATION",
+    "severity": "HIGH",
+    "expected_result": "Block recommendation of CRS-000002 because prerequisite CRS-000001 is not completed.",
+    "actual_result": "Prerequisite CRS-000001 unsatisfied. Enrollment/Recommendation blocked.",
+    "detection_date": "2026-02-16 10:00:00",
+    "resolution_status": "OPEN",
+    "notes": "Automated verification identified missing mandatory foundational course completion."
+  },
+  {
+    "issue_id": "ISS-000002",
+    "employee_id": "EMP-000012",
+    "course_id": "CRS-000002",
+    "issue_type": "BUDGET_EXCEEDED",
+    "severity": "CRITICAL",
+    "expected_result": "Reject course CRS-000002 ($2200.0) due to insufficient department budget in Quality Assurance.",
+    "actual_result": "Department Quality Assurance budget insufficient for cost $2200.0. Recommendation flagged/rejected.",
+    "detection_date": "2026-02-16 10:15:00",
+    "resolution_status": "OPEN",
+    "notes": "Cost exceeds remaining departmental allocation threshold."
+  },
+  {
+    "issue_id": "ISS-000003",
+    "employee_id": "EMP-000059",
+    "course_id": "CRS-000045",
+    "issue_type": "DUPLICATE_COMPLETION",
+    "severity": "MEDIUM",
+    "expected_result": "Detect duplicate completion attempt for enrollment ENR-EMP-000059-CRS-000045 without deleting existing completion history.",
+    "actual_result": "Duplicate completion event detected for enrollment ENR-EMP-000059-CRS-000045. Handled idempotently, preserved history.",
+    "detection_date": "2026-02-16 10:30:00",
+    "resolution_status": "ACKNOWLEDGED",
+    "notes": "Secondary completion certificate generation intercepted by unique completion constraint."
+  },
+  {
+    "issue_id": "ISS-000004",
+    "employee_id": "EMP-000059",
+    "course_id": "CRS-000045",
+    "issue_type": "UNASSESSED_GAP",
+    "severity": "HIGH",
+    "expected_result": "Keep existing employee proficiency unchanged and flag pending formal skill reassessment.",
+    "actual_result": "Course marked completed, but skill proficiency held at prior level pending reassessment.",
+    "detection_date": "2026-02-16 10:45:00",
+    "resolution_status": "OPEN",
+    "notes": "Attendance and course completion do not automatically credit proficiency increase."
+  },
+  {
+    "issue_id": "ISS-000005",
+    "employee_id": "EMP-000003",
+    "course_id": "CRS-000100",
+    "issue_type": "COURSE_UNAVAILABLE",
+    "severity": "LOW",
+    "expected_result": "Exclude course CRS-000100 from recommended pathway because it is outside the planning period.",
+    "actual_result": "Course CRS-000100 filtered out during recommendation candidate generation.",
+    "detection_date": "2026-02-16 11:00:00",
+    "resolution_status": "RESOLVED",
+    "notes": "Course schedule lies outside the active 2026 fiscal planning window."
+  }
+]

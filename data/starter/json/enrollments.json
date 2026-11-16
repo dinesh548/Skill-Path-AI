@@ -1,0 +1,3472 @@
+[
+  {
+    "id": "ENR-EMP-000030-CRS-000078",
+    "employee_id": "EMP-000030",
+    "course_id": "CRS-000078",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000101-CRS-000073",
+    "employee_id": "EMP-000101",
+    "course_id": "CRS-000073",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000061-CRS-000038",
+    "employee_id": "EMP-000061",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000110-CRS-000029",
+    "employee_id": "EMP-000110",
+    "course_id": "CRS-000029",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000059-CRS-000045",
+    "employee_id": "EMP-000059",
+    "course_id": "CRS-000045",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000058-CRS-000003",
+    "employee_id": "EMP-000058",
+    "course_id": "CRS-000003",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000072-CRS-000073",
+    "employee_id": "EMP-000072",
+    "course_id": "CRS-000073",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000021-CRS-000087",
+    "employee_id": "EMP-000021",
+    "course_id": "CRS-000087",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000063-CRS-000033",
+    "employee_id": "EMP-000063",
+    "course_id": "CRS-000033",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000113-CRS-000033",
+    "employee_id": "EMP-000113",
+    "course_id": "CRS-000033",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000019-CRS-000070",
+    "employee_id": "EMP-000019",
+    "course_id": "CRS-000070",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000022-CRS-000084",
+    "employee_id": "EMP-000022",
+    "course_id": "CRS-000084",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000089-CRS-000083",
+    "employee_id": "EMP-000089",
+    "course_id": "CRS-000083",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000026-CRS-000041",
+    "employee_id": "EMP-000026",
+    "course_id": "CRS-000041",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000090-CRS-000078",
+    "employee_id": "EMP-000090",
+    "course_id": "CRS-000078",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000148-CRS-000085",
+    "employee_id": "EMP-000148",
+    "course_id": "CRS-000085",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000049-CRS-000011",
+    "employee_id": "EMP-000049",
+    "course_id": "CRS-000011",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000015-CRS-000014",
+    "employee_id": "EMP-000015",
+    "course_id": "CRS-000014",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000011-CRS-000004",
+    "employee_id": "EMP-000011",
+    "course_id": "CRS-000004",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000081-CRS-000011",
+    "employee_id": "EMP-000081",
+    "course_id": "CRS-000011",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000078-CRS-000010",
+    "employee_id": "EMP-000078",
+    "course_id": "CRS-000010",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000107-CRS-000082",
+    "employee_id": "EMP-000107",
+    "course_id": "CRS-000082",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000030-CRS-000096",
+    "employee_id": "EMP-000030",
+    "course_id": "CRS-000096",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 750.0
+  },
+  {
+    "id": "ENR-EMP-000039-CRS-000020",
+    "employee_id": "EMP-000039",
+    "course_id": "CRS-000020",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000043-CRS-000001",
+    "employee_id": "EMP-000043",
+    "course_id": "CRS-000001",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000101-CRS-000065",
+    "employee_id": "EMP-000101",
+    "course_id": "CRS-000065",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000112-CRS-000052",
+    "employee_id": "EMP-000112",
+    "course_id": "CRS-000052",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000029-CRS-000052",
+    "employee_id": "EMP-000029",
+    "course_id": "CRS-000052",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000074-CRS-000021",
+    "employee_id": "EMP-000074",
+    "course_id": "CRS-000021",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000111-CRS-000093",
+    "employee_id": "EMP-000111",
+    "course_id": "CRS-000093",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000049-CRS-000016",
+    "employee_id": "EMP-000049",
+    "course_id": "CRS-000016",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000039-CRS-000051",
+    "employee_id": "EMP-000039",
+    "course_id": "CRS-000051",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000122-CRS-000088",
+    "employee_id": "EMP-000122",
+    "course_id": "CRS-000088",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000105-CRS-000054",
+    "employee_id": "EMP-000105",
+    "course_id": "CRS-000054",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000084-CRS-000042",
+    "employee_id": "EMP-000084",
+    "course_id": "CRS-000042",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000121-CRS-000077",
+    "employee_id": "EMP-000121",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000090-CRS-000024",
+    "employee_id": "EMP-000090",
+    "course_id": "CRS-000024",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000041-CRS-000097",
+    "employee_id": "EMP-000041",
+    "course_id": "CRS-000097",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 500.0
+  },
+  {
+    "id": "ENR-EMP-000010-CRS-000074",
+    "employee_id": "EMP-000010",
+    "course_id": "CRS-000074",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000115-CRS-000042",
+    "employee_id": "EMP-000115",
+    "course_id": "CRS-000042",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000022-CRS-000030",
+    "employee_id": "EMP-000022",
+    "course_id": "CRS-000030",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000054-CRS-000034",
+    "employee_id": "EMP-000054",
+    "course_id": "CRS-000034",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000031-CRS-000070",
+    "employee_id": "EMP-000031",
+    "course_id": "CRS-000070",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000134-CRS-000086",
+    "employee_id": "EMP-000134",
+    "course_id": "CRS-000086",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000089-CRS-000034",
+    "employee_id": "EMP-000089",
+    "course_id": "CRS-000034",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000096-CRS-000092",
+    "employee_id": "EMP-000096",
+    "course_id": "CRS-000092",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000031-CRS-000012",
+    "employee_id": "EMP-000031",
+    "course_id": "CRS-000012",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000087-CRS-000057",
+    "employee_id": "EMP-000087",
+    "course_id": "CRS-000057",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000092-CRS-000096",
+    "employee_id": "EMP-000092",
+    "course_id": "CRS-000096",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 750.0
+  },
+  {
+    "id": "ENR-EMP-000102-CRS-000066",
+    "employee_id": "EMP-000102",
+    "course_id": "CRS-000066",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000032-CRS-000017",
+    "employee_id": "EMP-000032",
+    "course_id": "CRS-000017",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000057-CRS-000048",
+    "employee_id": "EMP-000057",
+    "course_id": "CRS-000048",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000055-CRS-000012",
+    "employee_id": "EMP-000055",
+    "course_id": "CRS-000012",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000058-CRS-000100",
+    "employee_id": "EMP-000058",
+    "course_id": "CRS-000100",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 750.0
+  },
+  {
+    "id": "ENR-EMP-000027-CRS-000023",
+    "employee_id": "EMP-000027",
+    "course_id": "CRS-000023",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000068-CRS-000060",
+    "employee_id": "EMP-000068",
+    "course_id": "CRS-000060",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000073-CRS-000014",
+    "employee_id": "EMP-000073",
+    "course_id": "CRS-000014",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000099-CRS-000057",
+    "employee_id": "EMP-000099",
+    "course_id": "CRS-000057",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000010-CRS-000037",
+    "employee_id": "EMP-000010",
+    "course_id": "CRS-000037",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000061-CRS-000095",
+    "employee_id": "EMP-000061",
+    "course_id": "CRS-000095",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000047-CRS-000006",
+    "employee_id": "EMP-000047",
+    "course_id": "CRS-000006",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000094-CRS-000077",
+    "employee_id": "EMP-000094",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000127-CRS-000040",
+    "employee_id": "EMP-000127",
+    "course_id": "CRS-000040",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000122-CRS-000056",
+    "employee_id": "EMP-000122",
+    "course_id": "CRS-000056",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000050-CRS-000005",
+    "employee_id": "EMP-000050",
+    "course_id": "CRS-000005",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000030-CRS-000038",
+    "employee_id": "EMP-000030",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000064-CRS-000091",
+    "employee_id": "EMP-000064",
+    "course_id": "CRS-000091",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000137-CRS-000048",
+    "employee_id": "EMP-000137",
+    "course_id": "CRS-000048",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000114-CRS-000097",
+    "employee_id": "EMP-000114",
+    "course_id": "CRS-000097",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 500.0
+  },
+  {
+    "id": "ENR-EMP-000115-CRS-000061",
+    "employee_id": "EMP-000115",
+    "course_id": "CRS-000061",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000135-CRS-000070",
+    "employee_id": "EMP-000135",
+    "course_id": "CRS-000070",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000025-CRS-000005",
+    "employee_id": "EMP-000025",
+    "course_id": "CRS-000005",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000074-CRS-000057",
+    "employee_id": "EMP-000074",
+    "course_id": "CRS-000057",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000086-CRS-000009",
+    "employee_id": "EMP-000086",
+    "course_id": "CRS-000009",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000043-CRS-000079",
+    "employee_id": "EMP-000043",
+    "course_id": "CRS-000079",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000030-CRS-000066",
+    "employee_id": "EMP-000030",
+    "course_id": "CRS-000066",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000038-CRS-000055",
+    "employee_id": "EMP-000038",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000052-CRS-000044",
+    "employee_id": "EMP-000052",
+    "course_id": "CRS-000044",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000073-CRS-000007",
+    "employee_id": "EMP-000073",
+    "course_id": "CRS-000007",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000133-CRS-000024",
+    "employee_id": "EMP-000133",
+    "course_id": "CRS-000024",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000034-CRS-000056",
+    "employee_id": "EMP-000034",
+    "course_id": "CRS-000056",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000065-CRS-000027",
+    "employee_id": "EMP-000065",
+    "course_id": "CRS-000027",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000072-CRS-000041",
+    "employee_id": "EMP-000072",
+    "course_id": "CRS-000041",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000124-CRS-000098",
+    "employee_id": "EMP-000124",
+    "course_id": "CRS-000098",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 500.0
+  },
+  {
+    "id": "ENR-EMP-000129-CRS-000023",
+    "employee_id": "EMP-000129",
+    "course_id": "CRS-000023",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000084-CRS-000094",
+    "employee_id": "EMP-000084",
+    "course_id": "CRS-000094",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000049-CRS-000045",
+    "employee_id": "EMP-000049",
+    "course_id": "CRS-000045",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000071-CRS-000018",
+    "employee_id": "EMP-000071",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000109-CRS-000061",
+    "employee_id": "EMP-000109",
+    "course_id": "CRS-000061",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000102-CRS-000100",
+    "employee_id": "EMP-000102",
+    "course_id": "CRS-000100",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000015-CRS-000004",
+    "employee_id": "EMP-000015",
+    "course_id": "CRS-000004",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000091-CRS-000070",
+    "employee_id": "EMP-000091",
+    "course_id": "CRS-000070",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000012-CRS-000036",
+    "employee_id": "EMP-000012",
+    "course_id": "CRS-000036",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000089-CRS-000060",
+    "employee_id": "EMP-000089",
+    "course_id": "CRS-000060",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000106-CRS-000053",
+    "employee_id": "EMP-000106",
+    "course_id": "CRS-000053",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000006-CRS-000046",
+    "employee_id": "EMP-000006",
+    "course_id": "CRS-000046",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000029-CRS-000038",
+    "employee_id": "EMP-000029",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000042-CRS-000049",
+    "employee_id": "EMP-000042",
+    "course_id": "CRS-000049",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000092-CRS-000077",
+    "employee_id": "EMP-000092",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000035-CRS-000081",
+    "employee_id": "EMP-000035",
+    "course_id": "CRS-000081",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000028-CRS-000033",
+    "employee_id": "EMP-000028",
+    "course_id": "CRS-000033",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000096-CRS-000003",
+    "employee_id": "EMP-000096",
+    "course_id": "CRS-000003",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000062-CRS-000039",
+    "employee_id": "EMP-000062",
+    "course_id": "CRS-000039",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000009-CRS-000095",
+    "employee_id": "EMP-000009",
+    "course_id": "CRS-000095",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000143-CRS-000021",
+    "employee_id": "EMP-000143",
+    "course_id": "CRS-000021",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000035-CRS-000017",
+    "employee_id": "EMP-000035",
+    "course_id": "CRS-000017",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000064-CRS-000037",
+    "employee_id": "EMP-000064",
+    "course_id": "CRS-000037",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000075-CRS-000017",
+    "employee_id": "EMP-000075",
+    "course_id": "CRS-000017",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000070-CRS-000030",
+    "employee_id": "EMP-000070",
+    "course_id": "CRS-000030",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000021-CRS-000066",
+    "employee_id": "EMP-000021",
+    "course_id": "CRS-000066",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000122-CRS-000055",
+    "employee_id": "EMP-000122",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000051-CRS-000022",
+    "employee_id": "EMP-000051",
+    "course_id": "CRS-000022",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000114-CRS-000016",
+    "employee_id": "EMP-000114",
+    "course_id": "CRS-000016",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000030-CRS-000086",
+    "employee_id": "EMP-000030",
+    "course_id": "CRS-000086",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000084-CRS-000085",
+    "employee_id": "EMP-000084",
+    "course_id": "CRS-000085",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000129-CRS-000084",
+    "employee_id": "EMP-000129",
+    "course_id": "CRS-000084",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000074-CRS-000042",
+    "employee_id": "EMP-000074",
+    "course_id": "CRS-000042",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000145-CRS-000002",
+    "employee_id": "EMP-000145",
+    "course_id": "CRS-000002",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000086-CRS-000068",
+    "employee_id": "EMP-000086",
+    "course_id": "CRS-000068",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000026-CRS-000070",
+    "employee_id": "EMP-000026",
+    "course_id": "CRS-000070",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000145-CRS-000064",
+    "employee_id": "EMP-000145",
+    "course_id": "CRS-000064",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000128-CRS-000044",
+    "employee_id": "EMP-000128",
+    "course_id": "CRS-000044",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000147-CRS-000099",
+    "employee_id": "EMP-000147",
+    "course_id": "CRS-000099",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 250.0
+  },
+  {
+    "id": "ENR-EMP-000037-CRS-000062",
+    "employee_id": "EMP-000037",
+    "course_id": "CRS-000062",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000079-CRS-000060",
+    "employee_id": "EMP-000079",
+    "course_id": "CRS-000060",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000018-CRS-000003",
+    "employee_id": "EMP-000018",
+    "course_id": "CRS-000003",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000086-CRS-000011",
+    "employee_id": "EMP-000086",
+    "course_id": "CRS-000011",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000062-CRS-000013",
+    "employee_id": "EMP-000062",
+    "course_id": "CRS-000013",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000097-CRS-000017",
+    "employee_id": "EMP-000097",
+    "course_id": "CRS-000017",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000012-CRS-000083",
+    "employee_id": "EMP-000012",
+    "course_id": "CRS-000083",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000032-CRS-000098",
+    "employee_id": "EMP-000032",
+    "course_id": "CRS-000098",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000140-CRS-000064",
+    "employee_id": "EMP-000140",
+    "course_id": "CRS-000064",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000007-CRS-000066",
+    "employee_id": "EMP-000007",
+    "course_id": "CRS-000066",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000038-CRS-000059",
+    "employee_id": "EMP-000038",
+    "course_id": "CRS-000059",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000058-CRS-000007",
+    "employee_id": "EMP-000058",
+    "course_id": "CRS-000007",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000068-CRS-000018",
+    "employee_id": "EMP-000068",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000010-CRS-000032",
+    "employee_id": "EMP-000010",
+    "course_id": "CRS-000032",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000019-CRS-000015",
+    "employee_id": "EMP-000019",
+    "course_id": "CRS-000015",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000046-CRS-000083",
+    "employee_id": "EMP-000046",
+    "course_id": "CRS-000083",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000133-CRS-000021",
+    "employee_id": "EMP-000133",
+    "course_id": "CRS-000021",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000091-CRS-000019",
+    "employee_id": "EMP-000091",
+    "course_id": "CRS-000019",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000040-CRS-000049",
+    "employee_id": "EMP-000040",
+    "course_id": "CRS-000049",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000079-CRS-000038",
+    "employee_id": "EMP-000079",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000013-CRS-000038",
+    "employee_id": "EMP-000013",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000046-CRS-000062",
+    "employee_id": "EMP-000046",
+    "course_id": "CRS-000062",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000018-CRS-000004",
+    "employee_id": "EMP-000018",
+    "course_id": "CRS-000004",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000113-CRS-000063",
+    "employee_id": "EMP-000113",
+    "course_id": "CRS-000063",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000138-CRS-000051",
+    "employee_id": "EMP-000138",
+    "course_id": "CRS-000051",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000073-CRS-000064",
+    "employee_id": "EMP-000073",
+    "course_id": "CRS-000064",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000058-CRS-000074",
+    "employee_id": "EMP-000058",
+    "course_id": "CRS-000074",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000009-CRS-000060",
+    "employee_id": "EMP-000009",
+    "course_id": "CRS-000060",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000140-CRS-000066",
+    "employee_id": "EMP-000140",
+    "course_id": "CRS-000066",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000099-CRS-000018",
+    "employee_id": "EMP-000099",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000140-CRS-000018",
+    "employee_id": "EMP-000140",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000071-CRS-000089",
+    "employee_id": "EMP-000071",
+    "course_id": "CRS-000089",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000010-CRS-000076",
+    "employee_id": "EMP-000010",
+    "course_id": "CRS-000076",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000080-CRS-000094",
+    "employee_id": "EMP-000080",
+    "course_id": "CRS-000094",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000132-CRS-000057",
+    "employee_id": "EMP-000132",
+    "course_id": "CRS-000057",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000052-CRS-000022",
+    "employee_id": "EMP-000052",
+    "course_id": "CRS-000022",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000138-CRS-000041",
+    "employee_id": "EMP-000138",
+    "course_id": "CRS-000041",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000022-CRS-000064",
+    "employee_id": "EMP-000022",
+    "course_id": "CRS-000064",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000081-CRS-000026",
+    "employee_id": "EMP-000081",
+    "course_id": "CRS-000026",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000092-CRS-000025",
+    "employee_id": "EMP-000092",
+    "course_id": "CRS-000025",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000097-CRS-000035",
+    "employee_id": "EMP-000097",
+    "course_id": "CRS-000035",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000134-CRS-000084",
+    "employee_id": "EMP-000134",
+    "course_id": "CRS-000084",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000005-CRS-000032",
+    "employee_id": "EMP-000005",
+    "course_id": "CRS-000032",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000066-CRS-000028",
+    "employee_id": "EMP-000066",
+    "course_id": "CRS-000028",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000061-CRS-000096",
+    "employee_id": "EMP-000061",
+    "course_id": "CRS-000096",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 750.0
+  },
+  {
+    "id": "ENR-EMP-000146-CRS-000052",
+    "employee_id": "EMP-000146",
+    "course_id": "CRS-000052",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000013-CRS-000042",
+    "employee_id": "EMP-000013",
+    "course_id": "CRS-000042",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000036-CRS-000064",
+    "employee_id": "EMP-000036",
+    "course_id": "CRS-000064",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000077-CRS-000077",
+    "employee_id": "EMP-000077",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000028-CRS-000048",
+    "employee_id": "EMP-000028",
+    "course_id": "CRS-000048",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000036-CRS-000048",
+    "employee_id": "EMP-000036",
+    "course_id": "CRS-000048",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000064-CRS-000033",
+    "employee_id": "EMP-000064",
+    "course_id": "CRS-000033",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000086-CRS-000050",
+    "employee_id": "EMP-000086",
+    "course_id": "CRS-000050",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000092-CRS-000058",
+    "employee_id": "EMP-000092",
+    "course_id": "CRS-000058",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000076-CRS-000038",
+    "employee_id": "EMP-000076",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000055-CRS-000020",
+    "employee_id": "EMP-000055",
+    "course_id": "CRS-000020",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000027-CRS-000034",
+    "employee_id": "EMP-000027",
+    "course_id": "CRS-000034",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000029-CRS-000042",
+    "employee_id": "EMP-000029",
+    "course_id": "CRS-000042",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000006-CRS-000044",
+    "employee_id": "EMP-000006",
+    "course_id": "CRS-000044",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000088-CRS-000082",
+    "employee_id": "EMP-000088",
+    "course_id": "CRS-000082",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000039-CRS-000014",
+    "employee_id": "EMP-000039",
+    "course_id": "CRS-000014",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000080-CRS-000054",
+    "employee_id": "EMP-000080",
+    "course_id": "CRS-000054",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000078-CRS-000012",
+    "employee_id": "EMP-000078",
+    "course_id": "CRS-000012",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000001-CRS-000018",
+    "employee_id": "EMP-000001",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000119-CRS-000037",
+    "employee_id": "EMP-000119",
+    "course_id": "CRS-000037",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000007-CRS-000076",
+    "employee_id": "EMP-000007",
+    "course_id": "CRS-000076",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000031-CRS-000077",
+    "employee_id": "EMP-000031",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000002-CRS-000036",
+    "employee_id": "EMP-000002",
+    "course_id": "CRS-000036",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000079-CRS-000055",
+    "employee_id": "EMP-000079",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000002-CRS-000086",
+    "employee_id": "EMP-000002",
+    "course_id": "CRS-000086",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000066-CRS-000025",
+    "employee_id": "EMP-000066",
+    "course_id": "CRS-000025",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000136-CRS-000056",
+    "employee_id": "EMP-000136",
+    "course_id": "CRS-000056",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000046-CRS-000056",
+    "employee_id": "EMP-000046",
+    "course_id": "CRS-000056",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000111-CRS-000026",
+    "employee_id": "EMP-000111",
+    "course_id": "CRS-000026",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000086-CRS-000057",
+    "employee_id": "EMP-000086",
+    "course_id": "CRS-000057",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000020-CRS-000067",
+    "employee_id": "EMP-000020",
+    "course_id": "CRS-000067",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000090-CRS-000097",
+    "employee_id": "EMP-000090",
+    "course_id": "CRS-000097",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 500.0
+  },
+  {
+    "id": "ENR-EMP-000103-CRS-000043",
+    "employee_id": "EMP-000103",
+    "course_id": "CRS-000043",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000124-CRS-000035",
+    "employee_id": "EMP-000124",
+    "course_id": "CRS-000035",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000082-CRS-000079",
+    "employee_id": "EMP-000082",
+    "course_id": "CRS-000079",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000100-CRS-000015",
+    "employee_id": "EMP-000100",
+    "course_id": "CRS-000015",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000039-CRS-000068",
+    "employee_id": "EMP-000039",
+    "course_id": "CRS-000068",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000141-CRS-000016",
+    "employee_id": "EMP-000141",
+    "course_id": "CRS-000016",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000036-CRS-000055",
+    "employee_id": "EMP-000036",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000067-CRS-000021",
+    "employee_id": "EMP-000067",
+    "course_id": "CRS-000021",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000086-CRS-000025",
+    "employee_id": "EMP-000086",
+    "course_id": "CRS-000025",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000099-CRS-000072",
+    "employee_id": "EMP-000099",
+    "course_id": "CRS-000072",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000094-CRS-000010",
+    "employee_id": "EMP-000094",
+    "course_id": "CRS-000010",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000108-CRS-000016",
+    "employee_id": "EMP-000108",
+    "course_id": "CRS-000016",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000112-CRS-000093",
+    "employee_id": "EMP-000112",
+    "course_id": "CRS-000093",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000103-CRS-000008",
+    "employee_id": "EMP-000103",
+    "course_id": "CRS-000008",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000055-CRS-000065",
+    "employee_id": "EMP-000055",
+    "course_id": "CRS-000065",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000126-CRS-000035",
+    "employee_id": "EMP-000126",
+    "course_id": "CRS-000035",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000060-CRS-000048",
+    "employee_id": "EMP-000060",
+    "course_id": "CRS-000048",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000050-CRS-000015",
+    "employee_id": "EMP-000050",
+    "course_id": "CRS-000015",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000103-CRS-000005",
+    "employee_id": "EMP-000103",
+    "course_id": "CRS-000005",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000115-CRS-000018",
+    "employee_id": "EMP-000115",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000059-CRS-000023",
+    "employee_id": "EMP-000059",
+    "course_id": "CRS-000023",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000015-CRS-000007",
+    "employee_id": "EMP-000015",
+    "course_id": "CRS-000007",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000127-CRS-000034",
+    "employee_id": "EMP-000127",
+    "course_id": "CRS-000034",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000022-CRS-000061",
+    "employee_id": "EMP-000022",
+    "course_id": "CRS-000061",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000087-CRS-000046",
+    "employee_id": "EMP-000087",
+    "course_id": "CRS-000046",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000076-CRS-000031",
+    "employee_id": "EMP-000076",
+    "course_id": "CRS-000031",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000027-CRS-000086",
+    "employee_id": "EMP-000027",
+    "course_id": "CRS-000086",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000128-CRS-000008",
+    "employee_id": "EMP-000128",
+    "course_id": "CRS-000008",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000135-CRS-000091",
+    "employee_id": "EMP-000135",
+    "course_id": "CRS-000091",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000125-CRS-000058",
+    "employee_id": "EMP-000125",
+    "course_id": "CRS-000058",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000116-CRS-000021",
+    "employee_id": "EMP-000116",
+    "course_id": "CRS-000021",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000143-CRS-000089",
+    "employee_id": "EMP-000143",
+    "course_id": "CRS-000089",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000028-CRS-000056",
+    "employee_id": "EMP-000028",
+    "course_id": "CRS-000056",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000082-CRS-000061",
+    "employee_id": "EMP-000082",
+    "course_id": "CRS-000061",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000052-CRS-000014",
+    "employee_id": "EMP-000052",
+    "course_id": "CRS-000014",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000069-CRS-000006",
+    "employee_id": "EMP-000069",
+    "course_id": "CRS-000006",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000005-CRS-000055",
+    "employee_id": "EMP-000005",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000067-CRS-000041",
+    "employee_id": "EMP-000067",
+    "course_id": "CRS-000041",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000001-CRS-000081",
+    "employee_id": "EMP-000001",
+    "course_id": "CRS-000081",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000144-CRS-000078",
+    "employee_id": "EMP-000144",
+    "course_id": "CRS-000078",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000018-CRS-000045",
+    "employee_id": "EMP-000018",
+    "course_id": "CRS-000045",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000046-CRS-000036",
+    "employee_id": "EMP-000046",
+    "course_id": "CRS-000036",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000004-CRS-000054",
+    "employee_id": "EMP-000004",
+    "course_id": "CRS-000054",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000012-CRS-000053",
+    "employee_id": "EMP-000012",
+    "course_id": "CRS-000053",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000112-CRS-000016",
+    "employee_id": "EMP-000112",
+    "course_id": "CRS-000016",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000039-CRS-000055",
+    "employee_id": "EMP-000039",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000111-CRS-000044",
+    "employee_id": "EMP-000111",
+    "course_id": "CRS-000044",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000123-CRS-000034",
+    "employee_id": "EMP-000123",
+    "course_id": "CRS-000034",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000041-CRS-000078",
+    "employee_id": "EMP-000041",
+    "course_id": "CRS-000078",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000120-CRS-000063",
+    "employee_id": "EMP-000120",
+    "course_id": "CRS-000063",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000096-CRS-000038",
+    "employee_id": "EMP-000096",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000071-CRS-000055",
+    "employee_id": "EMP-000071",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000068-CRS-000092",
+    "employee_id": "EMP-000068",
+    "course_id": "CRS-000092",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000055-CRS-000064",
+    "employee_id": "EMP-000055",
+    "course_id": "CRS-000064",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000025-CRS-000079",
+    "employee_id": "EMP-000025",
+    "course_id": "CRS-000079",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000121-CRS-000069",
+    "employee_id": "EMP-000121",
+    "course_id": "CRS-000069",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000007-CRS-000003",
+    "employee_id": "EMP-000007",
+    "course_id": "CRS-000003",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000135-CRS-000013",
+    "employee_id": "EMP-000135",
+    "course_id": "CRS-000013",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000045-CRS-000048",
+    "employee_id": "EMP-000045",
+    "course_id": "CRS-000048",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000015-CRS-000030",
+    "employee_id": "EMP-000015",
+    "course_id": "CRS-000030",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000059-CRS-000009",
+    "employee_id": "EMP-000059",
+    "course_id": "CRS-000009",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000121-CRS-000055",
+    "employee_id": "EMP-000121",
+    "course_id": "CRS-000055",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000121-CRS-000021",
+    "employee_id": "EMP-000121",
+    "course_id": "CRS-000021",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000047-CRS-000078",
+    "employee_id": "EMP-000047",
+    "course_id": "CRS-000078",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000023-CRS-000018",
+    "employee_id": "EMP-000023",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000133-CRS-000089",
+    "employee_id": "EMP-000133",
+    "course_id": "CRS-000089",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000030-CRS-000077",
+    "employee_id": "EMP-000030",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000067-CRS-000061",
+    "employee_id": "EMP-000067",
+    "course_id": "CRS-000061",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000135-CRS-000037",
+    "employee_id": "EMP-000135",
+    "course_id": "CRS-000037",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000116-CRS-000060",
+    "employee_id": "EMP-000116",
+    "course_id": "CRS-000060",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000137-CRS-000098",
+    "employee_id": "EMP-000137",
+    "course_id": "CRS-000098",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 500.0
+  },
+  {
+    "id": "ENR-EMP-000051-CRS-000021",
+    "employee_id": "EMP-000051",
+    "course_id": "CRS-000021",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000038-CRS-000015",
+    "employee_id": "EMP-000038",
+    "course_id": "CRS-000015",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000077-CRS-000024",
+    "employee_id": "EMP-000077",
+    "course_id": "CRS-000024",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000098-CRS-000043",
+    "employee_id": "EMP-000098",
+    "course_id": "CRS-000043",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000029-CRS-000006",
+    "employee_id": "EMP-000029",
+    "course_id": "CRS-000006",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000067-CRS-000100",
+    "employee_id": "EMP-000067",
+    "course_id": "CRS-000100",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 750.0
+  },
+  {
+    "id": "ENR-EMP-000148-CRS-000043",
+    "employee_id": "EMP-000148",
+    "course_id": "CRS-000043",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000099-CRS-000032",
+    "employee_id": "EMP-000099",
+    "course_id": "CRS-000032",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000086-CRS-000028",
+    "employee_id": "EMP-000086",
+    "course_id": "CRS-000028",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000036-CRS-000088",
+    "employee_id": "EMP-000036",
+    "course_id": "CRS-000088",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000100-CRS-000023",
+    "employee_id": "EMP-000100",
+    "course_id": "CRS-000023",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000057-CRS-000004",
+    "employee_id": "EMP-000057",
+    "course_id": "CRS-000004",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000012-CRS-000092",
+    "employee_id": "EMP-000012",
+    "course_id": "CRS-000092",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000071-CRS-000033",
+    "employee_id": "EMP-000071",
+    "course_id": "CRS-000033",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000083-CRS-000058",
+    "employee_id": "EMP-000083",
+    "course_id": "CRS-000058",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000150-CRS-000090",
+    "employee_id": "EMP-000150",
+    "course_id": "CRS-000090",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000056-CRS-000098",
+    "employee_id": "EMP-000056",
+    "course_id": "CRS-000098",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 500.0
+  },
+  {
+    "id": "ENR-EMP-000034-CRS-000054",
+    "employee_id": "EMP-000034",
+    "course_id": "CRS-000054",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000062-CRS-000078",
+    "employee_id": "EMP-000062",
+    "course_id": "CRS-000078",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000113-CRS-000002",
+    "employee_id": "EMP-000113",
+    "course_id": "CRS-000002",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000114-CRS-000057",
+    "employee_id": "EMP-000114",
+    "course_id": "CRS-000057",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000145-CRS-000098",
+    "employee_id": "EMP-000145",
+    "course_id": "CRS-000098",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 500.0
+  },
+  {
+    "id": "ENR-EMP-000061-CRS-000008",
+    "employee_id": "EMP-000061",
+    "course_id": "CRS-000008",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000018-CRS-000039",
+    "employee_id": "EMP-000018",
+    "course_id": "CRS-000039",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000085-CRS-000053",
+    "employee_id": "EMP-000085",
+    "course_id": "CRS-000053",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000010-CRS-000100",
+    "employee_id": "EMP-000010",
+    "course_id": "CRS-000100",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 750.0
+  },
+  {
+    "id": "ENR-EMP-000133-CRS-000099",
+    "employee_id": "EMP-000133",
+    "course_id": "CRS-000099",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 250.0
+  },
+  {
+    "id": "ENR-EMP-000067-CRS-000088",
+    "employee_id": "EMP-000067",
+    "course_id": "CRS-000088",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000096-CRS-000082",
+    "employee_id": "EMP-000096",
+    "course_id": "CRS-000082",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000063-CRS-000058",
+    "employee_id": "EMP-000063",
+    "course_id": "CRS-000058",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000019-CRS-000092",
+    "employee_id": "EMP-000019",
+    "course_id": "CRS-000092",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000106-CRS-000040",
+    "employee_id": "EMP-000106",
+    "course_id": "CRS-000040",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000146-CRS-000012",
+    "employee_id": "EMP-000146",
+    "course_id": "CRS-000012",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000077-CRS-000038",
+    "employee_id": "EMP-000077",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000128-CRS-000091",
+    "employee_id": "EMP-000128",
+    "course_id": "CRS-000091",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000010-CRS-000059",
+    "employee_id": "EMP-000010",
+    "course_id": "CRS-000059",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000044-CRS-000066",
+    "employee_id": "EMP-000044",
+    "course_id": "CRS-000066",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000009-CRS-000053",
+    "employee_id": "EMP-000009",
+    "course_id": "CRS-000053",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000018-CRS-000060",
+    "employee_id": "EMP-000018",
+    "course_id": "CRS-000060",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000038-CRS-000038",
+    "employee_id": "EMP-000038",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000127-CRS-000023",
+    "employee_id": "EMP-000127",
+    "course_id": "CRS-000023",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000081-CRS-000002",
+    "employee_id": "EMP-000081",
+    "course_id": "CRS-000002",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000136-CRS-000053",
+    "employee_id": "EMP-000136",
+    "course_id": "CRS-000053",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000013-CRS-000077",
+    "employee_id": "EMP-000013",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000100-CRS-000077",
+    "employee_id": "EMP-000100",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000129-CRS-000050",
+    "employee_id": "EMP-000129",
+    "course_id": "CRS-000050",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000134-CRS-000051",
+    "employee_id": "EMP-000134",
+    "course_id": "CRS-000051",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000022-CRS-000078",
+    "employee_id": "EMP-000022",
+    "course_id": "CRS-000078",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000100-CRS-000005",
+    "employee_id": "EMP-000100",
+    "course_id": "CRS-000005",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 299.0
+  },
+  {
+    "id": "ENR-EMP-000098-CRS-000079",
+    "employee_id": "EMP-000098",
+    "course_id": "CRS-000079",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000032-CRS-000070",
+    "employee_id": "EMP-000032",
+    "course_id": "CRS-000070",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000041-CRS-000066",
+    "employee_id": "EMP-000041",
+    "course_id": "CRS-000066",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000080-CRS-000052",
+    "employee_id": "EMP-000080",
+    "course_id": "CRS-000052",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000090-CRS-000009",
+    "employee_id": "EMP-000090",
+    "course_id": "CRS-000009",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000081-CRS-000009",
+    "employee_id": "EMP-000081",
+    "course_id": "CRS-000009",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000071-CRS-000038",
+    "employee_id": "EMP-000071",
+    "course_id": "CRS-000038",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 850.0
+  },
+  {
+    "id": "ENR-EMP-000131-CRS-000049",
+    "employee_id": "EMP-000131",
+    "course_id": "CRS-000049",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000102-CRS-000003",
+    "employee_id": "EMP-000102",
+    "course_id": "CRS-000003",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000150-CRS-000002",
+    "employee_id": "EMP-000150",
+    "course_id": "CRS-000002",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000029-CRS-000033",
+    "employee_id": "EMP-000029",
+    "course_id": "CRS-000033",
+    "enrollment_date": "2026-01-20",
+    "status": "PENDING",
+    "approved_by": null,
+    "approval_date": null,
+    "cost_charged": 0.0
+  },
+  {
+    "id": "ENR-EMP-000102-CRS-000039",
+    "employee_id": "EMP-000102",
+    "course_id": "CRS-000039",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000149-CRS-000033",
+    "employee_id": "EMP-000149",
+    "course_id": "CRS-000033",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000144-CRS-000075",
+    "employee_id": "EMP-000144",
+    "course_id": "CRS-000075",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000140-CRS-000077",
+    "employee_id": "EMP-000140",
+    "course_id": "CRS-000077",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000040-CRS-000054",
+    "employee_id": "EMP-000040",
+    "course_id": "CRS-000054",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000079-CRS-000030",
+    "employee_id": "EMP-000079",
+    "course_id": "CRS-000030",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000034-CRS-000059",
+    "employee_id": "EMP-000034",
+    "course_id": "CRS-000059",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000097-CRS-000028",
+    "employee_id": "EMP-000097",
+    "course_id": "CRS-000028",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1200.0
+  },
+  {
+    "id": "ENR-EMP-000034-CRS-000011",
+    "employee_id": "EMP-000034",
+    "course_id": "CRS-000011",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000014-CRS-000051",
+    "employee_id": "EMP-000014",
+    "course_id": "CRS-000051",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000085-CRS-000044",
+    "employee_id": "EMP-000085",
+    "course_id": "CRS-000044",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 199.0
+  },
+  {
+    "id": "ENR-EMP-000064-CRS-000068",
+    "employee_id": "EMP-000064",
+    "course_id": "CRS-000068",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  },
+  {
+    "id": "ENR-EMP-000014-CRS-000018",
+    "employee_id": "EMP-000014",
+    "course_id": "CRS-000018",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 600.0
+  },
+  {
+    "id": "ENR-EMP-000093-CRS-000071",
+    "employee_id": "EMP-000093",
+    "course_id": "CRS-000071",
+    "enrollment_date": "2026-01-20",
+    "status": "APPROVED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 2200.0
+  },
+  {
+    "id": "ENR-EMP-000089-CRS-000017",
+    "employee_id": "EMP-000089",
+    "course_id": "CRS-000017",
+    "enrollment_date": "2026-01-20",
+    "status": "IN_PROGRESS",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 450.0
+  },
+  {
+    "id": "ENR-EMP-000115-CRS-000036",
+    "employee_id": "EMP-000115",
+    "course_id": "CRS-000036",
+    "enrollment_date": "2026-01-20",
+    "status": "COMPLETED",
+    "approved_by": "Dept Manager",
+    "approval_date": "2026-01-22",
+    "cost_charged": 1500.0
+  }
+]

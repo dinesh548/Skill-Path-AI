@@ -1,0 +1,101 @@
+id,title,provider,cost,duration_hours,capacity,enrolled_count,start_date,end_date,status,description
+CRS-000001,Python Mastery: Practical Enterprise Skills,Coursera Enterprise,850.0,8,40,1,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Python.
+CRS-000002,Python Mastery: Practical Enterprise Skills,AWS Training,2200.0,8,20,4,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Python.
+CRS-000003,JavaScript Mastery: Practical Enterprise Skills,Coursera Enterprise,600.0,60,20,5,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering JavaScript.
+CRS-000004,Professional JavaScript Bootcamp,Coursera Enterprise,850.0,24,50,4,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering JavaScript.
+CRS-000005,TypeScript Mastery: Practical Enterprise Skills,AWS Training,299.0,16,30,4,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering TypeScript.
+CRS-000006,TypeScript Mastery: Practical Enterprise Skills,Google Cloud Skills Boost,850.0,32,50,3,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering TypeScript.
+CRS-000007,Go Mastery: Practical Enterprise Skills,Udemy Business,2200.0,16,30,2,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Go.
+CRS-000008,Java Mastery: Practical Enterprise Skills,Pluralsight,600.0,40,30,3,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Java.
+CRS-000009,Professional C++ Bootcamp,SkillPath Academy,1500.0,16,20,4,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering C++.
+CRS-000010,Professional Rust Bootcamp,Pluralsight,2200.0,24,20,2,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Rust.
+CRS-000011,Professional C# Bootcamp,Coursera Enterprise,2200.0,60,20,4,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering C#.
+CRS-000012,Kotlin Mastery: Practical Enterprise Skills,Coursera Enterprise,850.0,16,50,4,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Kotlin.
+CRS-000013,Swift Mastery: Practical Enterprise Skills,O'Reilly Learning,199.0,8,50,2,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Swift.
+CRS-000014,Swift Mastery: Practical Enterprise Skills,AWS Training,199.0,32,40,4,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Swift.
+CRS-000015,React Mastery: Practical Enterprise Skills,AWS Training,450.0,16,40,4,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering React.
+CRS-000016,Professional React Bootcamp,Google Cloud Skills Boost,600.0,8,30,4,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering React.
+CRS-000017,Node.js Mastery: Practical Enterprise Skills,Linux Foundation,450.0,16,50,4,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Node.js.
+CRS-000018,Professional FastAPI Bootcamp,Coursera Enterprise,600.0,24,30,8,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering FastAPI.
+CRS-000019,Professional FastAPI Bootcamp,AWS Training,199.0,16,20,1,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering FastAPI.
+CRS-000020,Professional Django Bootcamp,O'Reilly Learning,450.0,8,40,2,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Django.
+CRS-000021,Spring Boot Mastery: Practical Enterprise Skills,Pluralsight,199.0,40,50,7,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Spring Boot.
+CRS-000022,Spring Boot Mastery: Practical Enterprise Skills,AWS Training,2200.0,16,50,2,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Spring Boot.
+CRS-000023,Professional GraphQL Bootcamp,Udemy Business,1500.0,60,20,4,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering GraphQL.
+CRS-000024,RESTful APIs Mastery: Practical Enterprise Skills,Udemy Business,1200.0,60,30,3,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering RESTful APIs.
+CRS-000025,HTML5/CSS3 Mastery: Practical Enterprise Skills,Udemy Business,299.0,24,40,3,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering HTML5/CSS3.
+CRS-000026,Professional HTML5/CSS3 Bootcamp,DeepLearning.AI,1500.0,16,20,1,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering HTML5/CSS3.
+CRS-000027,Professional Next.js Bootcamp,Pluralsight,199.0,24,50,1,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Next.js.
+CRS-000028,Professional Vue.js Bootcamp,Linux Foundation,1200.0,32,20,3,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Vue.js.
+CRS-000029,Professional Vue.js Bootcamp,Udemy Business,299.0,16,50,1,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Vue.js.
+CRS-000030,Professional Express.js Bootcamp,Linux Foundation,450.0,60,50,4,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Express.js.
+CRS-000031,Angular Mastery: Practical Enterprise Skills,Coursera Enterprise,850.0,32,20,0,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Angular.
+CRS-000032,Professional Angular Bootcamp,Pluralsight,1200.0,8,30,3,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Angular.
+CRS-000033,WebAssembly Mastery: Practical Enterprise Skills,Pluralsight,2200.0,24,30,6,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering WebAssembly.
+CRS-000034,Professional WebAssembly Bootcamp,DeepLearning.AI,450.0,24,20,4,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering WebAssembly.
+CRS-000035,Professional AsyncIO Bootcamp,SkillPath Academy,299.0,60,40,3,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering AsyncIO.
+CRS-000036,Professional AsyncIO Bootcamp,Pluralsight,1500.0,16,50,3,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering AsyncIO.
+CRS-000037,Professional Microservices Bootcamp,Coursera Enterprise,299.0,16,50,4,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Microservices.
+CRS-000038,Professional SQL Bootcamp,AWS Training,850.0,16,40,8,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering SQL.
+CRS-000039,Professional Pandas Bootcamp,Pluralsight,1500.0,16,50,3,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Pandas.
+CRS-000040,Professional NumPy Bootcamp,DeepLearning.AI,450.0,32,30,1,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering NumPy.
+CRS-000041,Apache Spark Mastery: Practical Enterprise Skills,Pluralsight,1200.0,40,50,4,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Apache Spark.
+CRS-000042,Professional Apache Spark Bootcamp,AWS Training,1500.0,8,40,5,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Apache Spark.
+CRS-000043,Professional Machine Learning Bootcamp,O'Reilly Learning,199.0,60,30,3,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Machine Learning.
+CRS-000044,Professional Deep Learning Bootcamp,Udemy Business,199.0,24,20,5,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Deep Learning.
+CRS-000045,Professional Deep Learning Bootcamp,DeepLearning.AI,199.0,8,30,3,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Deep Learning.
+CRS-000046,PyTorch Mastery: Practical Enterprise Skills,Pluralsight,199.0,60,50,2,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering PyTorch.
+CRS-000047,Professional TensorFlow Bootcamp,O'Reilly Learning,199.0,32,30,0,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering TensorFlow.
+CRS-000048,Professional Data Warehousing Bootcamp,AWS Training,450.0,16,50,4,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Data Warehousing.
+CRS-000049,BigQuery Mastery: Practical Enterprise Skills,SkillPath Academy,199.0,24,30,3,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering BigQuery.
+CRS-000050,Professional Snowflake Bootcamp,Pluralsight,450.0,40,20,2,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Snowflake.
+CRS-000051,Snowflake Mastery: Practical Enterprise Skills,Coursera Enterprise,2200.0,16,40,4,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Snowflake.
+CRS-000052,Professional dbt Bootcamp,Udemy Business,1500.0,8,30,4,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering dbt.
+CRS-000053,dbt Mastery: Practical Enterprise Skills,Google Cloud Skills Boost,600.0,40,40,5,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering dbt.
+CRS-000054,Professional Airflow Bootcamp,Linux Foundation,2200.0,40,50,5,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Airflow.
+CRS-000055,Airflow Mastery: Practical Enterprise Skills,AWS Training,2200.0,32,30,8,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Airflow.
+CRS-000056,Professional Data Modeling Bootcamp,Udemy Business,850.0,24,20,5,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Data Modeling.
+CRS-000057,Data Modeling Mastery: Practical Enterprise Skills,Coursera Enterprise,2200.0,60,20,5,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Data Modeling.
+CRS-000058,MLOps Mastery: Practical Enterprise Skills,Google Cloud Skills Boost,850.0,8,40,3,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering MLOps.
+CRS-000059,NLP Mastery: Practical Enterprise Skills,Google Cloud Skills Boost,1200.0,16,40,2,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering NLP.
+CRS-000060,Professional Computer Vision Bootcamp,DeepLearning.AI,600.0,32,50,5,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Computer Vision.
+CRS-000061,Computer Vision Mastery: Practical Enterprise Skills,Linux Foundation,600.0,32,50,4,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Computer Vision.
+CRS-000062,Professional LLMs & Prompt Engineering Bootcamp,Linux Foundation,299.0,8,30,2,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering LLMs & Prompt Engineering.
+CRS-000063,Vector Databases Mastery: Practical Enterprise Skills,O'Reilly Learning,199.0,60,30,2,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Vector Databases.
+CRS-000064,Statistical Analysis Mastery: Practical Enterprise Skills,O'Reilly Learning,600.0,16,20,5,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Statistical Analysis.
+CRS-000065,Professional Statistical Analysis Bootcamp,O'Reilly Learning,450.0,60,40,2,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Statistical Analysis.
+CRS-000066,Scikit-learn Mastery: Practical Enterprise Skills,O'Reilly Learning,600.0,8,20,7,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Scikit-learn.
+CRS-000067,Professional Scikit-learn Bootcamp,Pluralsight,450.0,60,20,1,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Scikit-learn.
+CRS-000068,Hadoop Mastery: Practical Enterprise Skills,AWS Training,1500.0,40,20,3,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Hadoop.
+CRS-000069,Professional Tableau Bootcamp,Pluralsight,1500.0,8,40,1,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Tableau.
+CRS-000070,Professional Power BI Bootcamp,DeepLearning.AI,850.0,40,40,5,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Power BI.
+CRS-000071,Professional Power BI Bootcamp,Pluralsight,2200.0,16,50,1,2026-06-01,2026-09-28,AVAILABLE,Comprehensive hands-on training curriculum covering Power BI.
+CRS-000072,Feature Store Mastery: Practical Enterprise Skills,Udemy Business,1500.0,24,20,1,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Feature Store.
+CRS-000073,Docker Mastery: Practical Enterprise Skills,SkillPath Academy,299.0,32,40,2,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Docker.
+CRS-000074,Kubernetes Mastery: Practical Enterprise Skills,Udemy Business,1200.0,16,20,2,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Kubernetes.
+CRS-000075,Professional Kubernetes Bootcamp,Coursera Enterprise,1200.0,24,40,1,2026-02-01,2026-05-28,AVAILABLE,Comprehensive hands-on training curriculum covering Kubernetes.
+CRS-000076,AWS Architecture Mastery: Practical Enterprise Skills,AWS Training,2200.0,16,20,2,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering AWS Architecture.
+CRS-000077,Professional Google Cloud Platform Bootcamp,AWS Training,600.0,60,20,7,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Google Cloud Platform.
+CRS-000078,Professional Microsoft Azure Bootcamp,Pluralsight,850.0,60,40,4,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Microsoft Azure.
+CRS-000079,Terraform Mastery: Practical Enterprise Skills,O'Reilly Learning,600.0,32,30,4,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Terraform.
+CRS-000080,Professional Terraform Bootcamp,Udemy Business,600.0,40,40,0,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Terraform.
+CRS-000081,Professional CI/CD Pipelines Bootcamp,O'Reilly Learning,1200.0,60,30,2,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering CI/CD Pipelines.
+CRS-000082,Professional CI/CD Pipelines Bootcamp,Google Cloud Skills Boost,299.0,40,20,3,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering CI/CD Pipelines.
+CRS-000083,Professional Linux Administration Bootcamp,Pluralsight,299.0,60,40,3,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Linux Administration.
+CRS-000084,Professional Linux Administration Bootcamp,DeepLearning.AI,1500.0,60,40,3,2026-05-01,2026-08-28,AVAILABLE,Comprehensive hands-on training curriculum covering Linux Administration.
+CRS-000085,Professional Prometheus & Grafana Bootcamp,Coursera Enterprise,2200.0,24,40,2,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Prometheus & Grafana.
+CRS-000086,Prometheus & Grafana Mastery: Practical Enterprise Skills,Google Cloud Skills Boost,450.0,60,30,4,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Prometheus & Grafana.
+CRS-000087,Professional GitLab CI Bootcamp,AWS Training,299.0,8,40,1,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering GitLab CI.
+CRS-000088,Professional GitHub Actions Bootcamp,Google Cloud Skills Boost,850.0,32,30,3,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering GitHub Actions.
+CRS-000089,Professional Ansible Bootcamp,O'Reilly Learning,850.0,40,20,3,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Ansible.
+CRS-000090,Professional Ansible Bootcamp,SkillPath Academy,600.0,40,30,1,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Ansible.
+CRS-000091,Professional Helm Charts Bootcamp,Linux Foundation,1500.0,40,30,3,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Helm Charts.
+CRS-000092,Professional Helm Charts Bootcamp,Google Cloud Skills Boost,850.0,16,50,3,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Helm Charts.
+CRS-000093,Serverless Computing Mastery: Practical Enterprise Skills,Coursera Enterprise,600.0,24,40,1,2026-01-01,2026-04-28,AVAILABLE,Comprehensive hands-on training curriculum covering Serverless Computing.
+CRS-000094,Serverless Computing Mastery: Practical Enterprise Skills,DeepLearning.AI,1500.0,8,50,2,2026-03-01,2026-06-28,AVAILABLE,Comprehensive hands-on training curriculum covering Serverless Computing.
+CRS-000095,Service Mesh (Istio) Mastery: Practical Enterprise Skills,AWS Training,1500.0,24,20,2,2026-04-01,2026-07-28,AVAILABLE,Comprehensive hands-on training curriculum covering Service Mesh (Istio).
+CRS-000096,Advanced Java Applications,Linux Foundation,750.0,20,50,3,2026-02-01,2026-06-30,AVAILABLE,Deep dive into advanced topics of Java.
+CRS-000097,Advanced Docker Applications,Linux Foundation,500.0,45,35,3,2026-02-01,2026-06-30,AVAILABLE,Deep dive into advanced topics of Docker.
+CRS-000098,Advanced Kotlin Applications,AWS Training,500.0,45,35,4,2026-02-01,2026-06-30,AVAILABLE,Deep dive into advanced topics of Kotlin.
+CRS-000099,Advanced Microservices Applications,Linux Foundation,250.0,45,50,2,2026-02-01,2026-06-30,AVAILABLE,Deep dive into advanced topics of Microservices.
+CRS-000100,Advanced React Applications,Coursera Enterprise,750.0,45,25,3,2025-01-01,2025-06-01,EXPIRED,Deep dive into advanced topics of React.

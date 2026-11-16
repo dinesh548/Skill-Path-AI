@@ -1,0 +1,25 @@
+id,title,department,level,next_role_id,description
+ROL-000001,Junior Software Engineer,Engineering,Junior,ROL-000002,Role responsible for Junior Software Engineer competencies within Engineering.
+ROL-000002,Software Engineer,Engineering,Mid,ROL-000003,Role responsible for Software Engineer competencies within Engineering.
+ROL-000003,Senior Software Engineer,Engineering,Senior,ROL-000004,Role responsible for Senior Software Engineer competencies within Engineering.
+ROL-000004,Staff Software Engineer,Engineering,Lead,ROL-000005,Role responsible for Staff Software Engineer competencies within Engineering.
+ROL-000005,Principal Architect,Engineering,Principal,,Role responsible for Principal Architect competencies within Engineering.
+ROL-000006,Junior Frontend Developer,Engineering,Junior,ROL-000007,Role responsible for Junior Frontend Developer competencies within Engineering.
+ROL-000007,Frontend Developer,Engineering,Mid,ROL-000008,Role responsible for Frontend Developer competencies within Engineering.
+ROL-000008,Senior Frontend Developer,Engineering,Senior,ROL-000005,Role responsible for Senior Frontend Developer competencies within Engineering.
+ROL-000009,Junior Data Analyst,Data Science,Junior,ROL-000010,Role responsible for Junior Data Analyst competencies within Data Science.
+ROL-000010,Data Analyst,Data Science,Mid,ROL-000011,Role responsible for Data Analyst competencies within Data Science.
+ROL-000011,Senior Data Scientist,Data Science,Senior,ROL-000012,Role responsible for Senior Data Scientist competencies within Data Science.
+ROL-000012,Principal AI Architect,Data Science,Principal,,Role responsible for Principal AI Architect competencies within Data Science.
+ROL-000013,Junior Cloud Engineer,Cloud Infrastructure,Junior,ROL-000014,Role responsible for Junior Cloud Engineer competencies within Cloud Infrastructure.
+ROL-000014,Cloud DevOps Engineer,Cloud Infrastructure,Mid,ROL-000015,Role responsible for Cloud DevOps Engineer competencies within Cloud Infrastructure.
+ROL-000015,Senior Cloud Solutions Architect,Cloud Infrastructure,Senior,,Role responsible for Senior Cloud Solutions Architect competencies within Cloud Infrastructure.
+ROL-000016,Junior SOC Analyst,Cybersecurity,Junior,ROL-000017,Role responsible for Junior SOC Analyst competencies within Cybersecurity.
+ROL-000017,Information Security Engineer,Cybersecurity,Mid,ROL-000018,Role responsible for Information Security Engineer competencies within Cybersecurity.
+ROL-000018,Lead Cyber Architect,Cybersecurity,Senior,,Role responsible for Lead Cyber Architect competencies within Cybersecurity.
+ROL-000019,Associate Product Manager,Product Management,Junior,ROL-000020,Role responsible for Associate Product Manager competencies within Product Management.
+ROL-000020,Technical Product Manager,Product Management,Mid,ROL-000021,Role responsible for Technical Product Manager competencies within Product Management.
+ROL-000021,Director of Product,Product Management,Principal,,Role responsible for Director of Product competencies within Product Management.
+ROL-000022,Junior QA Specialist,Quality Assurance,Junior,ROL-000023,Role responsible for Junior QA Specialist competencies within Quality Assurance.
+ROL-000023,QA Automation Engineer,Quality Assurance,Mid,ROL-000024,Role responsible for QA Automation Engineer competencies within Quality Assurance.
+ROL-000024,Lead SDET Architect,Quality Assurance,Senior,,Role responsible for Lead SDET Architect competencies within Quality Assurance.

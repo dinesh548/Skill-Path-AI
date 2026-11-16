@@ -1,0 +1,6 @@
+issue_id,case_number,case_name,employee_id,course_id,expected_decision,description
+ISS-000001,1,PREREQUISITE_VIOLATION,EMP-000001,CRS-000002,BLOCKED,Course requires prerequisite course that employee has not completed.
+ISS-000002,2,BUDGET_EXCEEDED,EMP-000012,CRS-000002,REJECTED,Department remaining balance is insufficient for requested course fee.
+ISS-000003,3,DUPLICATE_COMPLETION,EMP-000059,CRS-000045,FLAGGED_DUPLICATE,Enrollment already has an existing verified completion record.
+ISS-000004,4,UNASSESSED_GAP,EMP-000059,CRS-000045,HELD_UNMODIFIED,Completion recorded but post-training evaluation exam not yet completed.
+ISS-000005,5,COURSE_UNAVAILABLE,EMP-000003,CRS-000100,EXCLUDED,Course schedule is expired or status is inactive.

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ROL-000001",
+    "title": "Junior Software Engineer",
+    "department": "Engineering",
+    "level": "Junior",
+    "next_role_id": "ROL-000002",
+    "description": "Role responsible for Junior Software Engineer competencies within Engineering."
+  },
+  {
+    "id": "ROL-000002",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "level": "Mid",
+    "next_role_id": "ROL-000003",
+    "description": "Role responsible for Software Engineer competencies within Engineering."
+  },
+  {
+    "id": "ROL-000003",
+    "title": "Senior Software Engineer",
+    "department": "Engineering",
+    "level": "Senior",
+    "next_role_id": "ROL-000004",
+    "description": "Role responsible for Senior Software Engineer competencies within Engineering."
+  },
+  {
+    "id": "ROL-000004",
+    "title": "Staff Software Engineer",
+    "department": "Engineering",
+    "level": "Lead",
+    "next_role_id": "ROL-000005",
+    "description": "Role responsible for Staff Software Engineer competencies within Engineering."
+  },
+  {
+    "id": "ROL-000005",
+    "title": "Principal Architect",
+    "department": "Engineering",
+    "level": "Principal",
+    "next_role_id": null,
+    "description": "Role responsible for Principal Architect competencies within Engineering."
+  },
+  {
+    "id": "ROL-000006",
+    "title": "Junior Frontend Developer",
+    "department": "Engineering",
+    "level": "Junior",
+    "next_role_id": "ROL-000007",
+    "description": "Role responsible for Junior Frontend Developer competencies within Engineering."
+  },
+  {
+    "id": "ROL-000007",
+    "title": "Frontend Developer",
+    "department": "Engineering",
+    "level": "Mid",
+    "next_role_id": "ROL-000008",
+    "description": "Role responsible for Frontend Developer competencies within Engineering."
+  },
+  {
+    "id": "ROL-000008",
+    "title": "Senior Frontend Developer",
+    "department": "Engineering",
+    "level": "Senior",
+    "next_role_id": "ROL-000005",
+    "description": "Role responsible for Senior Frontend Developer competencies within Engineering."
+  },
+  {
+    "id": "ROL-000009",
+    "title": "Junior Data Analyst",
+    "department": "Data Science",
+    "level": "Junior",
+    "next_role_id": "ROL-000010",
+    "description": "Role responsible for Junior Data Analyst competencies within Data Science."
+  },
+  {
+    "id": "ROL-000010",
+    "title": "Data Analyst",
+    "department": "Data Science",
+    "level": "Mid",
+    "next_role_id": "ROL-000011",
+    "description": "Role responsible for Data Analyst competencies within Data Science."
+  },
+  {
+    "id": "ROL-000011",
+    "title": "Senior Data Scientist",
+    "department": "Data Science",
+    "level": "Senior",
+    "next_role_id": "ROL-000012",
+    "description": "Role responsible for Senior Data Scientist competencies within Data Science."
+  },
+  {
+    "id": "ROL-000012",
+    "title": "Principal AI Architect",
+    "department": "Data Science",
+    "level": "Principal",
+    "next_role_id": null,
+    "description": "Role responsible for Principal AI Architect competencies within Data Science."
+  },
+  {
+    "id": "ROL-000013",
+    "title": "Junior Cloud Engineer",
+    "department": "Cloud Infrastructure",
+    "level": "Junior",
+    "next_role_id": "ROL-000014",
+    "description": "Role responsible for Junior Cloud Engineer competencies within Cloud Infrastructure."
+  },
+  {
+    "id": "ROL-000014",
+    "title": "Cloud DevOps Engineer",
+    "department": "Cloud Infrastructure",
+    "level": "Mid",
+    "next_role_id": "ROL-000015",
+    "description": "Role responsible for Cloud DevOps Engineer competencies within Cloud Infrastructure."
+  },
+  {
+    "id": "ROL-000015",
+    "title": "Senior Cloud Solutions Architect",
+    "department": "Cloud Infrastructure",
+    "level": "Senior",
+    "next_role_id": null,
+    "description": "Role responsible for Senior Cloud Solutions Architect competencies within Cloud Infrastructure."
+  },
+  {
+    "id": "ROL-000016",
+    "title": "Junior SOC Analyst",
+    "department": "Cybersecurity",
+    "level": "Junior",
+    "next_role_id": "ROL-000017",
+    "description": "Role responsible for Junior SOC Analyst competencies within Cybersecurity."
+  },
+  {
+    "id": "ROL-000017",
+    "title": "Information Security Engineer",
+    "department": "Cybersecurity",
+    "level": "Mid",
+    "next_role_id": "ROL-000018",
+    "description": "Role responsible for Information Security Engineer competencies within Cybersecurity."
+  },
+  {
+    "id": "ROL-000018",
+    "title": "Lead Cyber Architect",
+    "department": "Cybersecurity",
+    "level": "Senior",
+    "next_role_id": null,
+    "description": "Role responsible for Lead Cyber Architect competencies within Cybersecurity."
+  },
+  {
+    "id": "ROL-000019",
+    "title": "Associate Product Manager",
+    "department": "Product Management",
+    "level": "Junior",
+    "next_role_id": "ROL-000020",
+    "description": "Role responsible for Associate Product Manager competencies within Product Management."
+  },
+  {
+    "id": "ROL-000020",
+    "title": "Technical Product Manager",
+    "department": "Product Management",
+    "level": "Mid",
+    "next_role_id": "ROL-000021",
+    "description": "Role responsible for Technical Product Manager competencies within Product Management."
+  },
+  {
+    "id": "ROL-000021",
+    "title": "Director of Product",
+    "department": "Product Management",
+    "level": "Principal",
+    "next_role_id": null,
+    "description": "Role responsible for Director of Product competencies within Product Management."
+  },
+  {
+    "id": "ROL-000022",
+    "title": "Junior QA Specialist",
+    "department": "Quality Assurance",
+    "level": "Junior",
+    "next_role_id": "ROL-000023",
+    "description": "Role responsible for Junior QA Specialist competencies within Quality Assurance."
+  },
+  {
+    "id": "ROL-000023",
+    "title": "QA Automation Engineer",
+    "department": "Quality Assurance",
+    "level": "Mid",
+    "next_role_id": "ROL-000024",
+    "description": "Role responsible for QA Automation Engineer competencies within Quality Assurance."
+  },
+  {
+    "id": "ROL-000024",
+    "title": "Lead SDET Architect",
+    "department": "Quality Assurance",
+    "level": "Senior",
+    "next_role_id": null,
+    "description": "Role responsible for Lead SDET Architect competencies within Quality Assurance."
+  }
+]

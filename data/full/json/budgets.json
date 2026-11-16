@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BUD-ENGINEERING-2026",
+    "department": "Engineering",
+    "fiscal_year": 2026,
+    "allocated_amount": 350000.0,
+    "spent_amount": 350000.0,
+    "remaining_balance": 0.0,
+    "last_updated": "2026-01-15 09:00:00"
+  },
+  {
+    "id": "BUD-DATA_SCIENCE-2026",
+    "department": "Data Science",
+    "fiscal_year": 2026,
+    "allocated_amount": 280000.0,
+    "spent_amount": 280000.0,
+    "remaining_balance": 0.0,
+    "last_updated": "2026-01-15 09:00:00"
+  },
+  {
+    "id": "BUD-CLOUD_INFRASTRUCTURE-2026",
+    "department": "Cloud Infrastructure",
+    "fiscal_year": 2026,
+    "allocated_amount": 250000.0,
+    "spent_amount": 250000.0,
+    "remaining_balance": 0.0,
+    "last_updated": "2026-01-15 09:00:00"
+  },
+  {
+    "id": "BUD-CYBERSECURITY-2026",
+    "department": "Cybersecurity",
+    "fiscal_year": 2026,
+    "allocated_amount": 200000.0,
+    "spent_amount": 200000.0,
+    "remaining_balance": 0.0,
+    "last_updated": "2026-01-15 09:00:00"
+  },
+  {
+    "id": "BUD-PRODUCT_MANAGEMENT-2026",
+    "department": "Product Management",
+    "fiscal_year": 2026,
+    "allocated_amount": 120000.0,
+    "spent_amount": 120000.0,
+    "remaining_balance": 0.0,
+    "last_updated": "2026-01-15 09:00:00"
+  },
+  {
+    "id": "BUD-QUALITY_ASSURANCE-2026",
+    "department": "Quality Assurance",
+    "fiscal_year": 2026,
+    "allocated_amount": 100000.0,
+    "spent_amount": 100000.0,
+    "remaining_balance": 0.0,
+    "last_updated": "2026-01-15 09:00:00"
+  }
+]

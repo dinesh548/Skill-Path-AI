@@ -1,0 +1,702 @@
+[
+  {
+    "id": "CSK-CRS-000001-SKL-000001",
+    "course_id": "CRS-000001",
+    "skill_id": "SKL-000001",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000002-SKL-000001",
+    "course_id": "CRS-000002",
+    "skill_id": "SKL-000001",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000003-SKL-000002",
+    "course_id": "CRS-000003",
+    "skill_id": "SKL-000002",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000004-SKL-000002",
+    "course_id": "CRS-000004",
+    "skill_id": "SKL-000002",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000005-SKL-000003",
+    "course_id": "CRS-000005",
+    "skill_id": "SKL-000003",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000006-SKL-000003",
+    "course_id": "CRS-000006",
+    "skill_id": "SKL-000003",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000007-SKL-000004",
+    "course_id": "CRS-000007",
+    "skill_id": "SKL-000004",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000008-SKL-000005",
+    "course_id": "CRS-000008",
+    "skill_id": "SKL-000005",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000009-SKL-000006",
+    "course_id": "CRS-000009",
+    "skill_id": "SKL-000006",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000010-SKL-000007",
+    "course_id": "CRS-000010",
+    "skill_id": "SKL-000007",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000011-SKL-000008",
+    "course_id": "CRS-000011",
+    "skill_id": "SKL-000008",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000012-SKL-000009",
+    "course_id": "CRS-000012",
+    "skill_id": "SKL-000009",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000013-SKL-000010",
+    "course_id": "CRS-000013",
+    "skill_id": "SKL-000010",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000014-SKL-000010",
+    "course_id": "CRS-000014",
+    "skill_id": "SKL-000010",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000015-SKL-000011",
+    "course_id": "CRS-000015",
+    "skill_id": "SKL-000011",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000016-SKL-000011",
+    "course_id": "CRS-000016",
+    "skill_id": "SKL-000011",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000017-SKL-000012",
+    "course_id": "CRS-000017",
+    "skill_id": "SKL-000012",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000018-SKL-000013",
+    "course_id": "CRS-000018",
+    "skill_id": "SKL-000013",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000019-SKL-000013",
+    "course_id": "CRS-000019",
+    "skill_id": "SKL-000013",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000020-SKL-000014",
+    "course_id": "CRS-000020",
+    "skill_id": "SKL-000014",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000021-SKL-000015",
+    "course_id": "CRS-000021",
+    "skill_id": "SKL-000015",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000022-SKL-000015",
+    "course_id": "CRS-000022",
+    "skill_id": "SKL-000015",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000023-SKL-000016",
+    "course_id": "CRS-000023",
+    "skill_id": "SKL-000016",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000024-SKL-000017",
+    "course_id": "CRS-000024",
+    "skill_id": "SKL-000017",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000025-SKL-000018",
+    "course_id": "CRS-000025",
+    "skill_id": "SKL-000018",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000026-SKL-000018",
+    "course_id": "CRS-000026",
+    "skill_id": "SKL-000018",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000027-SKL-000019",
+    "course_id": "CRS-000027",
+    "skill_id": "SKL-000019",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000028-SKL-000020",
+    "course_id": "CRS-000028",
+    "skill_id": "SKL-000020",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000029-SKL-000020",
+    "course_id": "CRS-000029",
+    "skill_id": "SKL-000020",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000030-SKL-000021",
+    "course_id": "CRS-000030",
+    "skill_id": "SKL-000021",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000031-SKL-000022",
+    "course_id": "CRS-000031",
+    "skill_id": "SKL-000022",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000032-SKL-000022",
+    "course_id": "CRS-000032",
+    "skill_id": "SKL-000022",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000033-SKL-000023",
+    "course_id": "CRS-000033",
+    "skill_id": "SKL-000023",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000034-SKL-000023",
+    "course_id": "CRS-000034",
+    "skill_id": "SKL-000023",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000035-SKL-000024",
+    "course_id": "CRS-000035",
+    "skill_id": "SKL-000024",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000036-SKL-000024",
+    "course_id": "CRS-000036",
+    "skill_id": "SKL-000024",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000037-SKL-000025",
+    "course_id": "CRS-000037",
+    "skill_id": "SKL-000025",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000038-SKL-000026",
+    "course_id": "CRS-000038",
+    "skill_id": "SKL-000026",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000039-SKL-000027",
+    "course_id": "CRS-000039",
+    "skill_id": "SKL-000027",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000040-SKL-000028",
+    "course_id": "CRS-000040",
+    "skill_id": "SKL-000028",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000041-SKL-000029",
+    "course_id": "CRS-000041",
+    "skill_id": "SKL-000029",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000042-SKL-000029",
+    "course_id": "CRS-000042",
+    "skill_id": "SKL-000029",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000043-SKL-000030",
+    "course_id": "CRS-000043",
+    "skill_id": "SKL-000030",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000044-SKL-000031",
+    "course_id": "CRS-000044",
+    "skill_id": "SKL-000031",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000045-SKL-000031",
+    "course_id": "CRS-000045",
+    "skill_id": "SKL-000031",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000046-SKL-000032",
+    "course_id": "CRS-000046",
+    "skill_id": "SKL-000032",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000047-SKL-000033",
+    "course_id": "CRS-000047",
+    "skill_id": "SKL-000033",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000048-SKL-000034",
+    "course_id": "CRS-000048",
+    "skill_id": "SKL-000034",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000049-SKL-000035",
+    "course_id": "CRS-000049",
+    "skill_id": "SKL-000035",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000050-SKL-000036",
+    "course_id": "CRS-000050",
+    "skill_id": "SKL-000036",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000051-SKL-000036",
+    "course_id": "CRS-000051",
+    "skill_id": "SKL-000036",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000052-SKL-000037",
+    "course_id": "CRS-000052",
+    "skill_id": "SKL-000037",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000053-SKL-000037",
+    "course_id": "CRS-000053",
+    "skill_id": "SKL-000037",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000054-SKL-000038",
+    "course_id": "CRS-000054",
+    "skill_id": "SKL-000038",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000055-SKL-000038",
+    "course_id": "CRS-000055",
+    "skill_id": "SKL-000038",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000056-SKL-000039",
+    "course_id": "CRS-000056",
+    "skill_id": "SKL-000039",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000057-SKL-000039",
+    "course_id": "CRS-000057",
+    "skill_id": "SKL-000039",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000058-SKL-000040",
+    "course_id": "CRS-000058",
+    "skill_id": "SKL-000040",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000059-SKL-000041",
+    "course_id": "CRS-000059",
+    "skill_id": "SKL-000041",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000060-SKL-000042",
+    "course_id": "CRS-000060",
+    "skill_id": "SKL-000042",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000061-SKL-000042",
+    "course_id": "CRS-000061",
+    "skill_id": "SKL-000042",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000062-SKL-000043",
+    "course_id": "CRS-000062",
+    "skill_id": "SKL-000043",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000063-SKL-000044",
+    "course_id": "CRS-000063",
+    "skill_id": "SKL-000044",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000064-SKL-000045",
+    "course_id": "CRS-000064",
+    "skill_id": "SKL-000045",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000065-SKL-000045",
+    "course_id": "CRS-000065",
+    "skill_id": "SKL-000045",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000066-SKL-000046",
+    "course_id": "CRS-000066",
+    "skill_id": "SKL-000046",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000067-SKL-000046",
+    "course_id": "CRS-000067",
+    "skill_id": "SKL-000046",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000068-SKL-000047",
+    "course_id": "CRS-000068",
+    "skill_id": "SKL-000047",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000069-SKL-000048",
+    "course_id": "CRS-000069",
+    "skill_id": "SKL-000048",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000070-SKL-000049",
+    "course_id": "CRS-000070",
+    "skill_id": "SKL-000049",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000071-SKL-000049",
+    "course_id": "CRS-000071",
+    "skill_id": "SKL-000049",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000072-SKL-000050",
+    "course_id": "CRS-000072",
+    "skill_id": "SKL-000050",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000073-SKL-000051",
+    "course_id": "CRS-000073",
+    "skill_id": "SKL-000051",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000074-SKL-000052",
+    "course_id": "CRS-000074",
+    "skill_id": "SKL-000052",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000075-SKL-000052",
+    "course_id": "CRS-000075",
+    "skill_id": "SKL-000052",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000076-SKL-000053",
+    "course_id": "CRS-000076",
+    "skill_id": "SKL-000053",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000077-SKL-000054",
+    "course_id": "CRS-000077",
+    "skill_id": "SKL-000054",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000078-SKL-000055",
+    "course_id": "CRS-000078",
+    "skill_id": "SKL-000055",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000079-SKL-000056",
+    "course_id": "CRS-000079",
+    "skill_id": "SKL-000056",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000080-SKL-000056",
+    "course_id": "CRS-000080",
+    "skill_id": "SKL-000056",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000081-SKL-000057",
+    "course_id": "CRS-000081",
+    "skill_id": "SKL-000057",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000082-SKL-000057",
+    "course_id": "CRS-000082",
+    "skill_id": "SKL-000057",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000083-SKL-000058",
+    "course_id": "CRS-000083",
+    "skill_id": "SKL-000058",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000084-SKL-000058",
+    "course_id": "CRS-000084",
+    "skill_id": "SKL-000058",
+    "proficiency_gain": 1,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000085-SKL-000059",
+    "course_id": "CRS-000085",
+    "skill_id": "SKL-000059",
+    "proficiency_gain": 2,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000086-SKL-000059",
+    "course_id": "CRS-000086",
+    "skill_id": "SKL-000059",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000087-SKL-000060",
+    "course_id": "CRS-000087",
+    "skill_id": "SKL-000060",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000088-SKL-000061",
+    "course_id": "CRS-000088",
+    "skill_id": "SKL-000061",
+    "proficiency_gain": 2,
+    "target_level_taught": 2
+  },
+  {
+    "id": "CSK-CRS-000089-SKL-000062",
+    "course_id": "CRS-000089",
+    "skill_id": "SKL-000062",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000090-SKL-000062",
+    "course_id": "CRS-000090",
+    "skill_id": "SKL-000062",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000091-SKL-000063",
+    "course_id": "CRS-000091",
+    "skill_id": "SKL-000063",
+    "proficiency_gain": 1,
+    "target_level_taught": 5
+  },
+  {
+    "id": "CSK-CRS-000092-SKL-000063",
+    "course_id": "CRS-000092",
+    "skill_id": "SKL-000063",
+    "proficiency_gain": 1,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000093-SKL-000064",
+    "course_id": "CRS-000093",
+    "skill_id": "SKL-000064",
+    "proficiency_gain": 2,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000094-SKL-000064",
+    "course_id": "CRS-000094",
+    "skill_id": "SKL-000064",
+    "proficiency_gain": 1,
+    "target_level_taught": 3
+  },
+  {
+    "id": "CSK-CRS-000095-SKL-000065",
+    "course_id": "CRS-000095",
+    "skill_id": "SKL-000065",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000096-SKL-000005",
+    "course_id": "CRS-000096",
+    "skill_id": "SKL-000005",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000097-SKL-000051",
+    "course_id": "CRS-000097",
+    "skill_id": "SKL-000051",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000098-SKL-000009",
+    "course_id": "CRS-000098",
+    "skill_id": "SKL-000009",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000099-SKL-000025",
+    "course_id": "CRS-000099",
+    "skill_id": "SKL-000025",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  },
+  {
+    "id": "CSK-CRS-000100-SKL-000011",
+    "course_id": "CRS-000100",
+    "skill_id": "SKL-000011",
+    "proficiency_gain": 2,
+    "target_level_taught": 4
+  }
+]

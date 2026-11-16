@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "SKL-000001",
+    "name": "Python",
+    "category": "Programming",
+    "description": "Competency in Python for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000002",
+    "name": "JavaScript",
+    "category": "Programming",
+    "description": "Competency in JavaScript for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000003",
+    "name": "TypeScript",
+    "category": "Programming",
+    "description": "Competency in TypeScript for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000004",
+    "name": "Go",
+    "category": "Programming",
+    "description": "Competency in Go for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000005",
+    "name": "Java",
+    "category": "Programming",
+    "description": "Competency in Java for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000006",
+    "name": "C++",
+    "category": "Programming",
+    "description": "Competency in C++ for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000007",
+    "name": "Rust",
+    "category": "Programming",
+    "description": "Competency in Rust for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000008",
+    "name": "C#",
+    "category": "Programming",
+    "description": "Competency in C# for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000009",
+    "name": "Kotlin",
+    "category": "Programming",
+    "description": "Competency in Kotlin for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000010",
+    "name": "Swift",
+    "category": "Programming",
+    "description": "Competency in Swift for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000011",
+    "name": "React",
+    "category": "Programming",
+    "description": "Competency in React for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000012",
+    "name": "Node.js",
+    "category": "Programming",
+    "description": "Competency in Node.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000013",
+    "name": "FastAPI",
+    "category": "Programming",
+    "description": "Competency in FastAPI for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000014",
+    "name": "Django",
+    "category": "Programming",
+    "description": "Competency in Django for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000015",
+    "name": "Spring Boot",
+    "category": "Programming",
+    "description": "Competency in Spring Boot for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000016",
+    "name": "GraphQL",
+    "category": "Programming",
+    "description": "Competency in GraphQL for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000017",
+    "name": "RESTful APIs",
+    "category": "Programming",
+    "description": "Competency in RESTful APIs for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000018",
+    "name": "HTML5/CSS3",
+    "category": "Programming",
+    "description": "Competency in HTML5/CSS3 for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000019",
+    "name": "Next.js",
+    "category": "Programming",
+    "description": "Competency in Next.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000020",
+    "name": "Vue.js",
+    "category": "Programming",
+    "description": "Competency in Vue.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000021",
+    "name": "Express.js",
+    "category": "Programming",
+    "description": "Competency in Express.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000022",
+    "name": "Angular",
+    "category": "Programming",
+    "description": "Competency in Angular for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000023",
+    "name": "WebAssembly",
+    "category": "Programming",
+    "description": "Competency in WebAssembly for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000024",
+    "name": "AsyncIO",
+    "category": "Programming",
+    "description": "Competency in AsyncIO for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000025",
+    "name": "Microservices",
+    "category": "Programming",
+    "description": "Competency in Microservices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000026",
+    "name": "SQL",
+    "category": "Data & AI",
+    "description": "Competency in SQL for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000027",
+    "name": "Pandas",
+    "category": "Data & AI",
+    "description": "Competency in Pandas for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000028",
+    "name": "NumPy",
+    "category": "Data & AI",
+    "description": "Competency in NumPy for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000029",
+    "name": "Apache Spark",
+    "category": "Data & AI",
+    "description": "Competency in Apache Spark for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000030",
+    "name": "Machine Learning",
+    "category": "Data & AI",
+    "description": "Competency in Machine Learning for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000031",
+    "name": "Deep Learning",
+    "category": "Data & AI",
+    "description": "Competency in Deep Learning for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000032",
+    "name": "PyTorch",
+    "category": "Data & AI",
+    "description": "Competency in PyTorch for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000033",
+    "name": "TensorFlow",
+    "category": "Data & AI",
+    "description": "Competency in TensorFlow for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000034",
+    "name": "Data Warehousing",
+    "category": "Data & AI",
+    "description": "Competency in Data Warehousing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000035",
+    "name": "BigQuery",
+    "category": "Data & AI",
+    "description": "Competency in BigQuery for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000036",
+    "name": "Snowflake",
+    "category": "Data & AI",
+    "description": "Competency in Snowflake for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000037",
+    "name": "dbt",
+    "category": "Data & AI",
+    "description": "Competency in dbt for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000038",
+    "name": "Airflow",
+    "category": "Data & AI",
+    "description": "Competency in Airflow for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000039",
+    "name": "Data Modeling",
+    "category": "Data & AI",
+    "description": "Competency in Data Modeling for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000040",
+    "name": "MLOps",
+    "category": "Data & AI",
+    "description": "Competency in MLOps for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000041",
+    "name": "NLP",
+    "category": "Data & AI",
+    "description": "Competency in NLP for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000042",
+    "name": "Computer Vision",
+    "category": "Data & AI",
+    "description": "Competency in Computer Vision for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000043",
+    "name": "LLMs & Prompt Engineering",
+    "category": "Data & AI",
+    "description": "Competency in LLMs & Prompt Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000044",
+    "name": "Vector Databases",
+    "category": "Data & AI",
+    "description": "Competency in Vector Databases for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000045",
+    "name": "Statistical Analysis",
+    "category": "Data & AI",
+    "description": "Competency in Statistical Analysis for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000046",
+    "name": "Scikit-learn",
+    "category": "Data & AI",
+    "description": "Competency in Scikit-learn for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000047",
+    "name": "Hadoop",
+    "category": "Data & AI",
+    "description": "Competency in Hadoop for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000048",
+    "name": "Tableau",
+    "category": "Data & AI",
+    "description": "Competency in Tableau for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000049",
+    "name": "Power BI",
+    "category": "Data & AI",
+    "description": "Competency in Power BI for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000050",
+    "name": "Feature Store",
+    "category": "Data & AI",
+    "description": "Competency in Feature Store for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000051",
+    "name": "Docker",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Docker for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000052",
+    "name": "Kubernetes",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Kubernetes for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000053",
+    "name": "AWS Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in AWS Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000054",
+    "name": "Google Cloud Platform",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Google Cloud Platform for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000055",
+    "name": "Microsoft Azure",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Microsoft Azure for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000056",
+    "name": "Terraform",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Terraform for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000057",
+    "name": "CI/CD Pipelines",
+    "category": "Cloud & DevOps",
+    "description": "Competency in CI/CD Pipelines for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000058",
+    "name": "Linux Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Linux Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000059",
+    "name": "Prometheus & Grafana",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Prometheus & Grafana for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000060",
+    "name": "GitLab CI",
+    "category": "Cloud & DevOps",
+    "description": "Competency in GitLab CI for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000061",
+    "name": "GitHub Actions",
+    "category": "Cloud & DevOps",
+    "description": "Competency in GitHub Actions for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000062",
+    "name": "Ansible",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Ansible for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000063",
+    "name": "Helm Charts",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Helm Charts for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000064",
+    "name": "Serverless Computing",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Serverless Computing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000065",
+    "name": "Service Mesh (Istio)",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Service Mesh (Istio) for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000066",
+    "name": "Site Reliability Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Site Reliability Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000067",
+    "name": "Nginx",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Nginx for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000068",
+    "name": "Infrastructure as Code",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Infrastructure as Code for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000069",
+    "name": "Networking Protocols",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Networking Protocols for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000070",
+    "name": "Kafka",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Kafka for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000071",
+    "name": "Network Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Network Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000072",
+    "name": "Application Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Application Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000073",
+    "name": "Threat Modeling",
+    "category": "Cybersecurity",
+    "description": "Competency in Threat Modeling for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000074",
+    "name": "Penetration Testing",
+    "category": "Cybersecurity",
+    "description": "Competency in Penetration Testing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000075",
+    "name": "OWASP Top 10",
+    "category": "Cybersecurity",
+    "description": "Competency in OWASP Top 10 for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000076",
+    "name": "Identity & Access Management (IAM)",
+    "category": "Cybersecurity",
+    "description": "Competency in Identity & Access Management (IAM) for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000077",
+    "name": "SIEM & SOC Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in SIEM & SOC Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000078",
+    "name": "Cryptography",
+    "category": "Cybersecurity",
+    "description": "Competency in Cryptography for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000079",
+    "name": "Incident Response",
+    "category": "Cybersecurity",
+    "description": "Competency in Incident Response for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000080",
+    "name": "Vulnerability Assessment",
+    "category": "Cybersecurity",
+    "description": "Competency in Vulnerability Assessment for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000081",
+    "name": "Cloud Security Posture",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud Security Posture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000082",
+    "name": "Zero Trust Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Zero Trust Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000083",
+    "name": "SOC 2 & ISO 27001",
+    "category": "Cybersecurity",
+    "description": "Competency in SOC 2 & ISO 27001 for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000084",
+    "name": "Compliance Auditing",
+    "category": "Cybersecurity",
+    "description": "Competency in Compliance Auditing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000085",
+    "name": "Endpoint Detection (EDR)",
+    "category": "Cybersecurity",
+    "description": "Competency in Endpoint Detection (EDR) for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000086",
+    "name": "Automated Testing",
+    "category": "Quality & Architecture",
+    "description": "Competency in Automated Testing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000087",
+    "name": "Unit Testing",
+    "category": "Quality & Architecture",
+    "description": "Competency in Unit Testing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000088",
+    "name": "Integration Testing",
+    "category": "Quality & Architecture",
+    "description": "Competency in Integration Testing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000089",
+    "name": "Selenium",
+    "category": "Quality & Architecture",
+    "description": "Competency in Selenium for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000090",
+    "name": "Cypress",
+    "category": "Quality & Architecture",
+    "description": "Competency in Cypress for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000091",
+    "name": "Playwright",
+    "category": "Quality & Architecture",
+    "description": "Competency in Playwright for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000092",
+    "name": "Performance Testing & k6",
+    "category": "Quality & Architecture",
+    "description": "Competency in Performance Testing & k6 for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000093",
+    "name": "Test-Driven Development",
+    "category": "Quality & Architecture",
+    "description": "Competency in Test-Driven Development for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000094",
+    "name": "Domain-Driven Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Domain-Driven Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000095",
+    "name": "Design Patterns",
+    "category": "Quality & Architecture",
+    "description": "Competency in Design Patterns for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000096",
+    "name": "System Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in System Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000097",
+    "name": "High Availability Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in High Availability Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000098",
+    "name": "Distributed Systems",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000099",
+    "name": "Fault Tolerance",
+    "category": "Quality & Architecture",
+    "description": "Competency in Fault Tolerance for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000100",
+    "name": "API Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in API Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000101",
+    "name": "Agile Methodology",
+    "category": "Management & Agile",
+    "description": "Competency in Agile Methodology for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000102",
+    "name": "Scrum Framework",
+    "category": "Management & Agile",
+    "description": "Competency in Scrum Framework for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000103",
+    "name": "Product Roadmapping",
+    "category": "Management & Agile",
+    "description": "Competency in Product Roadmapping for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000104",
+    "name": "Stakeholder Management",
+    "category": "Management & Agile",
+    "description": "Competency in Stakeholder Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000105",
+    "name": "Technical Documentation",
+    "category": "Management & Agile",
+    "description": "Competency in Technical Documentation for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000106",
+    "name": "Mentoring & Coaching",
+    "category": "Management & Agile",
+    "description": "Competency in Mentoring & Coaching for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000107",
+    "name": "Budget Planning",
+    "category": "Management & Agile",
+    "description": "Competency in Budget Planning for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000108",
+    "name": "Risk Management",
+    "category": "Management & Agile",
+    "description": "Competency in Risk Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000109",
+    "name": "Conflict Resolution",
+    "category": "Management & Agile",
+    "description": "Competency in Conflict Resolution for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000110",
+    "name": "KPI & OKR Tracking",
+    "category": "Management & Agile",
+    "description": "Competency in KPI & OKR Tracking for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000111",
+    "name": "Applied Python Engineering",
+    "category": "Programming",
+    "description": "Competency in Applied Python Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000112",
+    "name": "Modern SQL Engineering",
+    "category": "Data & AI",
+    "description": "Competency in Modern SQL Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000113",
+    "name": "Advanced Docker Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Docker Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000114",
+    "name": "Enterprise Network Security Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Network Security Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000115",
+    "name": "Distributed Automated Testing Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Automated Testing Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000116",
+    "name": "Scalable Agile Methodology Engineering",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Agile Methodology Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000117",
+    "name": "Core JavaScript Engineering",
+    "category": "Programming",
+    "description": "Competency in Core JavaScript Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000118",
+    "name": "Cloud-Native Pandas Engineering",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native Pandas Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000119",
+    "name": "Strategic Kubernetes Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Kubernetes Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000120",
+    "name": "Operational Application Security Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Application Security Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000121",
+    "name": "Applied Unit Testing Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Unit Testing Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000122",
+    "name": "Modern Scrum Framework Architecture",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Scrum Framework Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000123",
+    "name": "Advanced TypeScript Architecture",
+    "category": "Programming",
+    "description": "Competency in Advanced TypeScript Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000124",
+    "name": "Enterprise NumPy Architecture",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise NumPy Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000125",
+    "name": "Distributed AWS Architecture Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed AWS Architecture Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000126",
+    "name": "Scalable Threat Modeling Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Threat Modeling Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000127",
+    "name": "Core Integration Testing Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Integration Testing Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000128",
+    "name": "Cloud-Native Product Roadmapping Architecture",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Product Roadmapping Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000129",
+    "name": "Strategic Go Architecture",
+    "category": "Programming",
+    "description": "Competency in Strategic Go Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000130",
+    "name": "Operational Apache Spark Architecture",
+    "category": "Data & AI",
+    "description": "Competency in Operational Apache Spark Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000131",
+    "name": "Applied Google Cloud Platform Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Google Cloud Platform Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000132",
+    "name": "Modern Penetration Testing Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Penetration Testing Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000133",
+    "name": "Advanced Selenium Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Selenium Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000134",
+    "name": "Enterprise Stakeholder Management Design",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Stakeholder Management Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000135",
+    "name": "Distributed Java Design",
+    "category": "Programming",
+    "description": "Competency in Distributed Java Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000136",
+    "name": "Scalable Machine Learning Design",
+    "category": "Data & AI",
+    "description": "Competency in Scalable Machine Learning Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000137",
+    "name": "Core Microsoft Azure Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Microsoft Azure Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000138",
+    "name": "Cloud-Native OWASP Top 10 Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native OWASP Top 10 Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000139",
+    "name": "Strategic Cypress Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Cypress Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000140",
+    "name": "Operational Technical Documentation Design",
+    "category": "Management & Agile",
+    "description": "Competency in Operational Technical Documentation Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000141",
+    "name": "Applied C++ Optimization",
+    "category": "Programming",
+    "description": "Competency in Applied C++ Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000142",
+    "name": "Modern Deep Learning Optimization",
+    "category": "Data & AI",
+    "description": "Competency in Modern Deep Learning Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000143",
+    "name": "Advanced Terraform Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Terraform Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000144",
+    "name": "Enterprise Identity & Access Management (IAM) Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Identity & Access Management (IAM) Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000145",
+    "name": "Distributed Playwright Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Playwright Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000146",
+    "name": "Scalable Mentoring & Coaching Optimization",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Mentoring & Coaching Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000147",
+    "name": "Core Rust Optimization",
+    "category": "Programming",
+    "description": "Competency in Core Rust Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000148",
+    "name": "Cloud-Native PyTorch Optimization",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native PyTorch Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000149",
+    "name": "Strategic CI/CD Pipelines Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic CI/CD Pipelines Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000150",
+    "name": "Operational SIEM & SOC Operations Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational SIEM & SOC Operations Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000151",
+    "name": "Applied Performance Testing & k6 Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Performance Testing & k6 Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000152",
+    "name": "Modern Budget Planning Administration",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Budget Planning Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000153",
+    "name": "Advanced C# Administration",
+    "category": "Programming",
+    "description": "Competency in Advanced C# Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000154",
+    "name": "Enterprise TensorFlow Administration",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise TensorFlow Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000155",
+    "name": "Distributed Linux Administration Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Linux Administration Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000156",
+    "name": "Scalable Cryptography Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Cryptography Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000157",
+    "name": "Core Test-Driven Development Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Test-Driven Development Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000158",
+    "name": "Cloud-Native Risk Management Administration",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Risk Management Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000159",
+    "name": "Strategic Kotlin Administration",
+    "category": "Programming",
+    "description": "Competency in Strategic Kotlin Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000160",
+    "name": "Operational Data Warehousing Administration",
+    "category": "Data & AI",
+    "description": "Competency in Operational Data Warehousing Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000161",
+    "name": "Applied Prometheus & Grafana Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Prometheus & Grafana Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000162",
+    "name": "Modern Incident Response Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Incident Response Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000163",
+    "name": "Advanced Domain-Driven Design Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Domain-Driven Design Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000164",
+    "name": "Enterprise Conflict Resolution Management",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Conflict Resolution Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000165",
+    "name": "Distributed Swift Management",
+    "category": "Programming",
+    "description": "Competency in Distributed Swift Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000166",
+    "name": "Scalable BigQuery Management",
+    "category": "Data & AI",
+    "description": "Competency in Scalable BigQuery Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000167",
+    "name": "Core GitLab CI Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core GitLab CI Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000168",
+    "name": "Cloud-Native Vulnerability Assessment Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Vulnerability Assessment Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000169",
+    "name": "Strategic Design Patterns Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Design Patterns Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000170",
+    "name": "Operational KPI & OKR Tracking Management",
+    "category": "Management & Agile",
+    "description": "Competency in Operational KPI & OKR Tracking Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000171",
+    "name": "Applied React Security",
+    "category": "Programming",
+    "description": "Competency in Applied React Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000172",
+    "name": "Modern Snowflake Security",
+    "category": "Data & AI",
+    "description": "Competency in Modern Snowflake Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000173",
+    "name": "Advanced GitHub Actions Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced GitHub Actions Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000174",
+    "name": "Enterprise Cloud Security Posture Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Cloud Security Posture Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000175",
+    "name": "Distributed System Architecture Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed System Architecture Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000176",
+    "name": "Scalable Agile Methodology Security",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Agile Methodology Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000177",
+    "name": "Core Node.js Security",
+    "category": "Programming",
+    "description": "Competency in Core Node.js Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000178",
+    "name": "Cloud-Native dbt Security",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native dbt Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000179",
+    "name": "Strategic Ansible Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Ansible Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000180",
+    "name": "Operational Zero Trust Architecture Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Zero Trust Architecture Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000181",
+    "name": "Applied High Availability Design Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied High Availability Design Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000182",
+    "name": "Modern Scrum Framework Operations",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Scrum Framework Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000183",
+    "name": "Advanced FastAPI Operations",
+    "category": "Programming",
+    "description": "Competency in Advanced FastAPI Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000184",
+    "name": "Enterprise Airflow Operations",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise Airflow Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000185",
+    "name": "Distributed Helm Charts Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Helm Charts Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000186",
+    "name": "Scalable SOC 2 & ISO 27001 Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable SOC 2 & ISO 27001 Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000187",
+    "name": "Core Distributed Systems Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Distributed Systems Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000188",
+    "name": "Cloud-Native Product Roadmapping Operations",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Product Roadmapping Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000189",
+    "name": "Strategic Django Operations",
+    "category": "Programming",
+    "description": "Competency in Strategic Django Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000190",
+    "name": "Operational Data Modeling Operations",
+    "category": "Data & AI",
+    "description": "Competency in Operational Data Modeling Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000191",
+    "name": "Applied Serverless Computing Practices",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Serverless Computing Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000192",
+    "name": "Modern Compliance Auditing Practices",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Compliance Auditing Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000193",
+    "name": "Advanced Fault Tolerance Practices",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Fault Tolerance Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000194",
+    "name": "Enterprise Stakeholder Management Practices",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Stakeholder Management Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000195",
+    "name": "Distributed Spring Boot Practices",
+    "category": "Programming",
+    "description": "Competency in Distributed Spring Boot Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000196",
+    "name": "Scalable MLOps Practices",
+    "category": "Data & AI",
+    "description": "Competency in Scalable MLOps Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000197",
+    "name": "Core Service Mesh (Istio) Practices",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Service Mesh (Istio) Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000198",
+    "name": "Cloud-Native Endpoint Detection (EDR) Practices",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Endpoint Detection (EDR) Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000199",
+    "name": "Strategic API Design Practices",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic API Design Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000200",
+    "name": "Operational Technical Documentation Practices",
+    "category": "Management & Agile",
+    "description": "Competency in Operational Technical Documentation Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000201",
+    "name": "Applied GraphQL Systems",
+    "category": "Programming",
+    "description": "Competency in Applied GraphQL Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000202",
+    "name": "Modern NLP Systems",
+    "category": "Data & AI",
+    "description": "Competency in Modern NLP Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000203",
+    "name": "Advanced Site Reliability Engineering Systems",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Site Reliability Engineering Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000204",
+    "name": "Enterprise Network Security Systems",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Network Security Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000205",
+    "name": "Distributed Automated Testing Systems",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Automated Testing Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000206",
+    "name": "Scalable Mentoring & Coaching Systems",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Mentoring & Coaching Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000207",
+    "name": "Core RESTful APIs Systems",
+    "category": "Programming",
+    "description": "Competency in Core RESTful APIs Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000208",
+    "name": "Cloud-Native Computer Vision Systems",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native Computer Vision Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000209",
+    "name": "Strategic Nginx Systems",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Nginx Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000210",
+    "name": "Operational Application Security Systems",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Application Security Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000211",
+    "name": "Applied Unit Testing Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Unit Testing Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000212",
+    "name": "Modern Budget Planning Engineering",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Budget Planning Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000213",
+    "name": "Advanced HTML5/CSS3 Engineering",
+    "category": "Programming",
+    "description": "Competency in Advanced HTML5/CSS3 Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000214",
+    "name": "Enterprise LLMs & Prompt Engineering Engineering",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise LLMs & Prompt Engineering Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000215",
+    "name": "Distributed Infrastructure as Code Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Infrastructure as Code Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000216",
+    "name": "Scalable Threat Modeling Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Threat Modeling Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000217",
+    "name": "Core Integration Testing Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Integration Testing Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000218",
+    "name": "Cloud-Native Risk Management Engineering",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Risk Management Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000219",
+    "name": "Strategic Next.js Engineering",
+    "category": "Programming",
+    "description": "Competency in Strategic Next.js Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000220",
+    "name": "Operational Vector Databases Engineering",
+    "category": "Data & AI",
+    "description": "Competency in Operational Vector Databases Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000221",
+    "name": "Applied Networking Protocols Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Networking Protocols Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000222",
+    "name": "Modern Penetration Testing Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Penetration Testing Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000223",
+    "name": "Advanced Selenium Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Selenium Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000224",
+    "name": "Enterprise Conflict Resolution Architecture",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Conflict Resolution Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000225",
+    "name": "Distributed Vue.js Architecture",
+    "category": "Programming",
+    "description": "Competency in Distributed Vue.js Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000226",
+    "name": "Scalable Statistical Analysis Architecture",
+    "category": "Data & AI",
+    "description": "Competency in Scalable Statistical Analysis Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000227",
+    "name": "Core Kafka Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Kafka Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000228",
+    "name": "Cloud-Native OWASP Top 10 Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native OWASP Top 10 Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000229",
+    "name": "Strategic Cypress Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Cypress Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000230",
+    "name": "Operational KPI & OKR Tracking Architecture",
+    "category": "Management & Agile",
+    "description": "Competency in Operational KPI & OKR Tracking Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000231",
+    "name": "Applied Express.js Design",
+    "category": "Programming",
+    "description": "Competency in Applied Express.js Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000232",
+    "name": "Modern Scikit-learn Design",
+    "category": "Data & AI",
+    "description": "Competency in Modern Scikit-learn Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000233",
+    "name": "Advanced Docker Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Docker Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000234",
+    "name": "Enterprise Identity & Access Management (IAM) Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Identity & Access Management (IAM) Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000235",
+    "name": "Distributed Playwright Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Playwright Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000236",
+    "name": "Scalable Agile Methodology Design",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Agile Methodology Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000237",
+    "name": "Core Angular Design",
+    "category": "Programming",
+    "description": "Competency in Core Angular Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000238",
+    "name": "Cloud-Native Hadoop Design",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native Hadoop Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000239",
+    "name": "Strategic Kubernetes Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Kubernetes Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000240",
+    "name": "Operational SIEM & SOC Operations Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational SIEM & SOC Operations Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000241",
+    "name": "Applied Performance Testing & k6 Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Performance Testing & k6 Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000242",
+    "name": "Modern Scrum Framework Optimization",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Scrum Framework Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000243",
+    "name": "Advanced WebAssembly Optimization",
+    "category": "Programming",
+    "description": "Competency in Advanced WebAssembly Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000244",
+    "name": "Enterprise Tableau Optimization",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise Tableau Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000245",
+    "name": "Distributed AWS Architecture Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed AWS Architecture Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000246",
+    "name": "Scalable Cryptography Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Cryptography Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000247",
+    "name": "Core Test-Driven Development Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Test-Driven Development Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000248",
+    "name": "Cloud-Native Product Roadmapping Optimization",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Product Roadmapping Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000249",
+    "name": "Strategic AsyncIO Optimization",
+    "category": "Programming",
+    "description": "Competency in Strategic AsyncIO Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000250",
+    "name": "Operational Power BI Optimization",
+    "category": "Data & AI",
+    "description": "Competency in Operational Power BI Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000251",
+    "name": "Applied Google Cloud Platform Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Google Cloud Platform Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000252",
+    "name": "Modern Incident Response Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Incident Response Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000253",
+    "name": "Advanced Domain-Driven Design Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Domain-Driven Design Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000254",
+    "name": "Enterprise Stakeholder Management Administration",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Stakeholder Management Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000255",
+    "name": "Distributed Microservices Administration",
+    "category": "Programming",
+    "description": "Competency in Distributed Microservices Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000256",
+    "name": "Scalable Feature Store Administration",
+    "category": "Data & AI",
+    "description": "Competency in Scalable Feature Store Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000257",
+    "name": "Core Microsoft Azure Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Microsoft Azure Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000258",
+    "name": "Cloud-Native Vulnerability Assessment Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Vulnerability Assessment Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000259",
+    "name": "Strategic Design Patterns Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Design Patterns Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000260",
+    "name": "Operational Technical Documentation Administration",
+    "category": "Management & Agile",
+    "description": "Competency in Operational Technical Documentation Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000261",
+    "name": "Applied Python Management",
+    "category": "Programming",
+    "description": "Competency in Applied Python Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000262",
+    "name": "Modern SQL Management",
+    "category": "Data & AI",
+    "description": "Competency in Modern SQL Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000263",
+    "name": "Advanced Terraform Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Terraform Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000264",
+    "name": "Enterprise Cloud Security Posture Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Cloud Security Posture Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000265",
+    "name": "Distributed System Architecture Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed System Architecture Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000266",
+    "name": "Scalable Mentoring & Coaching Management",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Mentoring & Coaching Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000267",
+    "name": "Core JavaScript Management",
+    "category": "Programming",
+    "description": "Competency in Core JavaScript Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000268",
+    "name": "Cloud-Native Pandas Management",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native Pandas Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000269",
+    "name": "Strategic CI/CD Pipelines Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic CI/CD Pipelines Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000270",
+    "name": "Operational Zero Trust Architecture Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Zero Trust Architecture Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000271",
+    "name": "Applied High Availability Design Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied High Availability Design Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000272",
+    "name": "Modern Budget Planning Security",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Budget Planning Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000273",
+    "name": "Advanced TypeScript Security",
+    "category": "Programming",
+    "description": "Competency in Advanced TypeScript Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000274",
+    "name": "Enterprise NumPy Security",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise NumPy Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000275",
+    "name": "Distributed Linux Administration Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Linux Administration Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000276",
+    "name": "Scalable SOC 2 & ISO 27001 Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable SOC 2 & ISO 27001 Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000277",
+    "name": "Core Distributed Systems Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Distributed Systems Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000278",
+    "name": "Cloud-Native Risk Management Security",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Risk Management Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000279",
+    "name": "Strategic Go Security",
+    "category": "Programming",
+    "description": "Competency in Strategic Go Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000280",
+    "name": "Operational Apache Spark Security",
+    "category": "Data & AI",
+    "description": "Competency in Operational Apache Spark Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000281",
+    "name": "Applied Prometheus & Grafana Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Prometheus & Grafana Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000282",
+    "name": "Modern Compliance Auditing Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Compliance Auditing Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000283",
+    "name": "Advanced Fault Tolerance Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Fault Tolerance Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000284",
+    "name": "Enterprise Conflict Resolution Operations",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Conflict Resolution Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000285",
+    "name": "Distributed Java Operations",
+    "category": "Programming",
+    "description": "Competency in Distributed Java Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000286",
+    "name": "Scalable Machine Learning Operations",
+    "category": "Data & AI",
+    "description": "Competency in Scalable Machine Learning Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000287",
+    "name": "Core GitLab CI Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core GitLab CI Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000288",
+    "name": "Cloud-Native Endpoint Detection (EDR) Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Endpoint Detection (EDR) Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000289",
+    "name": "Strategic API Design Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic API Design Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000290",
+    "name": "Operational KPI & OKR Tracking Operations",
+    "category": "Management & Agile",
+    "description": "Competency in Operational KPI & OKR Tracking Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000291",
+    "name": "Applied C++ Practices",
+    "category": "Programming",
+    "description": "Competency in Applied C++ Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000292",
+    "name": "Modern Deep Learning Practices",
+    "category": "Data & AI",
+    "description": "Competency in Modern Deep Learning Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000293",
+    "name": "Advanced GitHub Actions Practices",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced GitHub Actions Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000294",
+    "name": "Enterprise Network Security Practices",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Network Security Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000295",
+    "name": "Distributed Automated Testing Practices",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Automated Testing Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000296",
+    "name": "Scalable Agile Methodology Practices",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Agile Methodology Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000297",
+    "name": "Core Rust Practices",
+    "category": "Programming",
+    "description": "Competency in Core Rust Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000298",
+    "name": "Cloud-Native PyTorch Practices",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native PyTorch Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000299",
+    "name": "Strategic Ansible Practices",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Ansible Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000300",
+    "name": "Operational Application Security Practices",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Application Security Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000301",
+    "name": "Applied Unit Testing Systems",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Unit Testing Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000302",
+    "name": "Modern Scrum Framework Systems",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Scrum Framework Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000303",
+    "name": "Advanced C# Systems",
+    "category": "Programming",
+    "description": "Competency in Advanced C# Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000304",
+    "name": "Enterprise TensorFlow Systems",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise TensorFlow Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000305",
+    "name": "Distributed Helm Charts Systems",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Helm Charts Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000306",
+    "name": "Scalable Threat Modeling Systems",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Threat Modeling Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000307",
+    "name": "Core Integration Testing Systems",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Integration Testing Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000308",
+    "name": "Cloud-Native Product Roadmapping Systems",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Product Roadmapping Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000309",
+    "name": "Strategic Kotlin Systems",
+    "category": "Programming",
+    "description": "Competency in Strategic Kotlin Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000310",
+    "name": "Operational Data Warehousing Systems",
+    "category": "Data & AI",
+    "description": "Competency in Operational Data Warehousing Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000311",
+    "name": "Applied Serverless Computing Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Serverless Computing Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000312",
+    "name": "Modern Penetration Testing Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Penetration Testing Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000313",
+    "name": "Advanced Selenium Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Selenium Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000314",
+    "name": "Enterprise Stakeholder Management Engineering",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Stakeholder Management Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000315",
+    "name": "Distributed Swift Engineering",
+    "category": "Programming",
+    "description": "Competency in Distributed Swift Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000316",
+    "name": "Scalable BigQuery Engineering",
+    "category": "Data & AI",
+    "description": "Competency in Scalable BigQuery Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000317",
+    "name": "Core Service Mesh (Istio) Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Service Mesh (Istio) Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000318",
+    "name": "Cloud-Native OWASP Top 10 Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native OWASP Top 10 Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000319",
+    "name": "Strategic Cypress Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Cypress Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000320",
+    "name": "Operational Technical Documentation Engineering",
+    "category": "Management & Agile",
+    "description": "Competency in Operational Technical Documentation Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000321",
+    "name": "Applied React Architecture",
+    "category": "Programming",
+    "description": "Competency in Applied React Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000322",
+    "name": "Modern Snowflake Architecture",
+    "category": "Data & AI",
+    "description": "Competency in Modern Snowflake Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000323",
+    "name": "Advanced Site Reliability Engineering Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Site Reliability Engineering Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000324",
+    "name": "Enterprise Identity & Access Management (IAM) Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Identity & Access Management (IAM) Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000325",
+    "name": "Distributed Playwright Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Playwright Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000326",
+    "name": "Scalable Mentoring & Coaching Architecture",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Mentoring & Coaching Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000327",
+    "name": "Core Node.js Architecture",
+    "category": "Programming",
+    "description": "Competency in Core Node.js Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000328",
+    "name": "Cloud-Native dbt Architecture",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native dbt Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000329",
+    "name": "Strategic Nginx Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Nginx Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000330",
+    "name": "Operational SIEM & SOC Operations Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational SIEM & SOC Operations Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000331",
+    "name": "Applied Performance Testing & k6 Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Performance Testing & k6 Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000332",
+    "name": "Modern Budget Planning Design",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Budget Planning Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000333",
+    "name": "Advanced FastAPI Design",
+    "category": "Programming",
+    "description": "Competency in Advanced FastAPI Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000334",
+    "name": "Enterprise Airflow Design",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise Airflow Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000335",
+    "name": "Distributed Infrastructure as Code Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Infrastructure as Code Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000336",
+    "name": "Scalable Cryptography Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Cryptography Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000337",
+    "name": "Core Test-Driven Development Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Test-Driven Development Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000338",
+    "name": "Cloud-Native Risk Management Design",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Risk Management Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000339",
+    "name": "Strategic Django Design",
+    "category": "Programming",
+    "description": "Competency in Strategic Django Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000340",
+    "name": "Operational Data Modeling Design",
+    "category": "Data & AI",
+    "description": "Competency in Operational Data Modeling Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000341",
+    "name": "Applied Networking Protocols Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Networking Protocols Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000342",
+    "name": "Modern Incident Response Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Incident Response Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000343",
+    "name": "Advanced Domain-Driven Design Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Domain-Driven Design Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000344",
+    "name": "Enterprise Conflict Resolution Optimization",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Conflict Resolution Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000345",
+    "name": "Distributed Spring Boot Optimization",
+    "category": "Programming",
+    "description": "Competency in Distributed Spring Boot Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000346",
+    "name": "Scalable MLOps Optimization",
+    "category": "Data & AI",
+    "description": "Competency in Scalable MLOps Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000347",
+    "name": "Core Kafka Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Kafka Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000348",
+    "name": "Cloud-Native Vulnerability Assessment Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Vulnerability Assessment Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000349",
+    "name": "Strategic Design Patterns Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Design Patterns Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000350",
+    "name": "Operational KPI & OKR Tracking Optimization",
+    "category": "Management & Agile",
+    "description": "Competency in Operational KPI & OKR Tracking Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000351",
+    "name": "Applied GraphQL Administration",
+    "category": "Programming",
+    "description": "Competency in Applied GraphQL Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000352",
+    "name": "Modern NLP Administration",
+    "category": "Data & AI",
+    "description": "Competency in Modern NLP Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000353",
+    "name": "Advanced Docker Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Docker Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000354",
+    "name": "Enterprise Cloud Security Posture Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Cloud Security Posture Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000355",
+    "name": "Distributed System Architecture Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed System Architecture Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000356",
+    "name": "Scalable Agile Methodology Administration",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Agile Methodology Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000357",
+    "name": "Core RESTful APIs Administration",
+    "category": "Programming",
+    "description": "Competency in Core RESTful APIs Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000358",
+    "name": "Cloud-Native Computer Vision Administration",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native Computer Vision Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000359",
+    "name": "Strategic Kubernetes Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Kubernetes Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000360",
+    "name": "Operational Zero Trust Architecture Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Zero Trust Architecture Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000361",
+    "name": "Applied High Availability Design Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied High Availability Design Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000362",
+    "name": "Modern Scrum Framework Management",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Scrum Framework Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000363",
+    "name": "Advanced HTML5/CSS3 Management",
+    "category": "Programming",
+    "description": "Competency in Advanced HTML5/CSS3 Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000364",
+    "name": "Enterprise LLMs & Prompt Engineering Management",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise LLMs & Prompt Engineering Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000365",
+    "name": "Distributed AWS Architecture Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed AWS Architecture Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000366",
+    "name": "Scalable SOC 2 & ISO 27001 Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable SOC 2 & ISO 27001 Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000367",
+    "name": "Core Distributed Systems Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Distributed Systems Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000368",
+    "name": "Cloud-Native Product Roadmapping Management",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Product Roadmapping Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000369",
+    "name": "Strategic Next.js Management",
+    "category": "Programming",
+    "description": "Competency in Strategic Next.js Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000370",
+    "name": "Operational Vector Databases Management",
+    "category": "Data & AI",
+    "description": "Competency in Operational Vector Databases Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000371",
+    "name": "Applied Google Cloud Platform Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Google Cloud Platform Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000372",
+    "name": "Modern Compliance Auditing Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Compliance Auditing Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000373",
+    "name": "Advanced Fault Tolerance Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Fault Tolerance Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000374",
+    "name": "Enterprise Stakeholder Management Security",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Stakeholder Management Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000375",
+    "name": "Distributed Vue.js Security",
+    "category": "Programming",
+    "description": "Competency in Distributed Vue.js Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000376",
+    "name": "Scalable Statistical Analysis Security",
+    "category": "Data & AI",
+    "description": "Competency in Scalable Statistical Analysis Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000377",
+    "name": "Core Microsoft Azure Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Microsoft Azure Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000378",
+    "name": "Cloud-Native Endpoint Detection (EDR) Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Endpoint Detection (EDR) Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000379",
+    "name": "Strategic API Design Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic API Design Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000380",
+    "name": "Operational Technical Documentation Security",
+    "category": "Management & Agile",
+    "description": "Competency in Operational Technical Documentation Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000381",
+    "name": "Applied Express.js Operations",
+    "category": "Programming",
+    "description": "Competency in Applied Express.js Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000382",
+    "name": "Modern Scikit-learn Operations",
+    "category": "Data & AI",
+    "description": "Competency in Modern Scikit-learn Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000383",
+    "name": "Advanced Terraform Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Terraform Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000384",
+    "name": "Enterprise Network Security Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Network Security Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000385",
+    "name": "Distributed Automated Testing Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Automated Testing Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000386",
+    "name": "Scalable Mentoring & Coaching Operations",
+    "category": "Management & Agile",
+    "description": "Competency in Scalable Mentoring & Coaching Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000387",
+    "name": "Core Angular Operations",
+    "category": "Programming",
+    "description": "Competency in Core Angular Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000388",
+    "name": "Cloud-Native Hadoop Operations",
+    "category": "Data & AI",
+    "description": "Competency in Cloud-Native Hadoop Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000389",
+    "name": "Strategic CI/CD Pipelines Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic CI/CD Pipelines Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000390",
+    "name": "Operational Application Security Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Application Security Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000391",
+    "name": "Applied Unit Testing Practices",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Unit Testing Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000392",
+    "name": "Modern Budget Planning Practices",
+    "category": "Management & Agile",
+    "description": "Competency in Modern Budget Planning Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000393",
+    "name": "Advanced WebAssembly Practices",
+    "category": "Programming",
+    "description": "Competency in Advanced WebAssembly Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000394",
+    "name": "Enterprise Tableau Practices",
+    "category": "Data & AI",
+    "description": "Competency in Enterprise Tableau Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000395",
+    "name": "Distributed Linux Administration Practices",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Linux Administration Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000396",
+    "name": "Scalable Threat Modeling Practices",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Threat Modeling Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000397",
+    "name": "Core Integration Testing Practices",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Integration Testing Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000398",
+    "name": "Cloud-Native Risk Management Practices",
+    "category": "Management & Agile",
+    "description": "Competency in Cloud-Native Risk Management Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000399",
+    "name": "Strategic AsyncIO Practices",
+    "category": "Programming",
+    "description": "Competency in Strategic AsyncIO Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000400",
+    "name": "Operational Power BI Practices",
+    "category": "Data & AI",
+    "description": "Competency in Operational Power BI Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000401",
+    "name": "Applied Prometheus & Grafana Systems",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Prometheus & Grafana Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000402",
+    "name": "Modern Penetration Testing Systems",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Penetration Testing Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000403",
+    "name": "Advanced Selenium Systems",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Selenium Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000404",
+    "name": "Enterprise Conflict Resolution Systems",
+    "category": "Management & Agile",
+    "description": "Competency in Enterprise Conflict Resolution Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000405",
+    "name": "Distributed Microservices Systems",
+    "category": "Programming",
+    "description": "Competency in Distributed Microservices Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000406",
+    "name": "Scalable Feature Store Systems",
+    "category": "Data & AI",
+    "description": "Competency in Scalable Feature Store Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000407",
+    "name": "Core GitLab CI Systems",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core GitLab CI Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000408",
+    "name": "Cloud-Native OWASP Top 10 Systems",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native OWASP Top 10 Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000409",
+    "name": "Strategic Cypress Systems",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Cypress Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000410",
+    "name": "Operational KPI & OKR Tracking Systems",
+    "category": "Management & Agile",
+    "description": "Competency in Operational KPI & OKR Tracking Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000411",
+    "name": "Advanced GitHub Actions Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced GitHub Actions Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000412",
+    "name": "Enterprise Identity & Access Management (IAM) Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Identity & Access Management (IAM) Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000413",
+    "name": "Distributed Playwright Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Playwright Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000414",
+    "name": "Strategic Ansible Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Ansible Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000415",
+    "name": "Operational SIEM & SOC Operations Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational SIEM & SOC Operations Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000416",
+    "name": "Applied Performance Testing & k6 Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Performance Testing & k6 Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000417",
+    "name": "Distributed Helm Charts Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Helm Charts Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000418",
+    "name": "Scalable Cryptography Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Cryptography Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000419",
+    "name": "Core Test-Driven Development Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Test-Driven Development Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000420",
+    "name": "Applied Serverless Computing Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Serverless Computing Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000421",
+    "name": "Modern Incident Response Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Incident Response Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000422",
+    "name": "Advanced Domain-Driven Design Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Domain-Driven Design Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000423",
+    "name": "Core Service Mesh (Istio) Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Service Mesh (Istio) Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000424",
+    "name": "Cloud-Native Vulnerability Assessment Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Vulnerability Assessment Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000425",
+    "name": "Strategic Design Patterns Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Design Patterns Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000426",
+    "name": "Advanced Site Reliability Engineering Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Site Reliability Engineering Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000427",
+    "name": "Enterprise Cloud Security Posture Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Cloud Security Posture Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000428",
+    "name": "Distributed System Architecture Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed System Architecture Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000429",
+    "name": "Strategic Nginx Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Nginx Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000430",
+    "name": "Operational Zero Trust Architecture Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Zero Trust Architecture Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000431",
+    "name": "Applied High Availability Design Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied High Availability Design Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000432",
+    "name": "Distributed Infrastructure as Code Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Infrastructure as Code Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000433",
+    "name": "Scalable SOC 2 & ISO 27001 Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable SOC 2 & ISO 27001 Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000434",
+    "name": "Core Distributed Systems Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Distributed Systems Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000435",
+    "name": "Applied Networking Protocols Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Networking Protocols Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000436",
+    "name": "Modern Compliance Auditing Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Compliance Auditing Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000437",
+    "name": "Advanced Fault Tolerance Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Fault Tolerance Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000438",
+    "name": "Core Kafka Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Kafka Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000439",
+    "name": "Cloud-Native Endpoint Detection (EDR) Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Endpoint Detection (EDR) Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000440",
+    "name": "Strategic API Design Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic API Design Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000441",
+    "name": "Advanced Docker Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Docker Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000442",
+    "name": "Enterprise Network Security Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Network Security Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000443",
+    "name": "Distributed Automated Testing Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Automated Testing Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000444",
+    "name": "Strategic Kubernetes Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Kubernetes Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000445",
+    "name": "Operational Application Security Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Application Security Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000446",
+    "name": "Applied Unit Testing Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Unit Testing Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000447",
+    "name": "Distributed AWS Architecture Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed AWS Architecture Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000448",
+    "name": "Scalable Threat Modeling Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Threat Modeling Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000449",
+    "name": "Core Integration Testing Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Integration Testing Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000450",
+    "name": "Applied Google Cloud Platform Practices",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Google Cloud Platform Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000451",
+    "name": "Modern Penetration Testing Practices",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Penetration Testing Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000452",
+    "name": "Advanced Selenium Practices",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Selenium Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000453",
+    "name": "Core Microsoft Azure Practices",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Microsoft Azure Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000454",
+    "name": "Cloud-Native OWASP Top 10 Practices",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native OWASP Top 10 Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000455",
+    "name": "Strategic Cypress Practices",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Cypress Practices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000456",
+    "name": "Advanced Terraform Systems",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Terraform Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000457",
+    "name": "Enterprise Identity & Access Management (IAM) Systems",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Identity & Access Management (IAM) Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000458",
+    "name": "Distributed Playwright Systems",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Playwright Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000459",
+    "name": "Strategic CI/CD Pipelines Systems",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic CI/CD Pipelines Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000460",
+    "name": "Operational SIEM & SOC Operations Systems",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational SIEM & SOC Operations Systems for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000461",
+    "name": "Applied Performance Testing & k6 Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Performance Testing & k6 Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000462",
+    "name": "Distributed Linux Administration Engineering",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Linux Administration Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000463",
+    "name": "Scalable Cryptography Engineering",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Cryptography Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000464",
+    "name": "Core Test-Driven Development Engineering",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Test-Driven Development Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000465",
+    "name": "Applied Prometheus & Grafana Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Prometheus & Grafana Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000466",
+    "name": "Modern Incident Response Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Incident Response Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000467",
+    "name": "Advanced Domain-Driven Design Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Domain-Driven Design Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000468",
+    "name": "Core GitLab CI Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core GitLab CI Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000469",
+    "name": "Cloud-Native Vulnerability Assessment Architecture",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Vulnerability Assessment Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000470",
+    "name": "Strategic Design Patterns Architecture",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Design Patterns Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000471",
+    "name": "Advanced GitHub Actions Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced GitHub Actions Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000472",
+    "name": "Enterprise Cloud Security Posture Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Cloud Security Posture Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000473",
+    "name": "Distributed System Architecture Design",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed System Architecture Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000474",
+    "name": "Strategic Ansible Design",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Ansible Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000475",
+    "name": "Operational Zero Trust Architecture Design",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Zero Trust Architecture Design for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000476",
+    "name": "Applied High Availability Design Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied High Availability Design Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000477",
+    "name": "Distributed Helm Charts Optimization",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Helm Charts Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000478",
+    "name": "Scalable SOC 2 & ISO 27001 Optimization",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable SOC 2 & ISO 27001 Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000479",
+    "name": "Core Distributed Systems Optimization",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Distributed Systems Optimization for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000480",
+    "name": "Applied Serverless Computing Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Serverless Computing Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000481",
+    "name": "Modern Compliance Auditing Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Compliance Auditing Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000482",
+    "name": "Advanced Fault Tolerance Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Fault Tolerance Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000483",
+    "name": "Core Service Mesh (Istio) Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Service Mesh (Istio) Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000484",
+    "name": "Cloud-Native Endpoint Detection (EDR) Administration",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native Endpoint Detection (EDR) Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000485",
+    "name": "Strategic API Design Administration",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic API Design Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000486",
+    "name": "Advanced Site Reliability Engineering Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Advanced Site Reliability Engineering Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000487",
+    "name": "Enterprise Network Security Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Enterprise Network Security Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000488",
+    "name": "Distributed Automated Testing Management",
+    "category": "Quality & Architecture",
+    "description": "Competency in Distributed Automated Testing Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000489",
+    "name": "Strategic Nginx Management",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Strategic Nginx Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000490",
+    "name": "Operational Application Security Management",
+    "category": "Cybersecurity",
+    "description": "Competency in Operational Application Security Management for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000491",
+    "name": "Applied Unit Testing Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Applied Unit Testing Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000492",
+    "name": "Distributed Infrastructure as Code Security",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Distributed Infrastructure as Code Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000493",
+    "name": "Scalable Threat Modeling Security",
+    "category": "Cybersecurity",
+    "description": "Competency in Scalable Threat Modeling Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000494",
+    "name": "Core Integration Testing Security",
+    "category": "Quality & Architecture",
+    "description": "Competency in Core Integration Testing Security for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000495",
+    "name": "Applied Networking Protocols Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Applied Networking Protocols Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000496",
+    "name": "Modern Penetration Testing Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Modern Penetration Testing Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000497",
+    "name": "Advanced Selenium Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Advanced Selenium Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000498",
+    "name": "Core Kafka Operations",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Core Kafka Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000499",
+    "name": "Cloud-Native OWASP Top 10 Operations",
+    "category": "Cybersecurity",
+    "description": "Competency in Cloud-Native OWASP Top 10 Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000500",
+    "name": "Strategic Cypress Operations",
+    "category": "Quality & Architecture",
+    "description": "Competency in Strategic Cypress Operations for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  }
+]

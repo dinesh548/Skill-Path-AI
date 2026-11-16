@@ -1,0 +1,522 @@
+[
+  {
+    "id": "SKL-000001",
+    "name": "Python",
+    "category": "Programming",
+    "description": "Competency in Python for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000002",
+    "name": "JavaScript",
+    "category": "Programming",
+    "description": "Competency in JavaScript for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000003",
+    "name": "TypeScript",
+    "category": "Programming",
+    "description": "Competency in TypeScript for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000004",
+    "name": "Go",
+    "category": "Programming",
+    "description": "Competency in Go for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000005",
+    "name": "Java",
+    "category": "Programming",
+    "description": "Competency in Java for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000006",
+    "name": "C++",
+    "category": "Programming",
+    "description": "Competency in C++ for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000007",
+    "name": "Rust",
+    "category": "Programming",
+    "description": "Competency in Rust for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000008",
+    "name": "C#",
+    "category": "Programming",
+    "description": "Competency in C# for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000009",
+    "name": "Kotlin",
+    "category": "Programming",
+    "description": "Competency in Kotlin for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000010",
+    "name": "Swift",
+    "category": "Programming",
+    "description": "Competency in Swift for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000011",
+    "name": "React",
+    "category": "Programming",
+    "description": "Competency in React for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000012",
+    "name": "Node.js",
+    "category": "Programming",
+    "description": "Competency in Node.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000013",
+    "name": "FastAPI",
+    "category": "Programming",
+    "description": "Competency in FastAPI for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000014",
+    "name": "Django",
+    "category": "Programming",
+    "description": "Competency in Django for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000015",
+    "name": "Spring Boot",
+    "category": "Programming",
+    "description": "Competency in Spring Boot for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000016",
+    "name": "GraphQL",
+    "category": "Programming",
+    "description": "Competency in GraphQL for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000017",
+    "name": "RESTful APIs",
+    "category": "Programming",
+    "description": "Competency in RESTful APIs for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000018",
+    "name": "HTML5/CSS3",
+    "category": "Programming",
+    "description": "Competency in HTML5/CSS3 for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000019",
+    "name": "Next.js",
+    "category": "Programming",
+    "description": "Competency in Next.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000020",
+    "name": "Vue.js",
+    "category": "Programming",
+    "description": "Competency in Vue.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000021",
+    "name": "Express.js",
+    "category": "Programming",
+    "description": "Competency in Express.js for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000022",
+    "name": "Angular",
+    "category": "Programming",
+    "description": "Competency in Angular for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000023",
+    "name": "WebAssembly",
+    "category": "Programming",
+    "description": "Competency in WebAssembly for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000024",
+    "name": "AsyncIO",
+    "category": "Programming",
+    "description": "Competency in AsyncIO for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000025",
+    "name": "Microservices",
+    "category": "Programming",
+    "description": "Competency in Microservices for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000026",
+    "name": "SQL",
+    "category": "Data & AI",
+    "description": "Competency in SQL for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000027",
+    "name": "Pandas",
+    "category": "Data & AI",
+    "description": "Competency in Pandas for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000028",
+    "name": "NumPy",
+    "category": "Data & AI",
+    "description": "Competency in NumPy for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000029",
+    "name": "Apache Spark",
+    "category": "Data & AI",
+    "description": "Competency in Apache Spark for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000030",
+    "name": "Machine Learning",
+    "category": "Data & AI",
+    "description": "Competency in Machine Learning for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000031",
+    "name": "Deep Learning",
+    "category": "Data & AI",
+    "description": "Competency in Deep Learning for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000032",
+    "name": "PyTorch",
+    "category": "Data & AI",
+    "description": "Competency in PyTorch for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000033",
+    "name": "TensorFlow",
+    "category": "Data & AI",
+    "description": "Competency in TensorFlow for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000034",
+    "name": "Data Warehousing",
+    "category": "Data & AI",
+    "description": "Competency in Data Warehousing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000035",
+    "name": "BigQuery",
+    "category": "Data & AI",
+    "description": "Competency in BigQuery for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000036",
+    "name": "Snowflake",
+    "category": "Data & AI",
+    "description": "Competency in Snowflake for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000037",
+    "name": "dbt",
+    "category": "Data & AI",
+    "description": "Competency in dbt for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000038",
+    "name": "Airflow",
+    "category": "Data & AI",
+    "description": "Competency in Airflow for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000039",
+    "name": "Data Modeling",
+    "category": "Data & AI",
+    "description": "Competency in Data Modeling for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000040",
+    "name": "MLOps",
+    "category": "Data & AI",
+    "description": "Competency in MLOps for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000041",
+    "name": "NLP",
+    "category": "Data & AI",
+    "description": "Competency in NLP for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000042",
+    "name": "Computer Vision",
+    "category": "Data & AI",
+    "description": "Competency in Computer Vision for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000043",
+    "name": "LLMs & Prompt Engineering",
+    "category": "Data & AI",
+    "description": "Competency in LLMs & Prompt Engineering for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000044",
+    "name": "Vector Databases",
+    "category": "Data & AI",
+    "description": "Competency in Vector Databases for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000045",
+    "name": "Statistical Analysis",
+    "category": "Data & AI",
+    "description": "Competency in Statistical Analysis for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000046",
+    "name": "Scikit-learn",
+    "category": "Data & AI",
+    "description": "Competency in Scikit-learn for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000047",
+    "name": "Hadoop",
+    "category": "Data & AI",
+    "description": "Competency in Hadoop for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000048",
+    "name": "Tableau",
+    "category": "Data & AI",
+    "description": "Competency in Tableau for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000049",
+    "name": "Power BI",
+    "category": "Data & AI",
+    "description": "Competency in Power BI for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000050",
+    "name": "Feature Store",
+    "category": "Data & AI",
+    "description": "Competency in Feature Store for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000051",
+    "name": "Docker",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Docker for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000052",
+    "name": "Kubernetes",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Kubernetes for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000053",
+    "name": "AWS Architecture",
+    "category": "Cloud & DevOps",
+    "description": "Competency in AWS Architecture for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000054",
+    "name": "Google Cloud Platform",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Google Cloud Platform for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000055",
+    "name": "Microsoft Azure",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Microsoft Azure for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000056",
+    "name": "Terraform",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Terraform for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000057",
+    "name": "CI/CD Pipelines",
+    "category": "Cloud & DevOps",
+    "description": "Competency in CI/CD Pipelines for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000058",
+    "name": "Linux Administration",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Linux Administration for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000059",
+    "name": "Prometheus & Grafana",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Prometheus & Grafana for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000060",
+    "name": "GitLab CI",
+    "category": "Cloud & DevOps",
+    "description": "Competency in GitLab CI for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000061",
+    "name": "GitHub Actions",
+    "category": "Cloud & DevOps",
+    "description": "Competency in GitHub Actions for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000062",
+    "name": "Ansible",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Ansible for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000063",
+    "name": "Helm Charts",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Helm Charts for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000064",
+    "name": "Serverless Computing",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Serverless Computing for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  },
+  {
+    "id": "SKL-000065",
+    "name": "Service Mesh (Istio)",
+    "category": "Cloud & DevOps",
+    "description": "Competency in Service Mesh (Istio) for enterprise applications.",
+    "min_proficiency": 0,
+    "max_proficiency": 5
+  }
+]

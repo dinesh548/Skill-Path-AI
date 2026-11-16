@@ -1,0 +1,131 @@
+{
+  "validation_timestamp": "2026-02-16T12:00:00Z",
+  "seed": 20261022,
+  "checks": {
+    "primary_key_uniqueness": {
+      "passed": true,
+      "message": "All primary keys are strictly unique across all 12 entities",
+      "details": {}
+    },
+    "foreign_key_integrity": {
+      "passed": true,
+      "message": "Zero dangling foreign keys found across relational bridges",
+      "details": {
+        "errors": 0
+      }
+    },
+    "proficiency_ranges": {
+      "passed": true,
+      "message": "All proficiency values strictly adhere to defined bounds (current: 0-5, target: 1-5)",
+      "details": {
+        "invalid_cur": 0,
+        "invalid_target": 0
+      }
+    },
+    "valid_enum_values": {
+      "passed": true,
+      "message": "All categorical enum fields match allowed domain specifications",
+      "details": {}
+    },
+    "date_ordering": {
+      "passed": true,
+      "message": "All chronological constraints (start_date <= end_date, etc.) satisfied",
+      "details": {}
+    },
+    "budget_reconciliation": {
+      "passed": true,
+      "message": "Department budgets reconcile exactly: Allocated == Spent + Remaining",
+      "details": {}
+    },
+    "course_capacity_bounds": {
+      "passed": true,
+      "message": "All courses operate within designated seat capacities",
+      "details": {}
+    },
+    "prerequisite_acyclic_and_non_self": {
+      "passed": true,
+      "message": "No self-referential or cyclic prerequisite anomalies found",
+      "details": {}
+    },
+    "completion_and_reassessment_consistency": {
+      "passed": true,
+      "message": "Skill proficiency changes strictly gated behind completed post-course reassessments",
+      "details": {}
+    },
+    "five_required_exception_scenarios": {
+      "passed": true,
+      "message": "All 5 required exception scenarios are modelled, detected, and traceable",
+      "details": {
+        "found_types": [
+          "UNASSESSED_GAP",
+          "COURSE_UNAVAILABLE",
+          "BUDGET_EXCEEDED",
+          "DUPLICATE_COMPLETION",
+          "PREREQUISITE_VIOLATION"
+        ]
+      }
+    },
+    "deterministic_reproducibility": {
+      "passed": true,
+      "message": "Same random seed (20261022) produces 100% bit-identical datasets across separate runs",
+      "details": {
+        "files": {
+          "budgets.csv": {
+            "sha256": "40c80a2af2e3b5ce15a0a639e170631150db389469b6b51794bfa6ea345e5392",
+            "matches": true
+          },
+          "roles.csv": {
+            "sha256": "7e44cb9e09d04d1dc5192c81c3b9b54752a111712bde1c730ac30a5d06951c28",
+            "matches": true
+          },
+          "skills.csv": {
+            "sha256": "9ba05cc295881e7536c6478449828728338ebed135e7ba540afc69dedab61979",
+            "matches": true
+          },
+          "role_skill_targets.csv": {
+            "sha256": "38ed373a507ffe7c44f5ea43dd722ba8fc285eae5ed8bee933ea5a8c99712142",
+            "matches": true
+          },
+          "courses.csv": {
+            "sha256": "0fe5bf35bb553e43f4cdfa87b4e7fe53c3d4320f58123167bb64e45bf2bf00db",
+            "matches": true
+          },
+          "course_skills.csv": {
+            "sha256": "21507bd9cf00f4ab1e1b9cea18a50be8868762d0735fb45ec2e6fd2fabf9ece2",
+            "matches": true
+          },
+          "prerequisites.csv": {
+            "sha256": "126441109629a80cca7217cce91c48e65f2291237ac0a429c808652759427740",
+            "matches": true
+          },
+          "employees.csv": {
+            "sha256": "f2d53fd9e596879ee0e7f0a5c293becf7f6716c42ebb41764e470a6e69248d67",
+            "matches": true
+          },
+          "employee_skills.csv": {
+            "sha256": "39407c409ce4e0f1bed99d83e625a129cbb4f7155853bff3a4a1566f760f2063",
+            "matches": true
+          },
+          "enrollments.csv": {
+            "sha256": "8e15b661241fe6c98b783e0ca927110435a2b1240ef0adca825a05d1e02046ab",
+            "matches": true
+          },
+          "completions.csv": {
+            "sha256": "e70f57e34db0da45eb8b0c0e16f02e36470d3d7f97bb4972bf3046144c6c8d7f",
+            "matches": true
+          },
+          "exceptions.csv": {
+            "sha256": "d20c3427c6256d523d4b0872eb84fa3a739d0c590697bdec9f71130297effab2",
+            "matches": true
+          }
+        }
+      }
+    }
+  },
+  "summary": {
+    "total_checks": 11,
+    "passed": 11,
+    "failed": 0,
+    "status": "PASS"
+  }
+}

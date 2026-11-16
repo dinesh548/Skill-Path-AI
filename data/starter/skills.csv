@@ -1,0 +1,66 @@
+id,name,category,description,min_proficiency,max_proficiency
+SKL-000001,Python,Programming,Competency in Python for enterprise applications.,0,5
+SKL-000002,JavaScript,Programming,Competency in JavaScript for enterprise applications.,0,5
+SKL-000003,TypeScript,Programming,Competency in TypeScript for enterprise applications.,0,5
+SKL-000004,Go,Programming,Competency in Go for enterprise applications.,0,5
+SKL-000005,Java,Programming,Competency in Java for enterprise applications.,0,5
+SKL-000006,C++,Programming,Competency in C++ for enterprise applications.,0,5
+SKL-000007,Rust,Programming,Competency in Rust for enterprise applications.,0,5
+SKL-000008,C#,Programming,Competency in C# for enterprise applications.,0,5
+SKL-000009,Kotlin,Programming,Competency in Kotlin for enterprise applications.,0,5
+SKL-000010,Swift,Programming,Competency in Swift for enterprise applications.,0,5
+SKL-000011,React,Programming,Competency in React for enterprise applications.,0,5
+SKL-000012,Node.js,Programming,Competency in Node.js for enterprise applications.,0,5
+SKL-000013,FastAPI,Programming,Competency in FastAPI for enterprise applications.,0,5
+SKL-000014,Django,Programming,Competency in Django for enterprise applications.,0,5
+SKL-000015,Spring Boot,Programming,Competency in Spring Boot for enterprise applications.,0,5
+SKL-000016,GraphQL,Programming,Competency in GraphQL for enterprise applications.,0,5
+SKL-000017,RESTful APIs,Programming,Competency in RESTful APIs for enterprise applications.,0,5
+SKL-000018,HTML5/CSS3,Programming,Competency in HTML5/CSS3 for enterprise applications.,0,5
+SKL-000019,Next.js,Programming,Competency in Next.js for enterprise applications.,0,5
+SKL-000020,Vue.js,Programming,Competency in Vue.js for enterprise applications.,0,5
+SKL-000021,Express.js,Programming,Competency in Express.js for enterprise applications.,0,5
+SKL-000022,Angular,Programming,Competency in Angular for enterprise applications.,0,5
+SKL-000023,WebAssembly,Programming,Competency in WebAssembly for enterprise applications.,0,5
+SKL-000024,AsyncIO,Programming,Competency in AsyncIO for enterprise applications.,0,5
+SKL-000025,Microservices,Programming,Competency in Microservices for enterprise applications.,0,5
+SKL-000026,SQL,Data & AI,Competency in SQL for enterprise applications.,0,5
+SKL-000027,Pandas,Data & AI,Competency in Pandas for enterprise applications.,0,5
+SKL-000028,NumPy,Data & AI,Competency in NumPy for enterprise applications.,0,5
+SKL-000029,Apache Spark,Data & AI,Competency in Apache Spark for enterprise applications.,0,5
+SKL-000030,Machine Learning,Data & AI,Competency in Machine Learning for enterprise applications.,0,5
+SKL-000031,Deep Learning,Data & AI,Competency in Deep Learning for enterprise applications.,0,5
+SKL-000032,PyTorch,Data & AI,Competency in PyTorch for enterprise applications.,0,5
+SKL-000033,TensorFlow,Data & AI,Competency in TensorFlow for enterprise applications.,0,5
+SKL-000034,Data Warehousing,Data & AI,Competency in Data Warehousing for enterprise applications.,0,5
+SKL-000035,BigQuery,Data & AI,Competency in BigQuery for enterprise applications.,0,5
+SKL-000036,Snowflake,Data & AI,Competency in Snowflake for enterprise applications.,0,5
+SKL-000037,dbt,Data & AI,Competency in dbt for enterprise applications.,0,5
+SKL-000038,Airflow,Data & AI,Competency in Airflow for enterprise applications.,0,5
+SKL-000039,Data Modeling,Data & AI,Competency in Data Modeling for enterprise applications.,0,5
+SKL-000040,MLOps,Data & AI,Competency in MLOps for enterprise applications.,0,5
+SKL-000041,NLP,Data & AI,Competency in NLP for enterprise applications.,0,5
+SKL-000042,Computer Vision,Data & AI,Competency in Computer Vision for enterprise applications.,0,5
+SKL-000043,LLMs & Prompt Engineering,Data & AI,Competency in LLMs & Prompt Engineering for enterprise applications.,0,5
+SKL-000044,Vector Databases,Data & AI,Competency in Vector Databases for enterprise applications.,0,5
+SKL-000045,Statistical Analysis,Data & AI,Competency in Statistical Analysis for enterprise applications.,0,5
+SKL-000046,Scikit-learn,Data & AI,Competency in Scikit-learn for enterprise applications.,0,5
+SKL-000047,Hadoop,Data & AI,Competency in Hadoop for enterprise applications.,0,5
+SKL-000048,Tableau,Data & AI,Competency in Tableau for enterprise applications.,0,5
+SKL-000049,Power BI,Data & AI,Competency in Power BI for enterprise applications.,0,5
+SKL-000050,Feature Store,Data & AI,Competency in Feature Store for enterprise applications.,0,5
+SKL-000051,Docker,Cloud & DevOps,Competency in Docker for enterprise applications.,0,5
+SKL-000052,Kubernetes,Cloud & DevOps,Competency in Kubernetes for enterprise applications.,0,5
+SKL-000053,AWS Architecture,Cloud & DevOps,Competency in AWS Architecture for enterprise applications.,0,5
+SKL-000054,Google Cloud Platform,Cloud & DevOps,Competency in Google Cloud Platform for enterprise applications.,0,5
+SKL-000055,Microsoft Azure,Cloud & DevOps,Competency in Microsoft Azure for enterprise applications.,0,5
+SKL-000056,Terraform,Cloud & DevOps,Competency in Terraform for enterprise applications.,0,5
+SKL-000057,CI/CD Pipelines,Cloud & DevOps,Competency in CI/CD Pipelines for enterprise applications.,0,5
+SKL-000058,Linux Administration,Cloud & DevOps,Competency in Linux Administration for enterprise applications.,0,5
+SKL-000059,Prometheus & Grafana,Cloud & DevOps,Competency in Prometheus & Grafana for enterprise applications.,0,5
+SKL-000060,GitLab CI,Cloud & DevOps,Competency in GitLab CI for enterprise applications.,0,5
+SKL-000061,GitHub Actions,Cloud & DevOps,Competency in GitHub Actions for enterprise applications.,0,5
+SKL-000062,Ansible,Cloud & DevOps,Competency in Ansible for enterprise applications.,0,5
+SKL-000063,Helm Charts,Cloud & DevOps,Competency in Helm Charts for enterprise applications.,0,5
+SKL-000064,Serverless Computing,Cloud & DevOps,Competency in Serverless Computing for enterprise applications.,0,5
+SKL-000065,Service Mesh (Istio),Cloud & DevOps,Competency in Service Mesh (Istio) for enterprise applications.,0,5

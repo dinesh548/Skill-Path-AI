@@ -1,0 +1,501 @@
+id,name,category,description,min_proficiency,max_proficiency
+SKL-000001,Python,Programming,Competency in Python for enterprise applications.,0,5
+SKL-000002,JavaScript,Programming,Competency in JavaScript for enterprise applications.,0,5
+SKL-000003,TypeScript,Programming,Competency in TypeScript for enterprise applications.,0,5
+SKL-000004,Go,Programming,Competency in Go for enterprise applications.,0,5
+SKL-000005,Java,Programming,Competency in Java for enterprise applications.,0,5
+SKL-000006,C++,Programming,Competency in C++ for enterprise applications.,0,5
+SKL-000007,Rust,Programming,Competency in Rust for enterprise applications.,0,5
+SKL-000008,C#,Programming,Competency in C# for enterprise applications.,0,5
+SKL-000009,Kotlin,Programming,Competency in Kotlin for enterprise applications.,0,5
+SKL-000010,Swift,Programming,Competency in Swift for enterprise applications.,0,5
+SKL-000011,React,Programming,Competency in React for enterprise applications.,0,5
+SKL-000012,Node.js,Programming,Competency in Node.js for enterprise applications.,0,5
+SKL-000013,FastAPI,Programming,Competency in FastAPI for enterprise applications.,0,5
+SKL-000014,Django,Programming,Competency in Django for enterprise applications.,0,5
+SKL-000015,Spring Boot,Programming,Competency in Spring Boot for enterprise applications.,0,5
+SKL-000016,GraphQL,Programming,Competency in GraphQL for enterprise applications.,0,5
+SKL-000017,RESTful APIs,Programming,Competency in RESTful APIs for enterprise applications.,0,5
+SKL-000018,HTML5/CSS3,Programming,Competency in HTML5/CSS3 for enterprise applications.,0,5
+SKL-000019,Next.js,Programming,Competency in Next.js for enterprise applications.,0,5
+SKL-000020,Vue.js,Programming,Competency in Vue.js for enterprise applications.,0,5
+SKL-000021,Express.js,Programming,Competency in Express.js for enterprise applications.,0,5
+SKL-000022,Angular,Programming,Competency in Angular for enterprise applications.,0,5
+SKL-000023,WebAssembly,Programming,Competency in WebAssembly for enterprise applications.,0,5
+SKL-000024,AsyncIO,Programming,Competency in AsyncIO for enterprise applications.,0,5
+SKL-000025,Microservices,Programming,Competency in Microservices for enterprise applications.,0,5
+SKL-000026,SQL,Data & AI,Competency in SQL for enterprise applications.,0,5
+SKL-000027,Pandas,Data & AI,Competency in Pandas for enterprise applications.,0,5
+SKL-000028,NumPy,Data & AI,Competency in NumPy for enterprise applications.,0,5
+SKL-000029,Apache Spark,Data & AI,Competency in Apache Spark for enterprise applications.,0,5
+SKL-000030,Machine Learning,Data & AI,Competency in Machine Learning for enterprise applications.,0,5
+SKL-000031,Deep Learning,Data & AI,Competency in Deep Learning for enterprise applications.,0,5
+SKL-000032,PyTorch,Data & AI,Competency in PyTorch for enterprise applications.,0,5
+SKL-000033,TensorFlow,Data & AI,Competency in TensorFlow for enterprise applications.,0,5
+SKL-000034,Data Warehousing,Data & AI,Competency in Data Warehousing for enterprise applications.,0,5
+SKL-000035,BigQuery,Data & AI,Competency in BigQuery for enterprise applications.,0,5
+SKL-000036,Snowflake,Data & AI,Competency in Snowflake for enterprise applications.,0,5
+SKL-000037,dbt,Data & AI,Competency in dbt for enterprise applications.,0,5
+SKL-000038,Airflow,Data & AI,Competency in Airflow for enterprise applications.,0,5
+SKL-000039,Data Modeling,Data & AI,Competency in Data Modeling for enterprise applications.,0,5
+SKL-000040,MLOps,Data & AI,Competency in MLOps for enterprise applications.,0,5
+SKL-000041,NLP,Data & AI,Competency in NLP for enterprise applications.,0,5
+SKL-000042,Computer Vision,Data & AI,Competency in Computer Vision for enterprise applications.,0,5
+SKL-000043,LLMs & Prompt Engineering,Data & AI,Competency in LLMs & Prompt Engineering for enterprise applications.,0,5
+SKL-000044,Vector Databases,Data & AI,Competency in Vector Databases for enterprise applications.,0,5
+SKL-000045,Statistical Analysis,Data & AI,Competency in Statistical Analysis for enterprise applications.,0,5
+SKL-000046,Scikit-learn,Data & AI,Competency in Scikit-learn for enterprise applications.,0,5
+SKL-000047,Hadoop,Data & AI,Competency in Hadoop for enterprise applications.,0,5
+SKL-000048,Tableau,Data & AI,Competency in Tableau for enterprise applications.,0,5
+SKL-000049,Power BI,Data & AI,Competency in Power BI for enterprise applications.,0,5
+SKL-000050,Feature Store,Data & AI,Competency in Feature Store for enterprise applications.,0,5
+SKL-000051,Docker,Cloud & DevOps,Competency in Docker for enterprise applications.,0,5
+SKL-000052,Kubernetes,Cloud & DevOps,Competency in Kubernetes for enterprise applications.,0,5
+SKL-000053,AWS Architecture,Cloud & DevOps,Competency in AWS Architecture for enterprise applications.,0,5
+SKL-000054,Google Cloud Platform,Cloud & DevOps,Competency in Google Cloud Platform for enterprise applications.,0,5
+SKL-000055,Microsoft Azure,Cloud & DevOps,Competency in Microsoft Azure for enterprise applications.,0,5
+SKL-000056,Terraform,Cloud & DevOps,Competency in Terraform for enterprise applications.,0,5
+SKL-000057,CI/CD Pipelines,Cloud & DevOps,Competency in CI/CD Pipelines for enterprise applications.,0,5
+SKL-000058,Linux Administration,Cloud & DevOps,Competency in Linux Administration for enterprise applications.,0,5
+SKL-000059,Prometheus & Grafana,Cloud & DevOps,Competency in Prometheus & Grafana for enterprise applications.,0,5
+SKL-000060,GitLab CI,Cloud & DevOps,Competency in GitLab CI for enterprise applications.,0,5
+SKL-000061,GitHub Actions,Cloud & DevOps,Competency in GitHub Actions for enterprise applications.,0,5
+SKL-000062,Ansible,Cloud & DevOps,Competency in Ansible for enterprise applications.,0,5
+SKL-000063,Helm Charts,Cloud & DevOps,Competency in Helm Charts for enterprise applications.,0,5
+SKL-000064,Serverless Computing,Cloud & DevOps,Competency in Serverless Computing for enterprise applications.,0,5
+SKL-000065,Service Mesh (Istio),Cloud & DevOps,Competency in Service Mesh (Istio) for enterprise applications.,0,5
+SKL-000066,Site Reliability Engineering,Cloud & DevOps,Competency in Site Reliability Engineering for enterprise applications.,0,5
+SKL-000067,Nginx,Cloud & DevOps,Competency in Nginx for enterprise applications.,0,5
+SKL-000068,Infrastructure as Code,Cloud & DevOps,Competency in Infrastructure as Code for enterprise applications.,0,5
+SKL-000069,Networking Protocols,Cloud & DevOps,Competency in Networking Protocols for enterprise applications.,0,5
+SKL-000070,Kafka,Cloud & DevOps,Competency in Kafka for enterprise applications.,0,5
+SKL-000071,Network Security,Cybersecurity,Competency in Network Security for enterprise applications.,0,5
+SKL-000072,Application Security,Cybersecurity,Competency in Application Security for enterprise applications.,0,5
+SKL-000073,Threat Modeling,Cybersecurity,Competency in Threat Modeling for enterprise applications.,0,5
+SKL-000074,Penetration Testing,Cybersecurity,Competency in Penetration Testing for enterprise applications.,0,5
+SKL-000075,OWASP Top 10,Cybersecurity,Competency in OWASP Top 10 for enterprise applications.,0,5
+SKL-000076,Identity & Access Management (IAM),Cybersecurity,Competency in Identity & Access Management (IAM) for enterprise applications.,0,5
+SKL-000077,SIEM & SOC Operations,Cybersecurity,Competency in SIEM & SOC Operations for enterprise applications.,0,5
+SKL-000078,Cryptography,Cybersecurity,Competency in Cryptography for enterprise applications.,0,5
+SKL-000079,Incident Response,Cybersecurity,Competency in Incident Response for enterprise applications.,0,5
+SKL-000080,Vulnerability Assessment,Cybersecurity,Competency in Vulnerability Assessment for enterprise applications.,0,5
+SKL-000081,Cloud Security Posture,Cybersecurity,Competency in Cloud Security Posture for enterprise applications.,0,5
+SKL-000082,Zero Trust Architecture,Cybersecurity,Competency in Zero Trust Architecture for enterprise applications.,0,5
+SKL-000083,SOC 2 & ISO 27001,Cybersecurity,Competency in SOC 2 & ISO 27001 for enterprise applications.,0,5
+SKL-000084,Compliance Auditing,Cybersecurity,Competency in Compliance Auditing for enterprise applications.,0,5
+SKL-000085,Endpoint Detection (EDR),Cybersecurity,Competency in Endpoint Detection (EDR) for enterprise applications.,0,5
+SKL-000086,Automated Testing,Quality & Architecture,Competency in Automated Testing for enterprise applications.,0,5
+SKL-000087,Unit Testing,Quality & Architecture,Competency in Unit Testing for enterprise applications.,0,5
+SKL-000088,Integration Testing,Quality & Architecture,Competency in Integration Testing for enterprise applications.,0,5
+SKL-000089,Selenium,Quality & Architecture,Competency in Selenium for enterprise applications.,0,5
+SKL-000090,Cypress,Quality & Architecture,Competency in Cypress for enterprise applications.,0,5
+SKL-000091,Playwright,Quality & Architecture,Competency in Playwright for enterprise applications.,0,5
+SKL-000092,Performance Testing & k6,Quality & Architecture,Competency in Performance Testing & k6 for enterprise applications.,0,5
+SKL-000093,Test-Driven Development,Quality & Architecture,Competency in Test-Driven Development for enterprise applications.,0,5
+SKL-000094,Domain-Driven Design,Quality & Architecture,Competency in Domain-Driven Design for enterprise applications.,0,5
+SKL-000095,Design Patterns,Quality & Architecture,Competency in Design Patterns for enterprise applications.,0,5
+SKL-000096,System Architecture,Quality & Architecture,Competency in System Architecture for enterprise applications.,0,5
+SKL-000097,High Availability Design,Quality & Architecture,Competency in High Availability Design for enterprise applications.,0,5
+SKL-000098,Distributed Systems,Quality & Architecture,Competency in Distributed Systems for enterprise applications.,0,5
+SKL-000099,Fault Tolerance,Quality & Architecture,Competency in Fault Tolerance for enterprise applications.,0,5
+SKL-000100,API Design,Quality & Architecture,Competency in API Design for enterprise applications.,0,5
+SKL-000101,Agile Methodology,Management & Agile,Competency in Agile Methodology for enterprise applications.,0,5
+SKL-000102,Scrum Framework,Management & Agile,Competency in Scrum Framework for enterprise applications.,0,5
+SKL-000103,Product Roadmapping,Management & Agile,Competency in Product Roadmapping for enterprise applications.,0,5
+SKL-000104,Stakeholder Management,Management & Agile,Competency in Stakeholder Management for enterprise applications.,0,5
+SKL-000105,Technical Documentation,Management & Agile,Competency in Technical Documentation for enterprise applications.,0,5
+SKL-000106,Mentoring & Coaching,Management & Agile,Competency in Mentoring & Coaching for enterprise applications.,0,5
+SKL-000107,Budget Planning,Management & Agile,Competency in Budget Planning for enterprise applications.,0,5
+SKL-000108,Risk Management,Management & Agile,Competency in Risk Management for enterprise applications.,0,5
+SKL-000109,Conflict Resolution,Management & Agile,Competency in Conflict Resolution for enterprise applications.,0,5
+SKL-000110,KPI & OKR Tracking,Management & Agile,Competency in KPI & OKR Tracking for enterprise applications.,0,5
+SKL-000111,Applied Python Engineering,Programming,Competency in Applied Python Engineering for enterprise applications.,0,5
+SKL-000112,Modern SQL Engineering,Data & AI,Competency in Modern SQL Engineering for enterprise applications.,0,5
+SKL-000113,Advanced Docker Engineering,Cloud & DevOps,Competency in Advanced Docker Engineering for enterprise applications.,0,5
+SKL-000114,Enterprise Network Security Engineering,Cybersecurity,Competency in Enterprise Network Security Engineering for enterprise applications.,0,5
+SKL-000115,Distributed Automated Testing Engineering,Quality & Architecture,Competency in Distributed Automated Testing Engineering for enterprise applications.,0,5
+SKL-000116,Scalable Agile Methodology Engineering,Management & Agile,Competency in Scalable Agile Methodology Engineering for enterprise applications.,0,5
+SKL-000117,Core JavaScript Engineering,Programming,Competency in Core JavaScript Engineering for enterprise applications.,0,5
+SKL-000118,Cloud-Native Pandas Engineering,Data & AI,Competency in Cloud-Native Pandas Engineering for enterprise applications.,0,5
+SKL-000119,Strategic Kubernetes Engineering,Cloud & DevOps,Competency in Strategic Kubernetes Engineering for enterprise applications.,0,5
+SKL-000120,Operational Application Security Engineering,Cybersecurity,Competency in Operational Application Security Engineering for enterprise applications.,0,5
+SKL-000121,Applied Unit Testing Architecture,Quality & Architecture,Competency in Applied Unit Testing Architecture for enterprise applications.,0,5
+SKL-000122,Modern Scrum Framework Architecture,Management & Agile,Competency in Modern Scrum Framework Architecture for enterprise applications.,0,5
+SKL-000123,Advanced TypeScript Architecture,Programming,Competency in Advanced TypeScript Architecture for enterprise applications.,0,5
+SKL-000124,Enterprise NumPy Architecture,Data & AI,Competency in Enterprise NumPy Architecture for enterprise applications.,0,5
+SKL-000125,Distributed AWS Architecture Architecture,Cloud & DevOps,Competency in Distributed AWS Architecture Architecture for enterprise applications.,0,5
+SKL-000126,Scalable Threat Modeling Architecture,Cybersecurity,Competency in Scalable Threat Modeling Architecture for enterprise applications.,0,5
+SKL-000127,Core Integration Testing Architecture,Quality & Architecture,Competency in Core Integration Testing Architecture for enterprise applications.,0,5
+SKL-000128,Cloud-Native Product Roadmapping Architecture,Management & Agile,Competency in Cloud-Native Product Roadmapping Architecture for enterprise applications.,0,5
+SKL-000129,Strategic Go Architecture,Programming,Competency in Strategic Go Architecture for enterprise applications.,0,5
+SKL-000130,Operational Apache Spark Architecture,Data & AI,Competency in Operational Apache Spark Architecture for enterprise applications.,0,5
+SKL-000131,Applied Google Cloud Platform Design,Cloud & DevOps,Competency in Applied Google Cloud Platform Design for enterprise applications.,0,5
+SKL-000132,Modern Penetration Testing Design,Cybersecurity,Competency in Modern Penetration Testing Design for enterprise applications.,0,5
+SKL-000133,Advanced Selenium Design,Quality & Architecture,Competency in Advanced Selenium Design for enterprise applications.,0,5
+SKL-000134,Enterprise Stakeholder Management Design,Management & Agile,Competency in Enterprise Stakeholder Management Design for enterprise applications.,0,5
+SKL-000135,Distributed Java Design,Programming,Competency in Distributed Java Design for enterprise applications.,0,5
+SKL-000136,Scalable Machine Learning Design,Data & AI,Competency in Scalable Machine Learning Design for enterprise applications.,0,5
+SKL-000137,Core Microsoft Azure Design,Cloud & DevOps,Competency in Core Microsoft Azure Design for enterprise applications.,0,5
+SKL-000138,Cloud-Native OWASP Top 10 Design,Cybersecurity,Competency in Cloud-Native OWASP Top 10 Design for enterprise applications.,0,5
+SKL-000139,Strategic Cypress Design,Quality & Architecture,Competency in Strategic Cypress Design for enterprise applications.,0,5
+SKL-000140,Operational Technical Documentation Design,Management & Agile,Competency in Operational Technical Documentation Design for enterprise applications.,0,5
+SKL-000141,Applied C++ Optimization,Programming,Competency in Applied C++ Optimization for enterprise applications.,0,5
+SKL-000142,Modern Deep Learning Optimization,Data & AI,Competency in Modern Deep Learning Optimization for enterprise applications.,0,5
+SKL-000143,Advanced Terraform Optimization,Cloud & DevOps,Competency in Advanced Terraform Optimization for enterprise applications.,0,5
+SKL-000144,Enterprise Identity & Access Management (IAM) Optimization,Cybersecurity,Competency in Enterprise Identity & Access Management (IAM) Optimization for enterprise applications.,0,5
+SKL-000145,Distributed Playwright Optimization,Quality & Architecture,Competency in Distributed Playwright Optimization for enterprise applications.,0,5
+SKL-000146,Scalable Mentoring & Coaching Optimization,Management & Agile,Competency in Scalable Mentoring & Coaching Optimization for enterprise applications.,0,5
+SKL-000147,Core Rust Optimization,Programming,Competency in Core Rust Optimization for enterprise applications.,0,5
+SKL-000148,Cloud-Native PyTorch Optimization,Data & AI,Competency in Cloud-Native PyTorch Optimization for enterprise applications.,0,5
+SKL-000149,Strategic CI/CD Pipelines Optimization,Cloud & DevOps,Competency in Strategic CI/CD Pipelines Optimization for enterprise applications.,0,5
+SKL-000150,Operational SIEM & SOC Operations Optimization,Cybersecurity,Competency in Operational SIEM & SOC Operations Optimization for enterprise applications.,0,5
+SKL-000151,Applied Performance Testing & k6 Administration,Quality & Architecture,Competency in Applied Performance Testing & k6 Administration for enterprise applications.,0,5
+SKL-000152,Modern Budget Planning Administration,Management & Agile,Competency in Modern Budget Planning Administration for enterprise applications.,0,5
+SKL-000153,Advanced C# Administration,Programming,Competency in Advanced C# Administration for enterprise applications.,0,5
+SKL-000154,Enterprise TensorFlow Administration,Data & AI,Competency in Enterprise TensorFlow Administration for enterprise applications.,0,5
+SKL-000155,Distributed Linux Administration Administration,Cloud & DevOps,Competency in Distributed Linux Administration Administration for enterprise applications.,0,5
+SKL-000156,Scalable Cryptography Administration,Cybersecurity,Competency in Scalable Cryptography Administration for enterprise applications.,0,5
+SKL-000157,Core Test-Driven Development Administration,Quality & Architecture,Competency in Core Test-Driven Development Administration for enterprise applications.,0,5
+SKL-000158,Cloud-Native Risk Management Administration,Management & Agile,Competency in Cloud-Native Risk Management Administration for enterprise applications.,0,5
+SKL-000159,Strategic Kotlin Administration,Programming,Competency in Strategic Kotlin Administration for enterprise applications.,0,5
+SKL-000160,Operational Data Warehousing Administration,Data & AI,Competency in Operational Data Warehousing Administration for enterprise applications.,0,5
+SKL-000161,Applied Prometheus & Grafana Management,Cloud & DevOps,Competency in Applied Prometheus & Grafana Management for enterprise applications.,0,5
+SKL-000162,Modern Incident Response Management,Cybersecurity,Competency in Modern Incident Response Management for enterprise applications.,0,5
+SKL-000163,Advanced Domain-Driven Design Management,Quality & Architecture,Competency in Advanced Domain-Driven Design Management for enterprise applications.,0,5
+SKL-000164,Enterprise Conflict Resolution Management,Management & Agile,Competency in Enterprise Conflict Resolution Management for enterprise applications.,0,5
+SKL-000165,Distributed Swift Management,Programming,Competency in Distributed Swift Management for enterprise applications.,0,5
+SKL-000166,Scalable BigQuery Management,Data & AI,Competency in Scalable BigQuery Management for enterprise applications.,0,5
+SKL-000167,Core GitLab CI Management,Cloud & DevOps,Competency in Core GitLab CI Management for enterprise applications.,0,5
+SKL-000168,Cloud-Native Vulnerability Assessment Management,Cybersecurity,Competency in Cloud-Native Vulnerability Assessment Management for enterprise applications.,0,5
+SKL-000169,Strategic Design Patterns Management,Quality & Architecture,Competency in Strategic Design Patterns Management for enterprise applications.,0,5
+SKL-000170,Operational KPI & OKR Tracking Management,Management & Agile,Competency in Operational KPI & OKR Tracking Management for enterprise applications.,0,5
+SKL-000171,Applied React Security,Programming,Competency in Applied React Security for enterprise applications.,0,5
+SKL-000172,Modern Snowflake Security,Data & AI,Competency in Modern Snowflake Security for enterprise applications.,0,5
+SKL-000173,Advanced GitHub Actions Security,Cloud & DevOps,Competency in Advanced GitHub Actions Security for enterprise applications.,0,5
+SKL-000174,Enterprise Cloud Security Posture Security,Cybersecurity,Competency in Enterprise Cloud Security Posture Security for enterprise applications.,0,5
+SKL-000175,Distributed System Architecture Security,Quality & Architecture,Competency in Distributed System Architecture Security for enterprise applications.,0,5
+SKL-000176,Scalable Agile Methodology Security,Management & Agile,Competency in Scalable Agile Methodology Security for enterprise applications.,0,5
+SKL-000177,Core Node.js Security,Programming,Competency in Core Node.js Security for enterprise applications.,0,5
+SKL-000178,Cloud-Native dbt Security,Data & AI,Competency in Cloud-Native dbt Security for enterprise applications.,0,5
+SKL-000179,Strategic Ansible Security,Cloud & DevOps,Competency in Strategic Ansible Security for enterprise applications.,0,5
+SKL-000180,Operational Zero Trust Architecture Security,Cybersecurity,Competency in Operational Zero Trust Architecture Security for enterprise applications.,0,5
+SKL-000181,Applied High Availability Design Operations,Quality & Architecture,Competency in Applied High Availability Design Operations for enterprise applications.,0,5
+SKL-000182,Modern Scrum Framework Operations,Management & Agile,Competency in Modern Scrum Framework Operations for enterprise applications.,0,5
+SKL-000183,Advanced FastAPI Operations,Programming,Competency in Advanced FastAPI Operations for enterprise applications.,0,5
+SKL-000184,Enterprise Airflow Operations,Data & AI,Competency in Enterprise Airflow Operations for enterprise applications.,0,5
+SKL-000185,Distributed Helm Charts Operations,Cloud & DevOps,Competency in Distributed Helm Charts Operations for enterprise applications.,0,5
+SKL-000186,Scalable SOC 2 & ISO 27001 Operations,Cybersecurity,Competency in Scalable SOC 2 & ISO 27001 Operations for enterprise applications.,0,5
+SKL-000187,Core Distributed Systems Operations,Quality & Architecture,Competency in Core Distributed Systems Operations for enterprise applications.,0,5
+SKL-000188,Cloud-Native Product Roadmapping Operations,Management & Agile,Competency in Cloud-Native Product Roadmapping Operations for enterprise applications.,0,5
+SKL-000189,Strategic Django Operations,Programming,Competency in Strategic Django Operations for enterprise applications.,0,5
+SKL-000190,Operational Data Modeling Operations,Data & AI,Competency in Operational Data Modeling Operations for enterprise applications.,0,5
+SKL-000191,Applied Serverless Computing Practices,Cloud & DevOps,Competency in Applied Serverless Computing Practices for enterprise applications.,0,5
+SKL-000192,Modern Compliance Auditing Practices,Cybersecurity,Competency in Modern Compliance Auditing Practices for enterprise applications.,0,5
+SKL-000193,Advanced Fault Tolerance Practices,Quality & Architecture,Competency in Advanced Fault Tolerance Practices for enterprise applications.,0,5
+SKL-000194,Enterprise Stakeholder Management Practices,Management & Agile,Competency in Enterprise Stakeholder Management Practices for enterprise applications.,0,5
+SKL-000195,Distributed Spring Boot Practices,Programming,Competency in Distributed Spring Boot Practices for enterprise applications.,0,5
+SKL-000196,Scalable MLOps Practices,Data & AI,Competency in Scalable MLOps Practices for enterprise applications.,0,5
+SKL-000197,Core Service Mesh (Istio) Practices,Cloud & DevOps,Competency in Core Service Mesh (Istio) Practices for enterprise applications.,0,5
+SKL-000198,Cloud-Native Endpoint Detection (EDR) Practices,Cybersecurity,Competency in Cloud-Native Endpoint Detection (EDR) Practices for enterprise applications.,0,5
+SKL-000199,Strategic API Design Practices,Quality & Architecture,Competency in Strategic API Design Practices for enterprise applications.,0,5
+SKL-000200,Operational Technical Documentation Practices,Management & Agile,Competency in Operational Technical Documentation Practices for enterprise applications.,0,5
+SKL-000201,Applied GraphQL Systems,Programming,Competency in Applied GraphQL Systems for enterprise applications.,0,5
+SKL-000202,Modern NLP Systems,Data & AI,Competency in Modern NLP Systems for enterprise applications.,0,5
+SKL-000203,Advanced Site Reliability Engineering Systems,Cloud & DevOps,Competency in Advanced Site Reliability Engineering Systems for enterprise applications.,0,5
+SKL-000204,Enterprise Network Security Systems,Cybersecurity,Competency in Enterprise Network Security Systems for enterprise applications.,0,5
+SKL-000205,Distributed Automated Testing Systems,Quality & Architecture,Competency in Distributed Automated Testing Systems for enterprise applications.,0,5
+SKL-000206,Scalable Mentoring & Coaching Systems,Management & Agile,Competency in Scalable Mentoring & Coaching Systems for enterprise applications.,0,5
+SKL-000207,Core RESTful APIs Systems,Programming,Competency in Core RESTful APIs Systems for enterprise applications.,0,5
+SKL-000208,Cloud-Native Computer Vision Systems,Data & AI,Competency in Cloud-Native Computer Vision Systems for enterprise applications.,0,5
+SKL-000209,Strategic Nginx Systems,Cloud & DevOps,Competency in Strategic Nginx Systems for enterprise applications.,0,5
+SKL-000210,Operational Application Security Systems,Cybersecurity,Competency in Operational Application Security Systems for enterprise applications.,0,5
+SKL-000211,Applied Unit Testing Engineering,Quality & Architecture,Competency in Applied Unit Testing Engineering for enterprise applications.,0,5
+SKL-000212,Modern Budget Planning Engineering,Management & Agile,Competency in Modern Budget Planning Engineering for enterprise applications.,0,5
+SKL-000213,Advanced HTML5/CSS3 Engineering,Programming,Competency in Advanced HTML5/CSS3 Engineering for enterprise applications.,0,5
+SKL-000214,Enterprise LLMs & Prompt Engineering Engineering,Data & AI,Competency in Enterprise LLMs & Prompt Engineering Engineering for enterprise applications.,0,5
+SKL-000215,Distributed Infrastructure as Code Engineering,Cloud & DevOps,Competency in Distributed Infrastructure as Code Engineering for enterprise applications.,0,5
+SKL-000216,Scalable Threat Modeling Engineering,Cybersecurity,Competency in Scalable Threat Modeling Engineering for enterprise applications.,0,5
+SKL-000217,Core Integration Testing Engineering,Quality & Architecture,Competency in Core Integration Testing Engineering for enterprise applications.,0,5
+SKL-000218,Cloud-Native Risk Management Engineering,Management & Agile,Competency in Cloud-Native Risk Management Engineering for enterprise applications.,0,5
+SKL-000219,Strategic Next.js Engineering,Programming,Competency in Strategic Next.js Engineering for enterprise applications.,0,5
+SKL-000220,Operational Vector Databases Engineering,Data & AI,Competency in Operational Vector Databases Engineering for enterprise applications.,0,5
+SKL-000221,Applied Networking Protocols Architecture,Cloud & DevOps,Competency in Applied Networking Protocols Architecture for enterprise applications.,0,5
+SKL-000222,Modern Penetration Testing Architecture,Cybersecurity,Competency in Modern Penetration Testing Architecture for enterprise applications.,0,5
+SKL-000223,Advanced Selenium Architecture,Quality & Architecture,Competency in Advanced Selenium Architecture for enterprise applications.,0,5
+SKL-000224,Enterprise Conflict Resolution Architecture,Management & Agile,Competency in Enterprise Conflict Resolution Architecture for enterprise applications.,0,5
+SKL-000225,Distributed Vue.js Architecture,Programming,Competency in Distributed Vue.js Architecture for enterprise applications.,0,5
+SKL-000226,Scalable Statistical Analysis Architecture,Data & AI,Competency in Scalable Statistical Analysis Architecture for enterprise applications.,0,5
+SKL-000227,Core Kafka Architecture,Cloud & DevOps,Competency in Core Kafka Architecture for enterprise applications.,0,5
+SKL-000228,Cloud-Native OWASP Top 10 Architecture,Cybersecurity,Competency in Cloud-Native OWASP Top 10 Architecture for enterprise applications.,0,5
+SKL-000229,Strategic Cypress Architecture,Quality & Architecture,Competency in Strategic Cypress Architecture for enterprise applications.,0,5
+SKL-000230,Operational KPI & OKR Tracking Architecture,Management & Agile,Competency in Operational KPI & OKR Tracking Architecture for enterprise applications.,0,5
+SKL-000231,Applied Express.js Design,Programming,Competency in Applied Express.js Design for enterprise applications.,0,5
+SKL-000232,Modern Scikit-learn Design,Data & AI,Competency in Modern Scikit-learn Design for enterprise applications.,0,5
+SKL-000233,Advanced Docker Design,Cloud & DevOps,Competency in Advanced Docker Design for enterprise applications.,0,5
+SKL-000234,Enterprise Identity & Access Management (IAM) Design,Cybersecurity,Competency in Enterprise Identity & Access Management (IAM) Design for enterprise applications.,0,5
+SKL-000235,Distributed Playwright Design,Quality & Architecture,Competency in Distributed Playwright Design for enterprise applications.,0,5
+SKL-000236,Scalable Agile Methodology Design,Management & Agile,Competency in Scalable Agile Methodology Design for enterprise applications.,0,5
+SKL-000237,Core Angular Design,Programming,Competency in Core Angular Design for enterprise applications.,0,5
+SKL-000238,Cloud-Native Hadoop Design,Data & AI,Competency in Cloud-Native Hadoop Design for enterprise applications.,0,5
+SKL-000239,Strategic Kubernetes Design,Cloud & DevOps,Competency in Strategic Kubernetes Design for enterprise applications.,0,5
+SKL-000240,Operational SIEM & SOC Operations Design,Cybersecurity,Competency in Operational SIEM & SOC Operations Design for enterprise applications.,0,5
+SKL-000241,Applied Performance Testing & k6 Optimization,Quality & Architecture,Competency in Applied Performance Testing & k6 Optimization for enterprise applications.,0,5
+SKL-000242,Modern Scrum Framework Optimization,Management & Agile,Competency in Modern Scrum Framework Optimization for enterprise applications.,0,5
+SKL-000243,Advanced WebAssembly Optimization,Programming,Competency in Advanced WebAssembly Optimization for enterprise applications.,0,5
+SKL-000244,Enterprise Tableau Optimization,Data & AI,Competency in Enterprise Tableau Optimization for enterprise applications.,0,5
+SKL-000245,Distributed AWS Architecture Optimization,Cloud & DevOps,Competency in Distributed AWS Architecture Optimization for enterprise applications.,0,5
+SKL-000246,Scalable Cryptography Optimization,Cybersecurity,Competency in Scalable Cryptography Optimization for enterprise applications.,0,5
+SKL-000247,Core Test-Driven Development Optimization,Quality & Architecture,Competency in Core Test-Driven Development Optimization for enterprise applications.,0,5
+SKL-000248,Cloud-Native Product Roadmapping Optimization,Management & Agile,Competency in Cloud-Native Product Roadmapping Optimization for enterprise applications.,0,5
+SKL-000249,Strategic AsyncIO Optimization,Programming,Competency in Strategic AsyncIO Optimization for enterprise applications.,0,5
+SKL-000250,Operational Power BI Optimization,Data & AI,Competency in Operational Power BI Optimization for enterprise applications.,0,5
+SKL-000251,Applied Google Cloud Platform Administration,Cloud & DevOps,Competency in Applied Google Cloud Platform Administration for enterprise applications.,0,5
+SKL-000252,Modern Incident Response Administration,Cybersecurity,Competency in Modern Incident Response Administration for enterprise applications.,0,5
+SKL-000253,Advanced Domain-Driven Design Administration,Quality & Architecture,Competency in Advanced Domain-Driven Design Administration for enterprise applications.,0,5
+SKL-000254,Enterprise Stakeholder Management Administration,Management & Agile,Competency in Enterprise Stakeholder Management Administration for enterprise applications.,0,5
+SKL-000255,Distributed Microservices Administration,Programming,Competency in Distributed Microservices Administration for enterprise applications.,0,5
+SKL-000256,Scalable Feature Store Administration,Data & AI,Competency in Scalable Feature Store Administration for enterprise applications.,0,5
+SKL-000257,Core Microsoft Azure Administration,Cloud & DevOps,Competency in Core Microsoft Azure Administration for enterprise applications.,0,5
+SKL-000258,Cloud-Native Vulnerability Assessment Administration,Cybersecurity,Competency in Cloud-Native Vulnerability Assessment Administration for enterprise applications.,0,5
+SKL-000259,Strategic Design Patterns Administration,Quality & Architecture,Competency in Strategic Design Patterns Administration for enterprise applications.,0,5
+SKL-000260,Operational Technical Documentation Administration,Management & Agile,Competency in Operational Technical Documentation Administration for enterprise applications.,0,5
+SKL-000261,Applied Python Management,Programming,Competency in Applied Python Management for enterprise applications.,0,5
+SKL-000262,Modern SQL Management,Data & AI,Competency in Modern SQL Management for enterprise applications.,0,5
+SKL-000263,Advanced Terraform Management,Cloud & DevOps,Competency in Advanced Terraform Management for enterprise applications.,0,5
+SKL-000264,Enterprise Cloud Security Posture Management,Cybersecurity,Competency in Enterprise Cloud Security Posture Management for enterprise applications.,0,5
+SKL-000265,Distributed System Architecture Management,Quality & Architecture,Competency in Distributed System Architecture Management for enterprise applications.,0,5
+SKL-000266,Scalable Mentoring & Coaching Management,Management & Agile,Competency in Scalable Mentoring & Coaching Management for enterprise applications.,0,5
+SKL-000267,Core JavaScript Management,Programming,Competency in Core JavaScript Management for enterprise applications.,0,5
+SKL-000268,Cloud-Native Pandas Management,Data & AI,Competency in Cloud-Native Pandas Management for enterprise applications.,0,5
+SKL-000269,Strategic CI/CD Pipelines Management,Cloud & DevOps,Competency in Strategic CI/CD Pipelines Management for enterprise applications.,0,5
+SKL-000270,Operational Zero Trust Architecture Management,Cybersecurity,Competency in Operational Zero Trust Architecture Management for enterprise applications.,0,5
+SKL-000271,Applied High Availability Design Security,Quality & Architecture,Competency in Applied High Availability Design Security for enterprise applications.,0,5
+SKL-000272,Modern Budget Planning Security,Management & Agile,Competency in Modern Budget Planning Security for enterprise applications.,0,5
+SKL-000273,Advanced TypeScript Security,Programming,Competency in Advanced TypeScript Security for enterprise applications.,0,5
+SKL-000274,Enterprise NumPy Security,Data & AI,Competency in Enterprise NumPy Security for enterprise applications.,0,5
+SKL-000275,Distributed Linux Administration Security,Cloud & DevOps,Competency in Distributed Linux Administration Security for enterprise applications.,0,5
+SKL-000276,Scalable SOC 2 & ISO 27001 Security,Cybersecurity,Competency in Scalable SOC 2 & ISO 27001 Security for enterprise applications.,0,5
+SKL-000277,Core Distributed Systems Security,Quality & Architecture,Competency in Core Distributed Systems Security for enterprise applications.,0,5
+SKL-000278,Cloud-Native Risk Management Security,Management & Agile,Competency in Cloud-Native Risk Management Security for enterprise applications.,0,5
+SKL-000279,Strategic Go Security,Programming,Competency in Strategic Go Security for enterprise applications.,0,5
+SKL-000280,Operational Apache Spark Security,Data & AI,Competency in Operational Apache Spark Security for enterprise applications.,0,5
+SKL-000281,Applied Prometheus & Grafana Operations,Cloud & DevOps,Competency in Applied Prometheus & Grafana Operations for enterprise applications.,0,5
+SKL-000282,Modern Compliance Auditing Operations,Cybersecurity,Competency in Modern Compliance Auditing Operations for enterprise applications.,0,5
+SKL-000283,Advanced Fault Tolerance Operations,Quality & Architecture,Competency in Advanced Fault Tolerance Operations for enterprise applications.,0,5
+SKL-000284,Enterprise Conflict Resolution Operations,Management & Agile,Competency in Enterprise Conflict Resolution Operations for enterprise applications.,0,5
+SKL-000285,Distributed Java Operations,Programming,Competency in Distributed Java Operations for enterprise applications.,0,5
+SKL-000286,Scalable Machine Learning Operations,Data & AI,Competency in Scalable Machine Learning Operations for enterprise applications.,0,5
+SKL-000287,Core GitLab CI Operations,Cloud & DevOps,Competency in Core GitLab CI Operations for enterprise applications.,0,5
+SKL-000288,Cloud-Native Endpoint Detection (EDR) Operations,Cybersecurity,Competency in Cloud-Native Endpoint Detection (EDR) Operations for enterprise applications.,0,5
+SKL-000289,Strategic API Design Operations,Quality & Architecture,Competency in Strategic API Design Operations for enterprise applications.,0,5
+SKL-000290,Operational KPI & OKR Tracking Operations,Management & Agile,Competency in Operational KPI & OKR Tracking Operations for enterprise applications.,0,5
+SKL-000291,Applied C++ Practices,Programming,Competency in Applied C++ Practices for enterprise applications.,0,5
+SKL-000292,Modern Deep Learning Practices,Data & AI,Competency in Modern Deep Learning Practices for enterprise applications.,0,5
+SKL-000293,Advanced GitHub Actions Practices,Cloud & DevOps,Competency in Advanced GitHub Actions Practices for enterprise applications.,0,5
+SKL-000294,Enterprise Network Security Practices,Cybersecurity,Competency in Enterprise Network Security Practices for enterprise applications.,0,5
+SKL-000295,Distributed Automated Testing Practices,Quality & Architecture,Competency in Distributed Automated Testing Practices for enterprise applications.,0,5
+SKL-000296,Scalable Agile Methodology Practices,Management & Agile,Competency in Scalable Agile Methodology Practices for enterprise applications.,0,5
+SKL-000297,Core Rust Practices,Programming,Competency in Core Rust Practices for enterprise applications.,0,5
+SKL-000298,Cloud-Native PyTorch Practices,Data & AI,Competency in Cloud-Native PyTorch Practices for enterprise applications.,0,5
+SKL-000299,Strategic Ansible Practices,Cloud & DevOps,Competency in Strategic Ansible Practices for enterprise applications.,0,5
+SKL-000300,Operational Application Security Practices,Cybersecurity,Competency in Operational Application Security Practices for enterprise applications.,0,5
+SKL-000301,Applied Unit Testing Systems,Quality & Architecture,Competency in Applied Unit Testing Systems for enterprise applications.,0,5
+SKL-000302,Modern Scrum Framework Systems,Management & Agile,Competency in Modern Scrum Framework Systems for enterprise applications.,0,5
+SKL-000303,Advanced C# Systems,Programming,Competency in Advanced C# Systems for enterprise applications.,0,5
+SKL-000304,Enterprise TensorFlow Systems,Data & AI,Competency in Enterprise TensorFlow Systems for enterprise applications.,0,5
+SKL-000305,Distributed Helm Charts Systems,Cloud & DevOps,Competency in Distributed Helm Charts Systems for enterprise applications.,0,5
+SKL-000306,Scalable Threat Modeling Systems,Cybersecurity,Competency in Scalable Threat Modeling Systems for enterprise applications.,0,5
+SKL-000307,Core Integration Testing Systems,Quality & Architecture,Competency in Core Integration Testing Systems for enterprise applications.,0,5
+SKL-000308,Cloud-Native Product Roadmapping Systems,Management & Agile,Competency in Cloud-Native Product Roadmapping Systems for enterprise applications.,0,5
+SKL-000309,Strategic Kotlin Systems,Programming,Competency in Strategic Kotlin Systems for enterprise applications.,0,5
+SKL-000310,Operational Data Warehousing Systems,Data & AI,Competency in Operational Data Warehousing Systems for enterprise applications.,0,5
+SKL-000311,Applied Serverless Computing Engineering,Cloud & DevOps,Competency in Applied Serverless Computing Engineering for enterprise applications.,0,5
+SKL-000312,Modern Penetration Testing Engineering,Cybersecurity,Competency in Modern Penetration Testing Engineering for enterprise applications.,0,5
+SKL-000313,Advanced Selenium Engineering,Quality & Architecture,Competency in Advanced Selenium Engineering for enterprise applications.,0,5
+SKL-000314,Enterprise Stakeholder Management Engineering,Management & Agile,Competency in Enterprise Stakeholder Management Engineering for enterprise applications.,0,5
+SKL-000315,Distributed Swift Engineering,Programming,Competency in Distributed Swift Engineering for enterprise applications.,0,5
+SKL-000316,Scalable BigQuery Engineering,Data & AI,Competency in Scalable BigQuery Engineering for enterprise applications.,0,5
+SKL-000317,Core Service Mesh (Istio) Engineering,Cloud & DevOps,Competency in Core Service Mesh (Istio) Engineering for enterprise applications.,0,5
+SKL-000318,Cloud-Native OWASP Top 10 Engineering,Cybersecurity,Competency in Cloud-Native OWASP Top 10 Engineering for enterprise applications.,0,5
+SKL-000319,Strategic Cypress Engineering,Quality & Architecture,Competency in Strategic Cypress Engineering for enterprise applications.,0,5
+SKL-000320,Operational Technical Documentation Engineering,Management & Agile,Competency in Operational Technical Documentation Engineering for enterprise applications.,0,5
+SKL-000321,Applied React Architecture,Programming,Competency in Applied React Architecture for enterprise applications.,0,5
+SKL-000322,Modern Snowflake Architecture,Data & AI,Competency in Modern Snowflake Architecture for enterprise applications.,0,5
+SKL-000323,Advanced Site Reliability Engineering Architecture,Cloud & DevOps,Competency in Advanced Site Reliability Engineering Architecture for enterprise applications.,0,5
+SKL-000324,Enterprise Identity & Access Management (IAM) Architecture,Cybersecurity,Competency in Enterprise Identity & Access Management (IAM) Architecture for enterprise applications.,0,5
+SKL-000325,Distributed Playwright Architecture,Quality & Architecture,Competency in Distributed Playwright Architecture for enterprise applications.,0,5
+SKL-000326,Scalable Mentoring & Coaching Architecture,Management & Agile,Competency in Scalable Mentoring & Coaching Architecture for enterprise applications.,0,5
+SKL-000327,Core Node.js Architecture,Programming,Competency in Core Node.js Architecture for enterprise applications.,0,5
+SKL-000328,Cloud-Native dbt Architecture,Data & AI,Competency in Cloud-Native dbt Architecture for enterprise applications.,0,5
+SKL-000329,Strategic Nginx Architecture,Cloud & DevOps,Competency in Strategic Nginx Architecture for enterprise applications.,0,5
+SKL-000330,Operational SIEM & SOC Operations Architecture,Cybersecurity,Competency in Operational SIEM & SOC Operations Architecture for enterprise applications.,0,5
+SKL-000331,Applied Performance Testing & k6 Design,Quality & Architecture,Competency in Applied Performance Testing & k6 Design for enterprise applications.,0,5
+SKL-000332,Modern Budget Planning Design,Management & Agile,Competency in Modern Budget Planning Design for enterprise applications.,0,5
+SKL-000333,Advanced FastAPI Design,Programming,Competency in Advanced FastAPI Design for enterprise applications.,0,5
+SKL-000334,Enterprise Airflow Design,Data & AI,Competency in Enterprise Airflow Design for enterprise applications.,0,5
+SKL-000335,Distributed Infrastructure as Code Design,Cloud & DevOps,Competency in Distributed Infrastructure as Code Design for enterprise applications.,0,5
+SKL-000336,Scalable Cryptography Design,Cybersecurity,Competency in Scalable Cryptography Design for enterprise applications.,0,5
+SKL-000337,Core Test-Driven Development Design,Quality & Architecture,Competency in Core Test-Driven Development Design for enterprise applications.,0,5
+SKL-000338,Cloud-Native Risk Management Design,Management & Agile,Competency in Cloud-Native Risk Management Design for enterprise applications.,0,5
+SKL-000339,Strategic Django Design,Programming,Competency in Strategic Django Design for enterprise applications.,0,5
+SKL-000340,Operational Data Modeling Design,Data & AI,Competency in Operational Data Modeling Design for enterprise applications.,0,5
+SKL-000341,Applied Networking Protocols Optimization,Cloud & DevOps,Competency in Applied Networking Protocols Optimization for enterprise applications.,0,5
+SKL-000342,Modern Incident Response Optimization,Cybersecurity,Competency in Modern Incident Response Optimization for enterprise applications.,0,5
+SKL-000343,Advanced Domain-Driven Design Optimization,Quality & Architecture,Competency in Advanced Domain-Driven Design Optimization for enterprise applications.,0,5
+SKL-000344,Enterprise Conflict Resolution Optimization,Management & Agile,Competency in Enterprise Conflict Resolution Optimization for enterprise applications.,0,5
+SKL-000345,Distributed Spring Boot Optimization,Programming,Competency in Distributed Spring Boot Optimization for enterprise applications.,0,5
+SKL-000346,Scalable MLOps Optimization,Data & AI,Competency in Scalable MLOps Optimization for enterprise applications.,0,5
+SKL-000347,Core Kafka Optimization,Cloud & DevOps,Competency in Core Kafka Optimization for enterprise applications.,0,5
+SKL-000348,Cloud-Native Vulnerability Assessment Optimization,Cybersecurity,Competency in Cloud-Native Vulnerability Assessment Optimization for enterprise applications.,0,5
+SKL-000349,Strategic Design Patterns Optimization,Quality & Architecture,Competency in Strategic Design Patterns Optimization for enterprise applications.,0,5
+SKL-000350,Operational KPI & OKR Tracking Optimization,Management & Agile,Competency in Operational KPI & OKR Tracking Optimization for enterprise applications.,0,5
+SKL-000351,Applied GraphQL Administration,Programming,Competency in Applied GraphQL Administration for enterprise applications.,0,5
+SKL-000352,Modern NLP Administration,Data & AI,Competency in Modern NLP Administration for enterprise applications.,0,5
+SKL-000353,Advanced Docker Administration,Cloud & DevOps,Competency in Advanced Docker Administration for enterprise applications.,0,5
+SKL-000354,Enterprise Cloud Security Posture Administration,Cybersecurity,Competency in Enterprise Cloud Security Posture Administration for enterprise applications.,0,5
+SKL-000355,Distributed System Architecture Administration,Quality & Architecture,Competency in Distributed System Architecture Administration for enterprise applications.,0,5
+SKL-000356,Scalable Agile Methodology Administration,Management & Agile,Competency in Scalable Agile Methodology Administration for enterprise applications.,0,5
+SKL-000357,Core RESTful APIs Administration,Programming,Competency in Core RESTful APIs Administration for enterprise applications.,0,5
+SKL-000358,Cloud-Native Computer Vision Administration,Data & AI,Competency in Cloud-Native Computer Vision Administration for enterprise applications.,0,5
+SKL-000359,Strategic Kubernetes Administration,Cloud & DevOps,Competency in Strategic Kubernetes Administration for enterprise applications.,0,5
+SKL-000360,Operational Zero Trust Architecture Administration,Cybersecurity,Competency in Operational Zero Trust Architecture Administration for enterprise applications.,0,5
+SKL-000361,Applied High Availability Design Management,Quality & Architecture,Competency in Applied High Availability Design Management for enterprise applications.,0,5
+SKL-000362,Modern Scrum Framework Management,Management & Agile,Competency in Modern Scrum Framework Management for enterprise applications.,0,5
+SKL-000363,Advanced HTML5/CSS3 Management,Programming,Competency in Advanced HTML5/CSS3 Management for enterprise applications.,0,5
+SKL-000364,Enterprise LLMs & Prompt Engineering Management,Data & AI,Competency in Enterprise LLMs & Prompt Engineering Management for enterprise applications.,0,5
+SKL-000365,Distributed AWS Architecture Management,Cloud & DevOps,Competency in Distributed AWS Architecture Management for enterprise applications.,0,5
+SKL-000366,Scalable SOC 2 & ISO 27001 Management,Cybersecurity,Competency in Scalable SOC 2 & ISO 27001 Management for enterprise applications.,0,5
+SKL-000367,Core Distributed Systems Management,Quality & Architecture,Competency in Core Distributed Systems Management for enterprise applications.,0,5
+SKL-000368,Cloud-Native Product Roadmapping Management,Management & Agile,Competency in Cloud-Native Product Roadmapping Management for enterprise applications.,0,5
+SKL-000369,Strategic Next.js Management,Programming,Competency in Strategic Next.js Management for enterprise applications.,0,5
+SKL-000370,Operational Vector Databases Management,Data & AI,Competency in Operational Vector Databases Management for enterprise applications.,0,5
+SKL-000371,Applied Google Cloud Platform Security,Cloud & DevOps,Competency in Applied Google Cloud Platform Security for enterprise applications.,0,5
+SKL-000372,Modern Compliance Auditing Security,Cybersecurity,Competency in Modern Compliance Auditing Security for enterprise applications.,0,5
+SKL-000373,Advanced Fault Tolerance Security,Quality & Architecture,Competency in Advanced Fault Tolerance Security for enterprise applications.,0,5
+SKL-000374,Enterprise Stakeholder Management Security,Management & Agile,Competency in Enterprise Stakeholder Management Security for enterprise applications.,0,5
+SKL-000375,Distributed Vue.js Security,Programming,Competency in Distributed Vue.js Security for enterprise applications.,0,5
+SKL-000376,Scalable Statistical Analysis Security,Data & AI,Competency in Scalable Statistical Analysis Security for enterprise applications.,0,5
+SKL-000377,Core Microsoft Azure Security,Cloud & DevOps,Competency in Core Microsoft Azure Security for enterprise applications.,0,5
+SKL-000378,Cloud-Native Endpoint Detection (EDR) Security,Cybersecurity,Competency in Cloud-Native Endpoint Detection (EDR) Security for enterprise applications.,0,5
+SKL-000379,Strategic API Design Security,Quality & Architecture,Competency in Strategic API Design Security for enterprise applications.,0,5
+SKL-000380,Operational Technical Documentation Security,Management & Agile,Competency in Operational Technical Documentation Security for enterprise applications.,0,5
+SKL-000381,Applied Express.js Operations,Programming,Competency in Applied Express.js Operations for enterprise applications.,0,5
+SKL-000382,Modern Scikit-learn Operations,Data & AI,Competency in Modern Scikit-learn Operations for enterprise applications.,0,5
+SKL-000383,Advanced Terraform Operations,Cloud & DevOps,Competency in Advanced Terraform Operations for enterprise applications.,0,5
+SKL-000384,Enterprise Network Security Operations,Cybersecurity,Competency in Enterprise Network Security Operations for enterprise applications.,0,5
+SKL-000385,Distributed Automated Testing Operations,Quality & Architecture,Competency in Distributed Automated Testing Operations for enterprise applications.,0,5
+SKL-000386,Scalable Mentoring & Coaching Operations,Management & Agile,Competency in Scalable Mentoring & Coaching Operations for enterprise applications.,0,5
+SKL-000387,Core Angular Operations,Programming,Competency in Core Angular Operations for enterprise applications.,0,5
+SKL-000388,Cloud-Native Hadoop Operations,Data & AI,Competency in Cloud-Native Hadoop Operations for enterprise applications.,0,5
+SKL-000389,Strategic CI/CD Pipelines Operations,Cloud & DevOps,Competency in Strategic CI/CD Pipelines Operations for enterprise applications.,0,5
+SKL-000390,Operational Application Security Operations,Cybersecurity,Competency in Operational Application Security Operations for enterprise applications.,0,5
+SKL-000391,Applied Unit Testing Practices,Quality & Architecture,Competency in Applied Unit Testing Practices for enterprise applications.,0,5
+SKL-000392,Modern Budget Planning Practices,Management & Agile,Competency in Modern Budget Planning Practices for enterprise applications.,0,5
+SKL-000393,Advanced WebAssembly Practices,Programming,Competency in Advanced WebAssembly Practices for enterprise applications.,0,5
+SKL-000394,Enterprise Tableau Practices,Data & AI,Competency in Enterprise Tableau Practices for enterprise applications.,0,5
+SKL-000395,Distributed Linux Administration Practices,Cloud & DevOps,Competency in Distributed Linux Administration Practices for enterprise applications.,0,5
+SKL-000396,Scalable Threat Modeling Practices,Cybersecurity,Competency in Scalable Threat Modeling Practices for enterprise applications.,0,5
+SKL-000397,Core Integration Testing Practices,Quality & Architecture,Competency in Core Integration Testing Practices for enterprise applications.,0,5
+SKL-000398,Cloud-Native Risk Management Practices,Management & Agile,Competency in Cloud-Native Risk Management Practices for enterprise applications.,0,5
+SKL-000399,Strategic AsyncIO Practices,Programming,Competency in Strategic AsyncIO Practices for enterprise applications.,0,5
+SKL-000400,Operational Power BI Practices,Data & AI,Competency in Operational Power BI Practices for enterprise applications.,0,5
+SKL-000401,Applied Prometheus & Grafana Systems,Cloud & DevOps,Competency in Applied Prometheus & Grafana Systems for enterprise applications.,0,5
+SKL-000402,Modern Penetration Testing Systems,Cybersecurity,Competency in Modern Penetration Testing Systems for enterprise applications.,0,5
+SKL-000403,Advanced Selenium Systems,Quality & Architecture,Competency in Advanced Selenium Systems for enterprise applications.,0,5
+SKL-000404,Enterprise Conflict Resolution Systems,Management & Agile,Competency in Enterprise Conflict Resolution Systems for enterprise applications.,0,5
+SKL-000405,Distributed Microservices Systems,Programming,Competency in Distributed Microservices Systems for enterprise applications.,0,5
+SKL-000406,Scalable Feature Store Systems,Data & AI,Competency in Scalable Feature Store Systems for enterprise applications.,0,5
+SKL-000407,Core GitLab CI Systems,Cloud & DevOps,Competency in Core GitLab CI Systems for enterprise applications.,0,5
+SKL-000408,Cloud-Native OWASP Top 10 Systems,Cybersecurity,Competency in Cloud-Native OWASP Top 10 Systems for enterprise applications.,0,5
+SKL-000409,Strategic Cypress Systems,Quality & Architecture,Competency in Strategic Cypress Systems for enterprise applications.,0,5
+SKL-000410,Operational KPI & OKR Tracking Systems,Management & Agile,Competency in Operational KPI & OKR Tracking Systems for enterprise applications.,0,5
+SKL-000411,Advanced GitHub Actions Engineering,Cloud & DevOps,Competency in Advanced GitHub Actions Engineering for enterprise applications.,0,5
+SKL-000412,Enterprise Identity & Access Management (IAM) Engineering,Cybersecurity,Competency in Enterprise Identity & Access Management (IAM) Engineering for enterprise applications.,0,5
+SKL-000413,Distributed Playwright Engineering,Quality & Architecture,Competency in Distributed Playwright Engineering for enterprise applications.,0,5
+SKL-000414,Strategic Ansible Engineering,Cloud & DevOps,Competency in Strategic Ansible Engineering for enterprise applications.,0,5
+SKL-000415,Operational SIEM & SOC Operations Engineering,Cybersecurity,Competency in Operational SIEM & SOC Operations Engineering for enterprise applications.,0,5
+SKL-000416,Applied Performance Testing & k6 Architecture,Quality & Architecture,Competency in Applied Performance Testing & k6 Architecture for enterprise applications.,0,5
+SKL-000417,Distributed Helm Charts Architecture,Cloud & DevOps,Competency in Distributed Helm Charts Architecture for enterprise applications.,0,5
+SKL-000418,Scalable Cryptography Architecture,Cybersecurity,Competency in Scalable Cryptography Architecture for enterprise applications.,0,5
+SKL-000419,Core Test-Driven Development Architecture,Quality & Architecture,Competency in Core Test-Driven Development Architecture for enterprise applications.,0,5
+SKL-000420,Applied Serverless Computing Design,Cloud & DevOps,Competency in Applied Serverless Computing Design for enterprise applications.,0,5
+SKL-000421,Modern Incident Response Design,Cybersecurity,Competency in Modern Incident Response Design for enterprise applications.,0,5
+SKL-000422,Advanced Domain-Driven Design Design,Quality & Architecture,Competency in Advanced Domain-Driven Design Design for enterprise applications.,0,5
+SKL-000423,Core Service Mesh (Istio) Design,Cloud & DevOps,Competency in Core Service Mesh (Istio) Design for enterprise applications.,0,5
+SKL-000424,Cloud-Native Vulnerability Assessment Design,Cybersecurity,Competency in Cloud-Native Vulnerability Assessment Design for enterprise applications.,0,5
+SKL-000425,Strategic Design Patterns Design,Quality & Architecture,Competency in Strategic Design Patterns Design for enterprise applications.,0,5
+SKL-000426,Advanced Site Reliability Engineering Optimization,Cloud & DevOps,Competency in Advanced Site Reliability Engineering Optimization for enterprise applications.,0,5
+SKL-000427,Enterprise Cloud Security Posture Optimization,Cybersecurity,Competency in Enterprise Cloud Security Posture Optimization for enterprise applications.,0,5
+SKL-000428,Distributed System Architecture Optimization,Quality & Architecture,Competency in Distributed System Architecture Optimization for enterprise applications.,0,5
+SKL-000429,Strategic Nginx Optimization,Cloud & DevOps,Competency in Strategic Nginx Optimization for enterprise applications.,0,5
+SKL-000430,Operational Zero Trust Architecture Optimization,Cybersecurity,Competency in Operational Zero Trust Architecture Optimization for enterprise applications.,0,5
+SKL-000431,Applied High Availability Design Administration,Quality & Architecture,Competency in Applied High Availability Design Administration for enterprise applications.,0,5
+SKL-000432,Distributed Infrastructure as Code Administration,Cloud & DevOps,Competency in Distributed Infrastructure as Code Administration for enterprise applications.,0,5
+SKL-000433,Scalable SOC 2 & ISO 27001 Administration,Cybersecurity,Competency in Scalable SOC 2 & ISO 27001 Administration for enterprise applications.,0,5
+SKL-000434,Core Distributed Systems Administration,Quality & Architecture,Competency in Core Distributed Systems Administration for enterprise applications.,0,5
+SKL-000435,Applied Networking Protocols Management,Cloud & DevOps,Competency in Applied Networking Protocols Management for enterprise applications.,0,5
+SKL-000436,Modern Compliance Auditing Management,Cybersecurity,Competency in Modern Compliance Auditing Management for enterprise applications.,0,5
+SKL-000437,Advanced Fault Tolerance Management,Quality & Architecture,Competency in Advanced Fault Tolerance Management for enterprise applications.,0,5
+SKL-000438,Core Kafka Management,Cloud & DevOps,Competency in Core Kafka Management for enterprise applications.,0,5
+SKL-000439,Cloud-Native Endpoint Detection (EDR) Management,Cybersecurity,Competency in Cloud-Native Endpoint Detection (EDR) Management for enterprise applications.,0,5
+SKL-000440,Strategic API Design Management,Quality & Architecture,Competency in Strategic API Design Management for enterprise applications.,0,5
+SKL-000441,Advanced Docker Security,Cloud & DevOps,Competency in Advanced Docker Security for enterprise applications.,0,5
+SKL-000442,Enterprise Network Security Security,Cybersecurity,Competency in Enterprise Network Security Security for enterprise applications.,0,5
+SKL-000443,Distributed Automated Testing Security,Quality & Architecture,Competency in Distributed Automated Testing Security for enterprise applications.,0,5
+SKL-000444,Strategic Kubernetes Security,Cloud & DevOps,Competency in Strategic Kubernetes Security for enterprise applications.,0,5
+SKL-000445,Operational Application Security Security,Cybersecurity,Competency in Operational Application Security Security for enterprise applications.,0,5
+SKL-000446,Applied Unit Testing Operations,Quality & Architecture,Competency in Applied Unit Testing Operations for enterprise applications.,0,5
+SKL-000447,Distributed AWS Architecture Operations,Cloud & DevOps,Competency in Distributed AWS Architecture Operations for enterprise applications.,0,5
+SKL-000448,Scalable Threat Modeling Operations,Cybersecurity,Competency in Scalable Threat Modeling Operations for enterprise applications.,0,5
+SKL-000449,Core Integration Testing Operations,Quality & Architecture,Competency in Core Integration Testing Operations for enterprise applications.,0,5
+SKL-000450,Applied Google Cloud Platform Practices,Cloud & DevOps,Competency in Applied Google Cloud Platform Practices for enterprise applications.,0,5
+SKL-000451,Modern Penetration Testing Practices,Cybersecurity,Competency in Modern Penetration Testing Practices for enterprise applications.,0,5
+SKL-000452,Advanced Selenium Practices,Quality & Architecture,Competency in Advanced Selenium Practices for enterprise applications.,0,5
+SKL-000453,Core Microsoft Azure Practices,Cloud & DevOps,Competency in Core Microsoft Azure Practices for enterprise applications.,0,5
+SKL-000454,Cloud-Native OWASP Top 10 Practices,Cybersecurity,Competency in Cloud-Native OWASP Top 10 Practices for enterprise applications.,0,5
+SKL-000455,Strategic Cypress Practices,Quality & Architecture,Competency in Strategic Cypress Practices for enterprise applications.,0,5
+SKL-000456,Advanced Terraform Systems,Cloud & DevOps,Competency in Advanced Terraform Systems for enterprise applications.,0,5
+SKL-000457,Enterprise Identity & Access Management (IAM) Systems,Cybersecurity,Competency in Enterprise Identity & Access Management (IAM) Systems for enterprise applications.,0,5
+SKL-000458,Distributed Playwright Systems,Quality & Architecture,Competency in Distributed Playwright Systems for enterprise applications.,0,5
+SKL-000459,Strategic CI/CD Pipelines Systems,Cloud & DevOps,Competency in Strategic CI/CD Pipelines Systems for enterprise applications.,0,5
+SKL-000460,Operational SIEM & SOC Operations Systems,Cybersecurity,Competency in Operational SIEM & SOC Operations Systems for enterprise applications.,0,5
+SKL-000461,Applied Performance Testing & k6 Engineering,Quality & Architecture,Competency in Applied Performance Testing & k6 Engineering for enterprise applications.,0,5
+SKL-000462,Distributed Linux Administration Engineering,Cloud & DevOps,Competency in Distributed Linux Administration Engineering for enterprise applications.,0,5
+SKL-000463,Scalable Cryptography Engineering,Cybersecurity,Competency in Scalable Cryptography Engineering for enterprise applications.,0,5
+SKL-000464,Core Test-Driven Development Engineering,Quality & Architecture,Competency in Core Test-Driven Development Engineering for enterprise applications.,0,5
+SKL-000465,Applied Prometheus & Grafana Architecture,Cloud & DevOps,Competency in Applied Prometheus & Grafana Architecture for enterprise applications.,0,5
+SKL-000466,Modern Incident Response Architecture,Cybersecurity,Competency in Modern Incident Response Architecture for enterprise applications.,0,5
+SKL-000467,Advanced Domain-Driven Design Architecture,Quality & Architecture,Competency in Advanced Domain-Driven Design Architecture for enterprise applications.,0,5
+SKL-000468,Core GitLab CI Architecture,Cloud & DevOps,Competency in Core GitLab CI Architecture for enterprise applications.,0,5
+SKL-000469,Cloud-Native Vulnerability Assessment Architecture,Cybersecurity,Competency in Cloud-Native Vulnerability Assessment Architecture for enterprise applications.,0,5
+SKL-000470,Strategic Design Patterns Architecture,Quality & Architecture,Competency in Strategic Design Patterns Architecture for enterprise applications.,0,5
+SKL-000471,Advanced GitHub Actions Design,Cloud & DevOps,Competency in Advanced GitHub Actions Design for enterprise applications.,0,5
+SKL-000472,Enterprise Cloud Security Posture Design,Cybersecurity,Competency in Enterprise Cloud Security Posture Design for enterprise applications.,0,5
+SKL-000473,Distributed System Architecture Design,Quality & Architecture,Competency in Distributed System Architecture Design for enterprise applications.,0,5
+SKL-000474,Strategic Ansible Design,Cloud & DevOps,Competency in Strategic Ansible Design for enterprise applications.,0,5
+SKL-000475,Operational Zero Trust Architecture Design,Cybersecurity,Competency in Operational Zero Trust Architecture Design for enterprise applications.,0,5
+SKL-000476,Applied High Availability Design Optimization,Quality & Architecture,Competency in Applied High Availability Design Optimization for enterprise applications.,0,5
+SKL-000477,Distributed Helm Charts Optimization,Cloud & DevOps,Competency in Distributed Helm Charts Optimization for enterprise applications.,0,5
+SKL-000478,Scalable SOC 2 & ISO 27001 Optimization,Cybersecurity,Competency in Scalable SOC 2 & ISO 27001 Optimization for enterprise applications.,0,5
+SKL-000479,Core Distributed Systems Optimization,Quality & Architecture,Competency in Core Distributed Systems Optimization for enterprise applications.,0,5
+SKL-000480,Applied Serverless Computing Administration,Cloud & DevOps,Competency in Applied Serverless Computing Administration for enterprise applications.,0,5
+SKL-000481,Modern Compliance Auditing Administration,Cybersecurity,Competency in Modern Compliance Auditing Administration for enterprise applications.,0,5
+SKL-000482,Advanced Fault Tolerance Administration,Quality & Architecture,Competency in Advanced Fault Tolerance Administration for enterprise applications.,0,5
+SKL-000483,Core Service Mesh (Istio) Administration,Cloud & DevOps,Competency in Core Service Mesh (Istio) Administration for enterprise applications.,0,5
+SKL-000484,Cloud-Native Endpoint Detection (EDR) Administration,Cybersecurity,Competency in Cloud-Native Endpoint Detection (EDR) Administration for enterprise applications.,0,5
+SKL-000485,Strategic API Design Administration,Quality & Architecture,Competency in Strategic API Design Administration for enterprise applications.,0,5
+SKL-000486,Advanced Site Reliability Engineering Management,Cloud & DevOps,Competency in Advanced Site Reliability Engineering Management for enterprise applications.,0,5
+SKL-000487,Enterprise Network Security Management,Cybersecurity,Competency in Enterprise Network Security Management for enterprise applications.,0,5
+SKL-000488,Distributed Automated Testing Management,Quality & Architecture,Competency in Distributed Automated Testing Management for enterprise applications.,0,5
+SKL-000489,Strategic Nginx Management,Cloud & DevOps,Competency in Strategic Nginx Management for enterprise applications.,0,5
+SKL-000490,Operational Application Security Management,Cybersecurity,Competency in Operational Application Security Management for enterprise applications.,0,5
+SKL-000491,Applied Unit Testing Security,Quality & Architecture,Competency in Applied Unit Testing Security for enterprise applications.,0,5
+SKL-000492,Distributed Infrastructure as Code Security,Cloud & DevOps,Competency in Distributed Infrastructure as Code Security for enterprise applications.,0,5
+SKL-000493,Scalable Threat Modeling Security,Cybersecurity,Competency in Scalable Threat Modeling Security for enterprise applications.,0,5
+SKL-000494,Core Integration Testing Security,Quality & Architecture,Competency in Core Integration Testing Security for enterprise applications.,0,5
+SKL-000495,Applied Networking Protocols Operations,Cloud & DevOps,Competency in Applied Networking Protocols Operations for enterprise applications.,0,5
+SKL-000496,Modern Penetration Testing Operations,Cybersecurity,Competency in Modern Penetration Testing Operations for enterprise applications.,0,5
+SKL-000497,Advanced Selenium Operations,Quality & Architecture,Competency in Advanced Selenium Operations for enterprise applications.,0,5
+SKL-000498,Core Kafka Operations,Cloud & DevOps,Competency in Core Kafka Operations for enterprise applications.,0,5
+SKL-000499,Cloud-Native OWASP Top 10 Operations,Cybersecurity,Competency in Cloud-Native OWASP Top 10 Operations for enterprise applications.,0,5
+SKL-000500,Strategic Cypress Operations,Quality & Architecture,Competency in Strategic Cypress Operations for enterprise applications.,0,5

@@ -1,0 +1,151 @@
+id,name,email,department,role_id,hire_date,status,created_at,updated_at
+EMP-000001,Erin Riley,erin.riley.1@enterprise.com,Data Science,ROL-000012,2025-12-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000002,Melissa Williams,melissa.williams.2@enterprise.com,Engineering,ROL-000005,2025-07-25,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000003,Madison Hall,madison.hall.3@enterprise.com,Engineering,ROL-000006,2021-12-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000004,Aaron Petersen,aaron.petersen.4@enterprise.com,Data Science,ROL-000010,2025-04-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000005,David Gonzalez,david.gonzalez.5@enterprise.com,Data Science,ROL-000009,2024-03-03,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000006,Kyle Miles,kyle.miles.6@enterprise.com,Cloud Infrastructure,ROL-000014,2023-04-17,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000007,Diane Rodriguez,diane.rodriguez.7@enterprise.com,Cloud Infrastructure,ROL-000013,2021-08-28,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000008,James Hernandez,james.hernandez.8@enterprise.com,Cybersecurity,ROL-000016,2023-02-25,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000009,Darrell Garza,darrell.garza.9@enterprise.com,Cybersecurity,ROL-000017,2022-09-10,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000010,Adam Wilson,adam.wilson.10@enterprise.com,Cloud Infrastructure,ROL-000014,2024-04-13,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000011,Donald Bailey,donald.bailey.11@enterprise.com,Engineering,ROL-000002,2021-07-24,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000012,Brian Bass,brian.bass.12@enterprise.com,Quality Assurance,ROL-000024,2025-05-28,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000013,Eddie Ellis,eddie.ellis.13@enterprise.com,Engineering,ROL-000007,2022-04-05,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000014,Ruth Hart,ruth.hart.14@enterprise.com,Product Management,ROL-000021,2024-01-28,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000015,William Palmer,william.palmer.15@enterprise.com,Data Science,ROL-000011,2024-03-16,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000016,Cody Thompson,cody.thompson.16@enterprise.com,Engineering,ROL-000008,2024-03-25,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000017,Christina Butler,christina.butler.17@enterprise.com,Engineering,ROL-000001,2023-01-19,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000018,Christopher Bryant,christopher.bryant.18@enterprise.com,Product Management,ROL-000020,2021-07-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000019,Kathy Williams,kathy.williams.19@enterprise.com,Engineering,ROL-000003,2023-02-28,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000020,Melissa Bradshaw,melissa.bradshaw.20@enterprise.com,Data Science,ROL-000012,2025-06-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000021,Jared Brown,jared.brown.21@enterprise.com,Engineering,ROL-000005,2024-04-15,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000022,Charles Davis,charles.davis.22@enterprise.com,Engineering,ROL-000002,2024-06-18,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000023,William Smith,william.smith.23@enterprise.com,Engineering,ROL-000003,2025-04-20,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000024,Charles Robinson,charles.robinson.24@enterprise.com,Cybersecurity,ROL-000018,2022-04-11,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000025,Victoria Mendoza,victoria.mendoza.25@enterprise.com,Product Management,ROL-000019,2024-02-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000026,Charles Patel,charles.patel.26@enterprise.com,Engineering,ROL-000005,2024-10-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000027,Katherine Diaz,katherine.diaz.27@enterprise.com,Cloud Infrastructure,ROL-000014,2021-08-17,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000028,Kelsey Watkins,kelsey.watkins.28@enterprise.com,Data Science,ROL-000011,2024-10-18,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000029,Vickie Smith,vickie.smith.29@enterprise.com,Cloud Infrastructure,ROL-000015,2024-09-17,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000030,Timothy Young,timothy.young.30@enterprise.com,Engineering,ROL-000008,2024-12-16,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000031,Anthony Fletcher,anthony.fletcher.31@enterprise.com,Engineering,ROL-000001,2022-04-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000032,Kevin Black,kevin.black.32@enterprise.com,Engineering,ROL-000004,2022-06-05,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000033,Joanna Ortega,joanna.ortega.33@enterprise.com,Cloud Infrastructure,ROL-000015,2022-07-03,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000034,Jessica Vincent,jessica.vincent.34@enterprise.com,Data Science,ROL-000010,2024-02-25,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000035,Taylor Richard,taylor.richard.35@enterprise.com,Cybersecurity,ROL-000016,2024-01-28,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000036,David Barrera,david.barrera.36@enterprise.com,Data Science,ROL-000009,2022-01-19,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000037,Bonnie Williams,bonnie.williams.37@enterprise.com,Data Science,ROL-000012,2023-02-13,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000038,Bradley Wagner,bradley.wagner.38@enterprise.com,Cybersecurity,ROL-000018,2024-10-10,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000039,Alexis Palmer,alexis.palmer.39@enterprise.com,Quality Assurance,ROL-000024,2023-03-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000040,Ryan Stevens,ryan.stevens.40@enterprise.com,Data Science,ROL-000009,2025-04-11,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000041,Matthew Harris,matthew.harris.41@enterprise.com,Data Science,ROL-000012,2023-07-09,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000042,Valerie Davidson,valerie.davidson.42@enterprise.com,Engineering,ROL-000001,2023-02-13,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000043,Carrie Vance,carrie.vance.43@enterprise.com,Cloud Infrastructure,ROL-000013,2021-06-19,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000044,Ellen Hardy,ellen.hardy.44@enterprise.com,Cloud Infrastructure,ROL-000014,2021-06-10,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000045,Sara Ramirez,sara.ramirez.45@enterprise.com,Engineering,ROL-000005,2025-05-02,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000046,Elizabeth Scott,elizabeth.scott.46@enterprise.com,Engineering,ROL-000006,2025-02-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000047,Xavier Sanders,xavier.sanders.47@enterprise.com,Cybersecurity,ROL-000016,2021-06-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000048,Laura Roth,laura.roth.48@enterprise.com,Data Science,ROL-000011,2024-12-02,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000049,Michael Navarro,michael.navarro.49@enterprise.com,Product Management,ROL-000019,2022-02-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000050,Mary Thompson,mary.thompson.50@enterprise.com,Data Science,ROL-000012,2023-07-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000051,Walter Owens,walter.owens.51@enterprise.com,Engineering,ROL-000003,2024-02-11,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000052,Kelly Hernandez,kelly.hernandez.52@enterprise.com,Data Science,ROL-000012,2023-03-18,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000053,Wendy Johnson,wendy.johnson.53@enterprise.com,Cybersecurity,ROL-000016,2025-02-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000054,Danielle Best,danielle.best.54@enterprise.com,Cybersecurity,ROL-000016,2025-11-12,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000055,Michele Holt,michele.holt.55@enterprise.com,Engineering,ROL-000008,2021-06-26,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000056,Joseph Fritz,joseph.fritz.56@enterprise.com,Cybersecurity,ROL-000017,2024-02-24,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000057,Katherine Dixon,katherine.dixon.57@enterprise.com,Data Science,ROL-000012,2023-06-28,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000058,Mary Martinez,mary.martinez.58@enterprise.com,Engineering,ROL-000002,2021-12-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000059,Kara Gould,kara.gould.59@enterprise.com,Cybersecurity,ROL-000018,2022-12-03,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000060,Ryan Mcintosh,ryan.mcintosh.60@enterprise.com,Engineering,ROL-000007,2024-11-03,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000061,Anna Hernandez,anna.hernandez.61@enterprise.com,Data Science,ROL-000012,2022-12-17,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000062,John Knight,john.knight.62@enterprise.com,Quality Assurance,ROL-000022,2022-07-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000063,Andrew Reynolds,andrew.reynolds.63@enterprise.com,Engineering,ROL-000006,2025-06-03,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000064,Barbara Davis,barbara.davis.64@enterprise.com,Data Science,ROL-000010,2025-10-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000065,Richard Drake,richard.drake.65@enterprise.com,Data Science,ROL-000010,2021-01-09,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000066,Lawrence Mcdowell,lawrence.mcdowell.66@enterprise.com,Data Science,ROL-000011,2024-03-11,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000067,Catherine Gonzalez,catherine.gonzalez.67@enterprise.com,Data Science,ROL-000009,2025-09-04,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000068,Jessica Ball,jessica.ball.68@enterprise.com,Cloud Infrastructure,ROL-000013,2022-09-05,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000069,Nicolas Schmidt,nicolas.schmidt.69@enterprise.com,Quality Assurance,ROL-000023,2023-09-04,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000070,Bryan Lawson,bryan.lawson.70@enterprise.com,Data Science,ROL-000010,2025-11-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000071,Eric Henry,eric.henry.71@enterprise.com,Cybersecurity,ROL-000017,2025-10-26,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000072,James Powell,james.powell.72@enterprise.com,Cybersecurity,ROL-000016,2024-12-12,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000073,Caleb Moyer,caleb.moyer.73@enterprise.com,Engineering,ROL-000002,2023-04-24,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000074,Thomas Hickman,thomas.hickman.74@enterprise.com,Cloud Infrastructure,ROL-000014,2025-02-25,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000075,Nicole Powell,nicole.powell.75@enterprise.com,Data Science,ROL-000010,2025-04-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000076,Roger Lopez,roger.lopez.76@enterprise.com,Engineering,ROL-000007,2022-03-05,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000077,Joy Cook,joy.cook.77@enterprise.com,Engineering,ROL-000001,2022-06-10,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000078,Veronica Cain,veronica.cain.78@enterprise.com,Product Management,ROL-000020,2021-05-02,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000079,Brent Valdez,brent.valdez.79@enterprise.com,Engineering,ROL-000007,2022-09-26,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000080,Shawn Walker,shawn.walker.80@enterprise.com,Engineering,ROL-000007,2023-11-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000081,David Mitchell,david.mitchell.81@enterprise.com,Quality Assurance,ROL-000022,2021-08-25,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000082,Gregory Mendoza,gregory.mendoza.82@enterprise.com,Engineering,ROL-000004,2021-08-13,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000083,Ronald Foster,ronald.foster.83@enterprise.com,Cybersecurity,ROL-000016,2023-11-15,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000084,Bryan Walker,bryan.walker.84@enterprise.com,Engineering,ROL-000003,2024-08-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000085,Donald Petty,donald.petty.85@enterprise.com,Data Science,ROL-000011,2023-01-17,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000086,Jeffrey Dixon,jeffrey.dixon.86@enterprise.com,Quality Assurance,ROL-000024,2023-06-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000087,Steve Jones,steve.jones.87@enterprise.com,Engineering,ROL-000001,2022-08-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000088,William Duncan,william.duncan.88@enterprise.com,Engineering,ROL-000006,2025-08-05,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000089,Pamela Pineda,pamela.pineda.89@enterprise.com,Cloud Infrastructure,ROL-000014,2024-12-12,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000090,Mary Jones,mary.jones.90@enterprise.com,Quality Assurance,ROL-000022,2024-06-19,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000091,Emily Hardin,emily.hardin.91@enterprise.com,Cybersecurity,ROL-000018,2025-10-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000092,Benjamin Miranda,benjamin.miranda.92@enterprise.com,Cloud Infrastructure,ROL-000014,2025-04-15,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000093,Angela Keller,angela.keller.93@enterprise.com,Cloud Infrastructure,ROL-000013,2025-04-17,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000094,Gina Martin,gina.martin.94@enterprise.com,Quality Assurance,ROL-000022,2021-09-14,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000095,Matthew Nicholson,matthew.nicholson.95@enterprise.com,Cloud Infrastructure,ROL-000013,2021-04-12,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000096,April Brewer,april.brewer.96@enterprise.com,Engineering,ROL-000004,2021-02-03,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000097,Susan Ponce,susan.ponce.97@enterprise.com,Quality Assurance,ROL-000024,2024-02-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000098,Bill Arnold,bill.arnold.98@enterprise.com,Cloud Infrastructure,ROL-000015,2021-01-16,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000099,Joseph Torres,joseph.torres.99@enterprise.com,Engineering,ROL-000007,2025-08-26,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000100,Justin Kelly,justin.kelly.100@enterprise.com,Engineering,ROL-000008,2022-03-15,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000101,Calvin Anderson,calvin.anderson.101@enterprise.com,Cloud Infrastructure,ROL-000015,2023-03-20,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000102,Christina Ibarra,christina.ibarra.102@enterprise.com,Cloud Infrastructure,ROL-000015,2021-06-14,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000103,Ronald White,ronald.white.103@enterprise.com,Engineering,ROL-000007,2023-05-26,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000104,Shannon Golden,shannon.golden.104@enterprise.com,Cybersecurity,ROL-000017,2023-10-21,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000105,Louis Harris,louis.harris.105@enterprise.com,Engineering,ROL-000006,2023-02-20,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000106,Tammy Golden,tammy.golden.106@enterprise.com,Data Science,ROL-000011,2025-10-05,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000107,Anthony Sutton,anthony.sutton.107@enterprise.com,Cloud Infrastructure,ROL-000014,2025-07-16,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000108,David Reed,david.reed.108@enterprise.com,Product Management,ROL-000019,2022-09-13,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000109,Michael Bailey,michael.bailey.109@enterprise.com,Engineering,ROL-000007,2021-04-18,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000110,Madison Morgan,madison.morgan.110@enterprise.com,Cybersecurity,ROL-000018,2025-06-21,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000111,James Webb,james.webb.111@enterprise.com,Engineering,ROL-000003,2024-03-19,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000112,Ashley George,ashley.george.112@enterprise.com,Engineering,ROL-000007,2025-03-22,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000113,Veronica Martinez,veronica.martinez.113@enterprise.com,Engineering,ROL-000004,2025-09-27,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000114,Christine Chen,christine.chen.114@enterprise.com,Engineering,ROL-000001,2021-10-18,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000115,Karen Smith,karen.smith.115@enterprise.com,Data Science,ROL-000010,2023-08-20,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000116,Kristine Wilson,kristine.wilson.116@enterprise.com,Cloud Infrastructure,ROL-000015,2024-08-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000117,Mason Campbell,mason.campbell.117@enterprise.com,Cybersecurity,ROL-000017,2024-07-13,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000118,Ryan Lambert,ryan.lambert.118@enterprise.com,Cloud Infrastructure,ROL-000014,2021-04-28,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000119,Oscar Johnson,oscar.johnson.119@enterprise.com,Engineering,ROL-000001,2022-10-03,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000120,Danny Warren,danny.warren.120@enterprise.com,Data Science,ROL-000011,2021-01-11,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000121,Emily Burke,emily.burke.121@enterprise.com,Quality Assurance,ROL-000024,2022-11-02,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000122,Duane Wolf,duane.wolf.122@enterprise.com,Cybersecurity,ROL-000018,2025-01-06,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000123,Michael Ramirez,michael.ramirez.123@enterprise.com,Engineering,ROL-000008,2023-05-02,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000124,Jordan Burgess,jordan.burgess.124@enterprise.com,Engineering,ROL-000002,2024-08-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000125,Autumn Lawrence,autumn.lawrence.125@enterprise.com,Quality Assurance,ROL-000023,2025-04-19,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000126,Angela Stanton,angela.stanton.126@enterprise.com,Engineering,ROL-000003,2024-01-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000127,Kristie Smith,kristie.smith.127@enterprise.com,Quality Assurance,ROL-000024,2025-09-04,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000128,Daniel Horn,daniel.horn.128@enterprise.com,Engineering,ROL-000004,2022-08-18,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000129,Billy Dawson,billy.dawson.129@enterprise.com,Cybersecurity,ROL-000016,2021-03-08,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000130,Kevin Morris,kevin.morris.130@enterprise.com,Engineering,ROL-000002,2025-01-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000131,Nicholas Brown,nicholas.brown.131@enterprise.com,Engineering,ROL-000008,2021-07-17,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000132,Lauren Johns,lauren.johns.132@enterprise.com,Engineering,ROL-000007,2025-05-07,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000133,Brendan Bell,brendan.bell.133@enterprise.com,Quality Assurance,ROL-000024,2021-05-12,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000134,Heather Alvarado,heather.alvarado.134@enterprise.com,Engineering,ROL-000001,2025-04-16,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000135,Michael Hopkins,michael.hopkins.135@enterprise.com,Engineering,ROL-000008,2021-05-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000136,Jennifer Johnson,jennifer.johnson.136@enterprise.com,Engineering,ROL-000001,2021-06-19,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000137,Catherine Ramirez,catherine.ramirez.137@enterprise.com,Cybersecurity,ROL-000016,2025-01-04,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000138,Jason Chan,jason.chan.138@enterprise.com,Cloud Infrastructure,ROL-000015,2021-07-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000139,Kyle Brown,kyle.brown.139@enterprise.com,Product Management,ROL-000019,2025-09-18,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000140,Raymond Brown,raymond.brown.140@enterprise.com,Engineering,ROL-000006,2024-08-02,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000141,Michele Martin,michele.martin.141@enterprise.com,Engineering,ROL-000008,2025-09-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000142,Rebecca Huang,rebecca.huang.142@enterprise.com,Quality Assurance,ROL-000023,2022-07-27,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000143,Jo Hall,jo.hall.143@enterprise.com,Cloud Infrastructure,ROL-000014,2022-05-23,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000144,Nicole Humphrey,nicole.humphrey.144@enterprise.com,Data Science,ROL-000009,2021-04-26,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000145,Kaitlyn Mason,kaitlyn.mason.145@enterprise.com,Engineering,ROL-000008,2022-07-08,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000146,Bruce Reid,bruce.reid.146@enterprise.com,Product Management,ROL-000021,2025-04-01,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000147,Leslie Cook,leslie.cook.147@enterprise.com,Engineering,ROL-000005,2023-04-20,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000148,Michael Jackson,michael.jackson.148@enterprise.com,Data Science,ROL-000012,2025-12-24,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000149,Rose Willis,rose.willis.149@enterprise.com,Cybersecurity,ROL-000017,2024-09-14,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
+EMP-000150,Jeremy Mccormick,jeremy.mccormick.150@enterprise.com,Quality Assurance,ROL-000024,2021-12-21,ACTIVE,2026-01-01 08:00:00,2026-01-01 08:00:00
