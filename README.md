@@ -132,8 +132,8 @@ flowchart TD
 ### 4.2 Clone and Setup Environment
 ```bash
 # Clone the repository
-git clone https://github.com/organization/skillpath-ai.git
-cd skillpath-ai
+git clone https://github.com/dinesh548/Skill-Path-AI.git
+cd Skill-Path-AI
 
 # Create and activate Python virtual environment
 python -m venv venv
